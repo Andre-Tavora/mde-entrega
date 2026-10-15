@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+# dado proprietario: repositorio publico
+data/raw/questoes.jsonl
+data/raw/questoes.txt
+data/processed/questoes_limpas.jsonl
