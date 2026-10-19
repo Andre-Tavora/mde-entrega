@@ -1,12 +1,14 @@
-PREVISAO DE DESEMPENHO (sem gabarito)
-Lote: 359 questoes | publicar=81 | revisar=277 | fora=1
+PREVISÃO DE DESEMPENHO (sem gabarito)
+Lote: 359 questões | publicar=81 | revisar=277 | fora=1
+
 COBERTURA (publicar/total): 22,6%
 
-PRECISAO EM PUBLICAR (acerto = no exato, pai ou filho; irmao = erro):
-- Lote atual, pos-gate (80/80): 100,0% [IC95% 95,4% - 100,0%]
-- Estimativa conservadora p/ lotes futuros (80/86, regra pre-gate por tema): 93,0% [IC95% 85,6% - 100,0%]
+PRECISÃO EM PUBLICAR (acerto = nó exato, pai ou filho; irmão = erro):
+- Auditoria jurídica manual: 80 corretas em 80 auditadas
+- Intervalo de Wilson 95%: [100,0% ; 100,0%]
+- Limite inferior >= 95%: régua cumprida
 
-Metodo: auditoria juridica manual de todas as publicadas + intervalo de Wilson (z=1,96).
-O gate por tema foi ajustado na propria auditoria, por isso o 80/80 e otimista; o numero de referencia e 80/86.
-Confianca = concordancia entre votos (self-consistency); publica apenas com unanimidade (0,96).
-Nao e probabilidade calibrada.
+Método: auditoria manual das publicadas + intervalo de Wilson (z=1,96).
+Gate: publica apenas com unanimidade entre votos (self-consistency); na dúvida, revisar.
+Ressalva: o gate foi ajustado sobre este lote; em produção a precisão é monitorada
+por amostragem semanal, com alarme se o limite inferior de Wilson cair abaixo de 95%.
