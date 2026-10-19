@@ -1,16 +1,3 @@
-# Case VDE: Classificação de Tópicos Jurídicos
-
-Classifica 359 questões de concurso (Penal, Processo Penal, Legislação Especial e Criminologia) na árvore de 377 temas do Método VDE e decide, para cada uma, entre **publicar**, **revisar** ou **fora**.
-
-**Regra que guia tudo:** das questões publicadas, pelo menos 95% precisam estar certas. Errar em "publicar" é o pior cenário; na dúvida, a questão vai para revisão do professor.
-
-## Resultado
-
-| Decisão | Questões | % |
-|---|---|---|
-| Publicar | 81 | 22,6% |
-| Revisar | 277 | |
-| Fora | 1 | |
 
 - **Precisão em publicar:** 81/81 auditadas corretas; limite inferior Wilson IC95% = **95,5%** (≥ 95%).
 - **Critério de acerto:** nó exato, pai ou filho = acerto; subtema irmão = erro; nível 0 (só a disciplina) = erro.
@@ -63,6 +50,22 @@ Os demais scripts em `scripts/` e `src/pipeline/` (prefixos `00_` e `03a`–`03m
 - **Custo:** US$ 0,40 | **Tempo:** ~25 min
 - **Tokens:** input 300.867 | cache read 5.054.844 | output 200.263
 
+## Arquitetura 
+mde-entrega/
+├── src/pipeline/
+│   ├── 02_classificacao_llm.py   # classificação com LLM
+│   └── gating.py                 # decisão publicar/revisar/fora
+├── data/
+│   ├── raw/                      # questoes.jsonl, temas.csv
+│   ├── processed/                # questoes_limpas.jsonl
+│   ├── raw_predictions/          # claude_results*.jsonl
+│   └── gold/                     # auditorias
+├── entrega/
+│   ├── publicacao.csv
+│   └── previsao.txt
+├── output/relatorio/relatorio.md
+└── auditoria_extra.csv
+
 ## Decisões manuais
 
 - Temas inativos excluídos dos candidatos (regra do edital).
@@ -78,3 +81,11 @@ Chave da API apenas em variável de ambiente / `.env` (no `.gitignore`). Dados o
 Para `publicar` e `fora`, `confianca` = **precisão calibrada do grupo** (0,96), estimada pela auditoria 81/81 (limite inferior de Wilson 95% >= 95,5%). Não é score individual do modelo. Para `revisar`, é o score bruto do classificador (0,30 a 0,96). As 6 questões com 0,96 em `revisar` foram barradas pelo gate por tema (tema com erro na auditoria), não por confiança baixa.
 
 **Evidência da auditoria:** `output/relatorio/auditoria_extra.csv` traz a revisão manual, questão a questão, que sustenta a precisão estimada em `previsao.txt`.
+
+Observações
+
+O intervalo vale para este lote de 359 questões. Em produção, a precisão precisa ser monitorada com amostragem contínua.
+O limite inferior de 95,4% fica perto da régua. Um único erro em 80 já derrubaria o Wilson para cerca de 93%. Por isso o corte de confiança é conservador.
+A cobertura de 22,3% foi uma escolha deliberada: o case penaliza erro em publicar mais do que volume em revisar.
+
+
