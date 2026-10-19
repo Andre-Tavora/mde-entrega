@@ -84,19 +84,42 @@ Para `publicar` e `fora`, `confianca` = **precisão calibrada do grupo** (0,96),
 **Evidência da auditoria:** `output/relatorio/auditoria_extra.csv` traz a revisão manual, questão a questão, que sustenta a precisão estimada em `previsao.txt`.
 
 ##Implementações futuras: deploy e monitoramento
+Implementações futuras
 Deploy (escala de 50 mil questões/semana)
-Processamento em lote: usar a Message Batches API da Anthropic (cerca de 50% mais barata que chamadas síncronas), somada ao cache da árvore no prompt.
-Orquestração: fila (SQS, Pub/Sub ou Redis) → workers em contêiner Docker → gravação idempotente por id_questao, com retomada automática, como o script atual já faz.
-Agendamento: job semanal (cron, Airflow ou GitHub Actions) que ingere o lote, classifica, aplica o gating e exporta publicacao.csv.
-Versionamento: registrar em cada predição a versão do modelo, do prompt, da árvore e dos thresholds, para permitir rollback e comparação.
-Pré-filtro barato (opcional): retrieval por embeddings para reduzir a árvore aos top-K candidatos antes do LLM, o que diminui tokens e custo.
+Processamento em lote
+
+Usar a Message Batches API da Anthropic, cerca de 50% mais barata que as chamadas síncronas, junto com o cache da árvore no prompt.
+
+Orquestração
+Fila (SQS, Pub/Sub ou Redis) → workers em contêiner Docker → gravação idempotente por id_questao, com retomada automática, como o script atual já faz.
+
+Agendamento
+Job semanal (cron, Airflow ou GitHub Actions) que recebe o lote, classifica, aplica o gating e exporta o publicacao.csv.
+
+Versionamento
+Cada predição registra a versão do modelo, do prompt, da árvore e dos thresholds. Isso permite rollback e comparação entre versões.
+
+Pré-filtro barato (opcional)
+Retrieval por embeddings para reduzir a árvore aos top-K candidatos antes do LLM. Isso diminui tokens e custo.
+
 Monitoramento
-Auditoria amostral contínua: sortear semanalmente uma amostra estratificada das publicadas para revisão humana e recalcular o limite inferior de Wilson. Alerta se ficar abaixo de 95%.
-Fila revisar como gold set: cada correção do professor vira rótulo, usado para recalibrar os thresholds e medir a precisão por disciplina.
-Detecção de drift: acompanhar a distribuição de temas, a taxa de fora, a taxa de revisar e a confiança média. Mudanças bruscas indicam banca nova, alteração legislativa ou árvore desatualizada.
-Saúde operacional: taxa de respostas inválidas, erros e rate limit da API, latência, tokens e custo por questão, exibidos em um dashboard simples.
-Mudança na taxonomia: ao alterar o temas.csv, reclassificar apenas as questões ligadas aos nós afetados e reauditar uma amostra.
-Feedback do aluno: botão "tema incorreto" nas questões publicadas, alimentando a fila de revisão.
+Auditoria amostral contínua
+Toda semana, sortear uma amostra estratificada das publicadas para revisão humana e recalcular o limite inferior de Wilson. Disparar alerta se ficar abaixo de 95%.
+
+Fila revisar como gold set
+Cada correção do professor vira um rótulo. Esses rótulos servem para recalibrar os thresholds e medir a precisão por disciplina.
+
+Detecção de drift
+Acompanhar a distribuição de temas, a taxa de fora, a taxa de revisar e a confiança média. Mudanças bruscas indicam banca nova, alteração legislativa ou árvore desatualizada.
+
+Saúde operacional
+Taxa de respostas inválidas, erros e rate limit da API, latência, tokens e custo por questão, tudo em um dashboard simples.
+
+Mudança na taxonomia
+Quando o temas.csv mudar, reclassificar só as questões ligadas aos nós afetados e reauditar uma amostra.
+
+Feedback do aluno
+Botão "tema incorreto" nas questões publicadas, que manda a questão para a fila de revisão.
 
 # Observações Fundamentais
 
