@@ -1,65 +1,76 @@
-# Case VDE - Classificacao de Topicos
+# Case VDE: Classificação de Tópicos Jurídicos
 
-## Reproduzir (PowerShell)
+Classifica 359 questões de concurso (Penal, Processo Penal, Legislação Especial e Criminologia) na árvore de 377 temas do Método VDE e decide, para cada uma, entre **publicar**, **revisar** ou **fora**.
+
+**Regra que guia tudo:** das questões publicadas, pelo menos 95% precisam estar certas. Errar em "publicar" é o pior cenário; na dúvida, a questão vai para revisão do professor.
+
+## Resultado
+
+| Decisão | Questões | % |
+|---|---|---|
+| Publicar | 81 | 22,6% |
+| Revisar | 277 | |
+| Fora | 1 | |
+
+- **Precisão em publicar:** 80 corretas em 80 auditadas manualmente. Wilson 95%: 100,0% a 100,0%.
+- **Critério de acerto:** nó exato, pai ou filho = acerto; subtema irmão = erro; nível 0 (só a disciplina) = erro.
+
+## Como funciona
+
+1. **Limpeza:** remove HTML e monta o texto com enunciado + alternativas primeiro; o comando entra só como apoio (às vezes não bate com o item).
+2. **Classificação:** o LLM recebe a árvore ativa inteira no prompt (com prompt caching) e responde via Tool Use em formato estruturado: tema, extras, escopo e confiança (1 a 5).
+3. **Validação:** IDs precisam existir, estar ativos e ter nível ≥ 1. Temas inativos (5078, 5234) são bloqueados.
+4. **Gating:** só publica com unanimidade entre os votos. Homônimos Penal × Leg. Especial, nós "Parte N", nível 0 e baixa confiança vão para revisar.
+5. **Auditoria:** revisão jurídica manual das publicadas + intervalo de Wilson para estimar a precisão sem gabarito.
+
+## Hipóteses descartadas
+
+- **Retrieval por embedding (top-K):** a árvore cabe no prompt; o retrieval poderia descartar o ramo certo.
+- **Classificação nível a nível:** o erro na disciplina se propaga.
+- **Confiança autodeclarada do LLM:** não é calibrada; substituída por concordância entre votos + auditoria.
+- **`assunto_origem` como gabarito:** rótulos incompletos e fragmentados.
+
+## Entregáveis
+
+| Arquivo | Conteúdo |
+|---|---|
+| `entrega/publicacao.csv` | `id,decisao,tema_central_id,extras_ids,confianca,motivo` |
+| `entrega/previsao.txt` | Precisão e cobertura previstas, com intervalo |
+| `entrega/relatorio.md` | Raciocínio, diagnóstico, produção (50k/semana) e memo ao professor |
+
+## Como reproduzir (PowerShell)
+
+Os dados originais são proprietários e **não estão no repositório**. Coloque `questoes.jsonl` e `temas.csv` em `data/raw/`.
+
 ```powershell
 python -m venv .venv; .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
-$env:ANTHROPIC_API_KEY="..."
-$env:ANTHROPIC_MODEL="claude-haiku-5-5"
-python .\fix_previsao.py
-python .\hiper.py
-python .\scripts\auditar.py
-python .\scripts\build_audit_sample.py
-python .\scripts\calibrar.py
-python .\scripts\check_inactive.py
-python .\scripts\check_nivel0.py
-python .\scripts\dedup_predictions.py
-python .\scripts\gerar_previsao.py
-python .\src\data\clean_questions.py
+$env:ANTHROPIC_API_KEY = "sua_chave"
 python .\src\data\parse_taxonomia.py
+python .\src\data\clean_questions.py
 python .\src\data\profile_data.py
-python .\src\pipeline\00_achar_auditoria.py
-python .\src\pipeline\00_auditar_llm.py
-python .\src\pipeline\00_auditar_terminal.py
-python .\src\pipeline\00_diag_lote2.py
-python .\src\pipeline\00_merge_auditorias.py
-python .\src\pipeline\00_merge_lote2.py
-python .\src\pipeline\00_sortear_lote2.py
-python .\src\pipeline\00_validar_auditorias.py
-python .\src\pipeline\00b_check_campos.py
 python .\src\pipeline\02_classificacao_llm.py
-python .\src\pipeline\02b_comite_haiku.py
 python .\src\pipeline\02c_comite_haiku_v2.py
-python .\src\pipeline\02d_normaliza_campos.py
 python .\src\pipeline\03_gating.py
-python .\src\pipeline\03a_sanidade.py
-python .\src\pipeline\03b_diag_discordancia.py
-python .\src\pipeline\03b_disciplina.py
-python .\src\pipeline\03c_flags_disciplina.py
-python .\src\pipeline\03d_ids_invalidos.py
-python .\src\pipeline\03e_inspeciona.py
-python .\src\pipeline\03f_duplicados.py
-python .\src\pipeline\03g_impacto_dup.py
-python .\src\pipeline\03h_relacao_origem.py
-python .\src\pipeline\03i_auditoria.py
-python .\src\pipeline\03j_resultado_auditoria.py
-python .\src\pipeline\03k_texto_auditoria.py
-python .\src\pipeline\03l_check_veredito.py
-python .\src\pipeline\03m_normaliza_veredito.py
 python .\src\pipeline\04_previsao.py
-python .\src\pipeline\gating.py
-python .\src\pipeline\listar_modelos.py
-python .\src\pipeline\schema.py
-python .\wilson.py
 ```
 
-## Entregaveis
-- entrega/publicacao.csv
-- entrega/previsao.txt
-- entrega/relatorio.md
+Os demais scripts em `scripts/` e `src/pipeline/` (prefixos `00_` e `03a`–`03m`) são diagnósticos e apoio à auditoria; não são necessários para gerar o `publicacao.csv`.
 
-## Execucao
-- Modelo: claude-haiku-5-5 | Roteamento: sem embedding: arvore ativa completa no system prompt (prompt caching)
-- Custo: US$ 0,40 | Tempo: 25 min | Tokens: input=300867 | cache_read=5054844 | output=200263
-- Resultado: publicar=81, revisar=277, fora=1 | cobertura=22,6%
-- Precisao (conservadora): 93,0% [IC95% 85,6% - 100,0%]
+## Execução, custo e tempo
+
+- **Modelo:** claude-haiku-5-5, temperatura 0, prompt caching
+- **Custo:** US$ 0,40 | **Tempo:** ~25 min
+- **Tokens:** input 300.867 | cache read 5.054.844 | output 200.263
+
+## Decisões manuais
+
+- Temas inativos excluídos dos candidatos (regra do edital).
+- Nível 0 nunca publicado (esclarecimento da Carla, 15/10).
+- Homônimos e nós "Parte N" enviados para revisão.
+- `disciplina_origem` e `comando` usados só como dica fraca.
+- Auditoria jurídica manual de todas as publicadas.
+
+## Segurança
+
+Chave da API apenas em variável de ambiente / `.env` (no `.gitignore`). Dados originais fora do Git. O texto da questão é tratado como dado, não instrução (defesa contra prompt injection).
