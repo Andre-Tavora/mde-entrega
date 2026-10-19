@@ -4,8 +4,8 @@ Lote: 359 questões | publicar=81 | revisar=277 | fora=1
 COBERTURA (publicar/total): 22,6%
 
 PRECISÃO EM PUBLICAR (acerto = nó exato, pai ou filho; irmão = erro):
-- Auditoria jurídica manual: 80 corretas em 80 auditadas
-- Intervalo de Wilson 95%: [95,4% ; 100,0%]
+- Auditoria jurídica manual: 81 corretas em 81 auditadas
+- Intervalo de Wilson 95%: [95,5% ; 100,0%]
 - Limite inferior >= 95%: régua cumprida
 
 Método: auditoria manual das publicadas + intervalo de Wilson (z=1,96).
