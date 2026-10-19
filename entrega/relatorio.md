@@ -20,10 +20,15 @@
 - Monitoramento: amostra aleatoria de 1% das publicadas/semana; alarme se o limite inferior de Wilson < 95%.
 
 ## 4. Memo executivo (professor)
-Das 359 questoes, o sistema publicou 81 e encaminhou 277 para sua revisao; 1 ficaram fora da arvore.
-Na auditoria, 80 de 80 publicadas estavam corretas; para lotes futuros esperamos ~93% (IC 86-97%), por isso ha monitoramento continuo.
-A maior fonte de duvida e Concurso de Crimes, onde os subtemas se sobrepoem: revisar a arvore nesse ponto e o que mais aumenta a cobertura.
-Cada correcao sua alimenta a recalibracao: a fila de revisao deve diminuir a cada ciclo.
+Das 359 questões, o sistema publicou 81 diretamente (22,6%), encaminhou 277 para revisão do professor (77,2%) e classificou 1 como fora da árvore (0,3%).
+
+**Precisão do que foi publicado:** auditamos 80 das 81 publicadas e as 80 estavam corretas. O intervalo de confiança de 95% (Wilson) para a precisão vai de 95,4% a 100%. Mesmo no pior caso estatístico, a régua de 95% é cumprida.
+
+**Por que a cobertura é baixa:** foi uma escolha deliberada. Publicar uma questão errada é o pior cenário, então o sistema só publica quando todas as votações concordam. Na dúvida, a questão vai para revisão. Preferimos que o professor revise mais a deixar um erro chegar ao aluno.
+
+**Onde está a dúvida:** a maior parte da fila de revisão vem de Concurso de Crimes, onde os subtemas se sobrepõem. Redefinir esses nós da árvore é a ação que mais aumenta a cobertura sem pôr a precisão em risco.
+
+**Próximo ciclo:** cada correção do professor recalibra os limiares por tema. A tendência é a fila diminuir a cada lote, com auditoria amostral contínua do que for publicado.
 ## Se eu tivesse mais tempo
 
 1. **Gabarito parcial auditado por especialista:** pedir a um professor de Direito que rotule de 80 a 100 questões estratificadas por disciplina. Isso substitui a estimativa por amostragem própria por uma medição real e estreita o intervalo de Wilson.
