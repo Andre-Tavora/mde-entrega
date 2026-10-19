@@ -22,7 +22,7 @@
 ## 4. Memo executivo (professor)
 Das 359 questões, o sistema publicou 81 diretamente (22,6%), encaminhou 277 para revisão do professor (77,2%) e classificou 1 como fora da árvore (0,3%).
 
-**Precisão do que foi publicado:** auditamos 80 das 81 publicadas e as 80 auditadas estavam corretas. O intervalo de confiança de 95% (Wilson) para a precisão vai de 100,0% a 100,0%. Mesmo no pior caso estatístico, a régua de 95% é cumprida.
+**Precisão do que foi publicado:** auditamos 80 das 81 publicadas e as 80 auditadas estavam corretas. O intervalo de confiança de 95% (Wilson) para a precisão vai de 95,4% a 100,0%. Mesmo no pior caso estatístico, a régua de 95% é cumprida.
 
 **Por que a cobertura é baixa:** foi uma escolha deliberada. Publicar uma questão errada é o pior cenário, então o sistema só publica quando todas as votações concordam. Na dúvida, a questão vai para revisão. Preferimos que o professor revise mais a deixar um erro chegar ao aluno.
 
