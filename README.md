@@ -1,4 +1,5 @@
-
+##O que este projeto faz
+Classifica automaticamente 359 questões de concurso de Direito Penal, Processo Penal, Legislação Especial e Criminologia nos 377 temas da árvore temas.csv (disciplina → tema → subtema). Para cada questão, o sistema decide uma de três saídas:
 - **Precisão em publicar:** 81/81 auditadas corretas; limite inferior Wilson IC95% = **95,5%** (≥ 95%).
 - **Critério de acerto:** nó exato, pai ou filho = acerto; subtema irmão = erro; nível 0 (só a disciplina) = erro.
 
@@ -82,7 +83,22 @@ Para `publicar` e `fora`, `confianca` = **precisão calibrada do grupo** (0,96),
 
 **Evidência da auditoria:** `output/relatorio/auditoria_extra.csv` traz a revisão manual, questão a questão, que sustenta a precisão estimada em `previsao.txt`.
 
-Observações
+##Implementações futuras: deploy e monitoramento
+Deploy (escala de 50 mil questões/semana)
+Processamento em lote: usar a Message Batches API da Anthropic (cerca de 50% mais barata que chamadas síncronas), somada ao cache da árvore no prompt.
+Orquestração: fila (SQS, Pub/Sub ou Redis) → workers em contêiner Docker → gravação idempotente por id_questao, com retomada automática, como o script atual já faz.
+Agendamento: job semanal (cron, Airflow ou GitHub Actions) que ingere o lote, classifica, aplica o gating e exporta publicacao.csv.
+Versionamento: registrar em cada predição a versão do modelo, do prompt, da árvore e dos thresholds, para permitir rollback e comparação.
+Pré-filtro barato (opcional): retrieval por embeddings para reduzir a árvore aos top-K candidatos antes do LLM, o que diminui tokens e custo.
+Monitoramento
+Auditoria amostral contínua: sortear semanalmente uma amostra estratificada das publicadas para revisão humana e recalcular o limite inferior de Wilson. Alerta se ficar abaixo de 95%.
+Fila revisar como gold set: cada correção do professor vira rótulo, usado para recalibrar os thresholds e medir a precisão por disciplina.
+Detecção de drift: acompanhar a distribuição de temas, a taxa de fora, a taxa de revisar e a confiança média. Mudanças bruscas indicam banca nova, alteração legislativa ou árvore desatualizada.
+Saúde operacional: taxa de respostas inválidas, erros e rate limit da API, latência, tokens e custo por questão, exibidos em um dashboard simples.
+Mudança na taxonomia: ao alterar o temas.csv, reclassificar apenas as questões ligadas aos nós afetados e reauditar uma amostra.
+Feedback do aluno: botão "tema incorreto" nas questões publicadas, alimentando a fila de revisão.
+
+# Observações Fundamentais
 
 O intervalo vale para este lote de 359 questões. Em produção, a precisão precisa ser monitorada com amostragem contínua.
 O limite inferior de 95,4% fica perto da régua. Um único erro em 80 já derrubaria o Wilson para cerca de 93%. Por isso o corte de confiança é conservador.
