@@ -1,0 +1,90 @@
+﻿### Q0262 | conf=4
+ENUN: Sobre a superveniência de doença mental ao apenado na fase de execução de pena, é correto afirmar:
+ALT: A : Sobrevinda doença mental ao réu depois da sentença condenatória, haja vista exceção expressa no CPP, pode ser decretada pelo juízo da causa, ao constatar a enfermidade do apenado em oitiva, a sua remoção provisória para hospital de custódia e tratamento psiquiátrico, sem prejuízo de revisão da decisão judicial em sede de recurso, pendente de exame. B : Pela Lei de Execução Penal, atestada em perícia médica o leve grau da enfermidade do apenado, mesmo não tendo sido feita a conversão da pena em medida de segurança, poderá ser determinado pelo juízo o tratamento ambulatorial na própria unidade penitenciária, em vez de ser decretada a internação em hospital de custódia. C : Em qualquer circunstância, a remoção do apenado para hospital de custódia e tratamento psiquiátrico poderá ser determinada provisoriamente pelo diretor do estabelecimento penal, comunicando-se imediatamente ao juiz, que em face da perícia médica, ratificará ou revogará a medida, na forma de regras do CPP não revogadas pela reforma legislativa. D : Suspensa a execução da pena em virtude de superveniência de doença mental do apenado, aplicada a medida de segurança, prevalecem as normas desta até o fim da execução, mesmo que antes do término do tempo de pena ocorra a cura da enfermidade, atestada em perícia. E : O juiz da execução poderá, com base em perícia médica, determinar o internamento em hospital de custódia e tratamento psiquiátrico ou, a conversão da pena em medida de segurança, acaso sobrevinda a doença mental ao apenado durante a execução.
+TEMA: 5184 | Penal > 1 > Medida de Segurança
+EXTRAS: 4703
+
+### Q0343 | conf=4
+ENUN: Patrícia responde a processo por crime de ação penal privada por ter supostamente praticado injúria contra Maria. Ocorre que as duas eram amigas desde a infância e Patrícia sempre teve temperamento mais “esquentado”. Durante o processo, Maria resolveu esquecer a ofensa e decidiu perdoar Patrícia, mediante termo nos autos. Contudo, Patrícia que não aceitou o perdão. Nesse caso,
+ALT: A : o perdão é ato unilateral. Como Patrícia não aceitou, a ação penal não poderá ser obstada em hipótese alguma. B : existe a possibilidade de Maria mitigar o caráter bilateral do perdão, deixando de dar andamento ao processo por mais de 30 dias. C : Maria poderá renunciar ao direito de representação. D : poderá ocorrer a perempção com a concordância da querelada. E : o perdão é ato bilateral. Como Patrícia não aceitou, a ação penal não poderá ser obstada, nem mesmo por perempção.
+TEMA: 5196 | Penal > 2 > Renúncia, Perdão do Ofendido e Retratação
+EXTRAS: 5195;5065
+
+### Q0292 | conf=4
+ENUN: Considerando a atual conjuntura da política criminal brasileira, é correto afirmar que
+ALT: A : a eficiência do trabalho policial pode ser verificado pelo baixo índice de letalidade e o alto índice de prisões efetuadas. B : o processo de encarceramento em massa no Brasil alavancou-se no período de vigência da Constituição Federal de 1988, apesar desta ter como seus fundamentos a cidadania e a dignidade da pessoa humana. C : a construção de presídios tem sido uma política eficaz de redução do encarceramento em massa. D : o crescimento da população prisional é isonômico no aspecto de gênero. E : a proteção de direitos humanos tem sido o principal resultado da política criminal brasileira, uma vez que o aumento da população prisional demonstra que os bens jurídicos estão sendo cada vez mais protegidos por meio do direito penal.
+TEMA: 4374 | Criminologia > 1 > Política Criminal
+EXTRAS: 
+
+### Q0223 | conf=4
+ENUN: O ingresso de chip de aparelho celular em estabelecimento prisional configura
+ALT: A : desobediência. B : favorecimento real. C : introdução de aparelho de comunicação, sem autorização legal, em estabelecimento prisional. D : favorecimento pessoal. E : conduta atípica.
+TEMA: 5086 | Penal > 2 > Outros crimes contra a Administração Judicial
+EXTRAS: 
+
+### Q0355 | conf=4
+ENUN: À luz da recente decisão do Supremo Tribunal Federal com repercussão geral a respeito do Art. 28 da Lei nº 11.343/2006, é correto afirmar que:
+ALT: A : são atípicas as condutas de adquirir, guardar, ter em depósito, transportar ou trazer consigo, para consumo pessoal, 1g da substância entorpecente cocaína, distribuído em duas cápsulas plásticas; B : a transação penal firmada, em dezembro de 2023, pela prática do crime de trazer consigo maconha, para consumo pessoal, configura obstáculo ao oferecimento de acordo de não persecução penal, caso praticado o crime de furto simples, em janeiro de 2025; C : pratica crime de abuso de autoridade o delegado de polícia que lavrar auto de prisão em flagrante contra o cidadão surpreendido com um tablete de 10g de maconha acondicionados em um sacolé, uma balança de precisão e um caderno com anotações relativas a datas, valores e nomes; D : as condutas de adquirir, guardar, ter em depósito, transportar ou trazer consigo até 40g de maconha ou seis plantas fêmeas, para consumo próprio, são indiferentes para o ordenamento jurídico; E : não se admite a imposição de prestação de serviços à comunidade em virtude da prática das condutas de adquirir, guardar, ter em depósito, transportar ou trazer consigo até 40g de maconha ou seis plantas fêmeas, para consumo próprio.
+TEMA: 4708 | Direito Penal - Legislação Especial > 1 > Tráfico de Drogas
+EXTRAS: 6728
+
+### Q0124 | conf=4
+ENUN: À luz das teorias das penas, julgue os seguintes itens. I Kant, que era adepto da teoria absoluta da pena, asseverava que, ainda que a sociedade civil acordasse em se dissolver, o último assassino que estivesse no cárcere deveria ser executado, a fim de que cada um sofresse o que efetivamente merecia por seus feitos. II Para Hegel, a justiça da pena concreta decorre de um processo dialético, pelo qual se levam em conta as características da lesão concreta assim como as circunstâncias da sociedade civil. III Segundo Roxin, a idéia de retribuição compensadora somente é plausível mediante um ato de fé, pois não há como se compreender, de forma racional, como apagar um mal cometido pelo sujeito ativo do crime com um outro mal, isto é, o sofrimento da pena. IV Para Binding, a finalidade da pena é mostrar ao delinqüente sua impotência diante da lei, submetendo-lhe, assim, à força vitoriosa do 
+ALT: A : 1. B : 2. C : 3. D : 4. E : 5.
+TEMA: 4384 | Criminologia > 1 > Teorias Legitimidoras da Pena
+EXTRAS: 5200
+
+### Q0238 | conf=4
+ENUN: Será exigido o reforço da fiança quando for inovada a classificação do delito, nos termos do Código de Processo Penal.
+ALT: C E - - Certo Errado
+TEMA: 5523 | Processo Penal > 2 > Liberdade Provisória
+EXTRAS: 
+
+### Q0310 | conf=4
+ENUN: Sobre a aplicação da Lei Processual Penal, é correto afirmar que:
+ALT: A : no Brasil, adota-se integralmente o princípio da irretroatividade da lei processual penal, que impede que as inovações na norma processual penal sejam aplicadas de imediato para fatos praticados antes de sua entrada em vigor. B : ela admitirá interpretação extensiva e o suplemento de princípios gerais do direito, mas não a aplicação analógica. C : o processo penal reger-se-á, em todo o território brasileiro, pelo Código de Processo Penal, não havendo qualquer ressalva prevista neste diploma. D : as normas previstas no Código de Processo Penal de natureza híbrida, ou seja, com conteúdo de direito processual e de direito material, devem respeitar o princípio que veda a aplicação retroativa da lei penal, quando seu conteúdo for prejudicial ao réu. E : ela admitirá interpretação extensiva e aplicação analógica, mas não o suplemento dos princípios gerais do direito
+TEMA: 5507 | Processo Penal > 2 > Lei processual no Tempo
+EXTRAS: 5508;5506
+
+### Q0157 | conf=4
+ENUN: A prisão temporária decretada no curso de inquérito policial instaurado para investigar crime de epidemia com resultado morte, artigo 267, § 1º, do Código Penal, tem prazo limite de
+ALT: A : cinco dias prorrogáveis por mais cinco. B : dez dias prorrogáveis por mais dez. C : quinze dias prorrogáveis por mais quinze. D : vinte dias prorrogáveis por mais vinte. E : trinta dias prorrogáveis por mais trinta.
+TEMA: 5520 | Processo Penal > 2 > Prisão Temporária
+EXTRAS: 4693
+
+### Q0079 | conf=4
+ENUN: Em relação aos sistemas processuais penais e aos seus princípios reitores, assinale a opção correta.
+ALT: A : A efetividade da repressão criminal do sistema acusatório cabe especialmente ao órgão julgador, responsável pela aplicação da pena no caso concreto. B : No sistema acusatório, o legislador admite que a imparcialidade judicial esteja comprometida com um objetivo considerado mais importante. C : O modelo ideal de sistema acusatório é previsto em instrumento normativo internacional, a partir de critérios uniformes definidos pela doutrina processual. D : A crítica ao sistema inquisitivo está relacionada à sua falta de rigor quanto à certeza de repressão dos fatos contrários à ordem social. E : A decisão sobre o sistema que deverá ser implantado em determinado país pressupõe uma definição prévia, por parte do legislador, de alguns critérios de política criminal, entre os quais está o grau de eficiência da repressão.
+TEMA: 5581 | Processo Penal > 2 > Sistemas Processuais Penais
+EXTRAS: 
+
+### Q0251 | conf=4
+ENUN: Considere as assertivas abaixo sobre extinção da puni bilidade. I - É taxativo o rol das causas de extinção de punibilidade previsto no art. 107 do Código Penal. II - A anistia e o indulto se referem a fatos e pessoas determinados, respectivamente. III - A perda do direito de punir do Estado pelo não exercício em determinado lapso de tempo é causa de extinção da punibilidade.
+ALT: A : Apenas I B : Apenas II C : Apenas III D : Apenas II e III E : I, II e III
+TEMA: 5191 | Penal > 1 > Punibilidade
+EXTRAS: 5193
+
+### Q0140 | conf=4
+ENUN: Assinale a opção correta acerca dos crimes de furto e roubo.
+ALT: A : Segundo pacífico entendimento do STJ, excetuadas as hipóteses de furto qualificado, o juiz pode substituir a pena de reclusão pela de detenção, diminuí-la de um a dois terços, ou aplicar somente a pena de multa ao réu primário que tenha furtado bem de pequeno valor. B : A jurisprudência do STJ tem pontificado que o emprego de gazuas, mixas, ou qualquer outro instrumento sem a forma de chave, ainda que apto a abrir fechadura, não qualifica o delito de furto, na medida em que não se aplica interpretação extensiva para a definição de tipos penais. C : Consoante a jurisprudência do STJ, é devida a exasperação da pena acima do patamar mínimo com esteio unicamente na alusão ao número de majorantes do delito de roubo. D : Ao contrário do que ocorre no delito de latrocínio, aplicam-se ao delito de roubo qualificado as causas especiais de aumento de pena previstas no CP, tal como na hipótese de violência ou ameaça exercida com emprego de arma. E : No delito de furto, é necessária a realização de perícia para a caracterização da qualificadora do rompimento de obstáculo, salvo em caso de ausência de vestígios, quando a prova testemunhal poderá suprir-lhe a falta.
+TEMA: 5159 | Penal > 2 > Furto
+EXTRAS: 5160
+
+### Q0306 | conf=4
+ENUN: Sobre o crime de associação criminosa é correto afirmar que
+ALT: A : demanda a associação de 4 ou mais pessoas estruturalmente ordenada e caracterizada pela divisão de tarefas com o objetivo de praticar crimes. B : exige a demonstração do elemento subjetivo especial consistente no ajuste prévio entre os membros com a finalidade específica de cometer crimes indeterminados. C : tem caráter hediondo, a despeito de ter pena menor do que a associação para o tráfico, que não é equiparado ao hediondo. D : exige para sua configuração o concurso de agentes e a prática de infrações penais cujas penas máximas sejam superiores a 4 (quatro) anos. E : admite a colaboração premiada com redução de até 1/3 da pena, desde que ao menos um agente com cargo político seja delatado.
+TEMA: 5146 | Penal > 2 > Crimes Contra à Paz Pública
+EXTRAS: 
+
+### Q0290 | conf=4
+ENUN: No que diz respeito ao preceituado na Lei nº 9.099/1995, a qual disciplina os Juizados especiais criminais, assinale a alternativa incorreta.
+ALT: A : A ação penal relativa ao crime de lesão corporal dolosa, em todas as suas modalidades, será pública incondicionada, já o crime de lesão culposa, terá como correspondente a ação penal pública condicionada à representação da vítima ou de seu representante legal B : Na fase preliminar, a autoridade policial que tomar conhecimento da ocorrência deverá lavrar termo circunstanciado e o encaminhar imediatamente ao Juizado, com o autor do fato e a vítima, providenciando as requisições dos exames periciais necessários C : A citação será pessoal e far-se-á no próprio Juizado, sempre que possível, ou por mandado D : Os atos processuais serão públicos e poderão realizar-se em horário noturno, conforme dispuserem as normas de organização judiciária E : Todas as provas serão produzidas na audiência de instrução e julgamento, podendo o Juiz limitar ou excluir as que considerar excessivas, impertinentes ou protelatórias
+TEMA: 4701 | Direito Penal - Legislação Especial > 1 > Juizado Especial Criminal
+EXTRAS: 5540
+
+### Q0264 | conf=4
+ENUN: Nos crimes contra a dignidade sexual, tratando-se da vítima menor de 14 anos, ou enferma ou deficiente mental sem o necessário discernimento para o ato, a situação em que o proxeneta e o cliente que pratica a conjunção carnal enquadram-se no delito de estupro de vulnerável; enquanto o proprietário, o gerente ou o responsável pelo local responderão, tão somente, pelo crime de favorecimento à prostituição, na modalidade de conduta equiparada. Já, quando a vítima explorada sexualmente for menor de 18 e maior de 14 anos, o cliente que pratica a conjunção carnal responderá pelo crime de favorecimento à prostituição.
+ALT: C E - - Certo Errado
+TEMA: 5109 | Penal > 2 > Outros Crimes Contra a Dignidade Sexual
+EXTRAS: 5103
+

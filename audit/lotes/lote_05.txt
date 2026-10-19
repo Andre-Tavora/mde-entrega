@@ -1,0 +1,90 @@
+﻿### Q0311 | conf=5
+ENUN: Considere que um oficial de justiça não tenha localizado o réu, para realizar a citação pessoal na ação penal, no endereço que constava dos autos. Nesse caso,
+ALT: A : o oficial de justiça deverá proceder à citação por hora certa, a ser cumprida, no máximo, em três dias. B : o juiz decretará a revelia do réu e dará seguimento à ação penal. C : será feita a citação por edital e, caso o réu não compareça, a ação penal ficará suspensa. D : será citada a Defensoria Pública para realizar a defesa técnica do réu. E : a falta de citação pessoal interromperá o prazo prescricional até a localização do réu.
+TEMA: 5488 | Processo Penal > 2 > Citação e Contagem dos Prazos
+EXTRAS: 
+
+### Q0334 | conf=5
+ENUN: Assinale a alternativa que NÃO engloba um objeto de estudo criminológico.
+ALT: A : O crime. B : A vítima. C : O “dever-ser”. D : O controle social do comportamento delitivo. E : A personalidade do delinquente.
+TEMA: 4381 | Criminologia > 2 > Conceito e objeto da Criminologia
+EXTRAS: 
+
+### Q0331 | conf=5
+ENUN: Assinale a alternativa incorreta.
+ALT: A : O Habeas Corpus não poderá ser interposto quando houver ameaça de violência ou coação à liberdade de locomoção, por abuso de poder ou ilegalidade. B : O Promotor de Justiça poderá impetrar ordem de Habeas Corpus. C : O Magistrado jamais poderá impetrar ordem de Habeas Corpus em favor de terceiro, mas poderá conceder de ofício a ordem no processo que preside. D : Não caberá intervenção do Assistente do Ministério Público no processo de Habeas Corpus. E : Não se pode conhecer de impetração de Habeas Corpus apócrifa.
+TEMA: 5477 | Processo Penal > 2 > Habeas Corpus
+EXTRAS: 
+
+### Q0320 | conf=5
+ENUN: O Direito Processual Penal, doutrinariamente, elenca as espécies de testemunhas. Dentre elas há a chamada testemunha fedatária.
+ALT: A B - - é a testemunha que depõe sobre algum fato que ouviu dizer. é a testemunha que depõe sobre a regularidade de alg...
+TEMA: 5550 | Processo Penal > 2 > Prova Testemunhal
+EXTRAS: 
+
+### Q0067 | conf=5
+ENUN: Os fi ns da Administração Pública resumem-se em um único objetivo: o bem comum da coletividade administrativa. Toda atividade deve ser orientada para este objetivo; sendo que todo ato administrativo que não for praticado no interesse da coletividade será ilícito e imoral. Assim, temos no Código Penal o título XI - Dos crimes contra a Administração Pública. Analise a conduta abaixo, caracterizando-a com um dos tipos de crime contra a Administração Pública. Sebastião, policial militar, exige dinheiro de Caio, usuário de maconha, para que este não seja preso. Caio, com medo da função de policial exercida pelo funcionário público militar, dá R$ 4.000,00 (quatro mil reais) a Sebastião, conforme exigido por ele. Com base nessa informação e na legislação penal especial, é correto afi rmar que:
+ALT: A : Sebastião comete o crime de corrupção ativa. B : Sebastião comete o crime de prevaricação. C : Sebastião comete o crime de excesso de exação. D : Sebastião comete o crime de concussão. E : Sebastião comete o crime de patrocínio infiel.
+TEMA: 5091 | Penal > 2 > Concussão e Excesso de Exação
+EXTRAS: 
+
+### Q0069 | conf=5
+ENUN: Em termos de interpretação da lei penal, quando se encontram na legislação expressões como “qualquer outro meio”, “qualquer outra vantagem”, “outro recurso” ou “qualquer outro meio fraudulento”, por exemplo, tais preceitos serão supridos por
+ALT: A : analogia. B : interpretação progressiva. C : interpretação autêntica. D : interpretação analógica. E : interpretação declarativa.
+TEMA: 5173 | Penal > 2 > Interpretação da Norma Penal
+EXTRAS: 
+
+### Q0078 | conf=5
+ENUN: EM oossstomnioconcunsos come Marcelo possui registro válido de um revólver de calibre 32 e o mantém em sua residência, e também possui uma pistola de calibre .380, com número de série raspada, que recebera de André, seu amigo foragido da pol a, que faleceu pouco tempo depois. Marcelo vendeu, por imil reis, a pistola a Hugo, que saiu da residência de Marcelo com a pistola escondida embaixo do banco da frente de seu veículo, em direção a sua residência, onde pretendia guardar a arma para sua defesa pessoal. No trajeto, Hugo, que conduzia o veiculo sem habilitação ou permissão para dirigi fi itercepiado por uma barreira policial e, assustado, acelerou o veiculo e fugiu do local. Apés perseguição policial, Hugo colidiu o cárro contra um poste de iluminação pública, foi preso em dagrante e conduzido até a delegacia de polícia. Revistado o veículo conduzido por Hugo, foi encontrada a pistola. 
+ALT: A : Elaine deverá responder pelo crime de porte ilegal de munição de arma de fogo. B : Hugo deverá responder pelo crime de posse irregular de arma de fogo de uso permitido. C : Hugo deverá responder pelo crime de porte ilegal de arma de fogo de uso permitido, pelo crime de dirigir veículo automotor, em via pública, sem a devida habilitação ou permissão para dirigir. D : Marcelo deverá responder pelo crime de comércio ilegal de arma de fogo. E : Marcelo deverá responder pelo crime de omissão de cautela de arma de fogo.
+TEMA: 4697 | Direito Penal - Legislação Especial > 1 > Estatuto do Desarmamento
+EXTRAS: 
+
+### Q0066 | conf=5
+ENUN: O positivismo criminológico
+ALT: A : constitui uma continuidade da Escola Clássica, aprofundando suas ideias a partir do mesmo paradigma metodológico. B : rejeita o viés etiológico ao buscar o desenvolvimento de um plano individualizador da pena. C : sofreu um abandono teórico que teve como decorrência a ausência de reflexos em práticas atuais e no direito contemporâneo. D : revela, em seus estudos, a primazia do livre-arbítrio na compreensão do fenômeno criminoso. E : primou pela aplicação do método científico no qual a observação direta e a experiência assumem papel decisivo.
+TEMA: 4373 | Criminologia > 2 > Escolas Crimonológicas
+EXTRAS: 
+
+### Q0054 | conf=5
+ENUN: A doutrina classifica os delitos em diversas categorias. Considerando algumas das classificações existentes, a alternativa que prevê delito de mera atividade, delito de lesão, delito plurissubjetivo e delito pluriofensivo, respectivamente, é:
+ALT: A : violação de domicílio, furto, rixa e roubo; B : injúria, dano, associação criminosa e estelionato; C : assédio sexual, incêndio, apropriação indébita e roubo; D : desobediência, omissão de socorro, tráfico de pessoas e perseguição; E : ato obsceno, lesão corporal, constituição de milícia privada e autoaborto.
+TEMA: 5174 | Penal > 2 > Classificações dos Crimes
+EXTRAS: 
+
+### Q0057 | conf=5
+ENUN: Por iter criminis compreende-se o conjunto de
+ALT: A : atos de execução do delito. B : atos preparatórios antecedentes ao delito. C : atos de consumação do delito. D : fases pelas quais passa o delito. E : atos de cogitação.
+TEMA: 5176 | Penal > 2 > Fases do Iter Criminis
+EXTRAS: 
+
+### Q0062 | conf=5
+ENUN: Camargo, terrorista, tenta explodir agência do Banco do Brasil, na França. Considerando o princípio da extraterritorialidade incondicionada, previsto no Código Penal brasileiro, é correto afirmar que:
+ALT: A : Camargo só pode ser processado criminalmente na França. B : O Estado brasileiro não tem interesse em delitos ocorridos fora do Brasil. C : Caso Camargo tenha sido condenado e encarcerado na França, não poderá ser preso no Brasil. D : O fato deve ser julgado no local onde ocorreu o crime: na França. E : Mesmo Camargo tendo sido julgado na França, poderá ser julgado no Brasil.
+TEMA: 5182 | Penal > 2 > Lei penal no Espaço
+EXTRAS: 
+
+### Q0080 | conf=5
+ENUN: Com relação às teorias da criminologia e à prevenção da infração penal no estado democrático de direito, julgue o item subsequente acerca dos modelos de reação ao delito. O cumprimento dos deveres legais por parte do apenado recluso constitui instrumento de reação ao delito analisado pelo modelo restaurador: o real impacto do castigo aplicado ao indivíduo no caso concreto é capaz de aferir os diagnósticos e de proporcionar adequadas soluções para prevenir a reincidência.
+ALT: C E - - Certo Errado
+TEMA: 4370 | Criminologia > 2 > Modelos de Reação ao Delito
+EXTRAS: 
+
+### Q0098 | conf=5
+ENUN: A doutrina denomina “confissão qualificada” aquela em que o acusado
+ALT: A : admite a prática criminosa, mas alega, em sua defesa, alguma causa que o beneficia, como uma excludente de ilicitude. B : não só confessa os fatos cometidos por si, mas também aponta os demais coautores ou partícipes da empreitada criminosa. C : fica em silêncio; contudo, tal modalidade não fora recepcionada pela Constituição de 1988, que garante nenhum prejuízo ao acusado nesses casos. D : colabora ativamente com a apuração do crime, inclusive interrompendo ou impedindo que os fatos se consumem. E : se retrata da negativa dos fatos ocorrida perante a autoridade policial e admite-os espontaneamente perante o magistrado.
+TEMA: 5548 | Processo Penal > 2 > Confissão
+EXTRAS: 
+
+### Q0099 | conf=5
+ENUN: Filomena, camelô Irregular, é flagrada por dois agentes da fiscalização municipal, ocasião em que estes anunciam que irão lavrar um auto de infração e apreender sua mercadoria, levando-a ao depósito público, de onde poderá vir a ser retirada posteriormente, mediante pagamentos devidos, tudo conforme o previsto na legislação. Inconformada com o fato, Filomena passa a agredir fisicamente os fiscais, no intuito de impedir que levem sua mercadoria, porém eles reagem, usando força corporal nos limites necessários para conter Filomena. Como resultado, Filomena e os fiscais ficam levemente feridos, sendo a mercadoria devidamente apreendida. Diante do caso narrado, é correto afirmar que:
+ALT: A : Filomena praticou o delito de resistência, ao passo que os fiscais cometeram o delito de lesão corporal leve; B : Filomena praticou o delito de resistência, na modalidade tentada, ao passo que os fiscais não cometeram crime algum, pois agiram amparados em excludente de ilicitude; C : Filomena praticou o delito de resistência qualificada, ao passo que os fiscais não cometeram crime algum, pois agiram amparados em excludente de ilicitude; D : Filomena praticou os delitos de resistência e lesões corporais leves, ao passo que os fiscais não cometeram crime algum, pois agiram amparados em excludente de ilicitude; E : Filomena praticou os delitos de resistências, na modalidade tentada, e lesões corporais leves, ao passo que os fiscais cometeram os crimes de lesão corporal leve e abuso de autoridade.
+TEMA: 5100 | Penal > 2 > Resistência, Desobediência e Desacato
+EXTRAS: 
+
+### Q0103 | conf=5
+ENUN: A respeito da revisão criminal, julgue os próximos itens. A revisão criminal, que é um dos aspectos diferenciadores do mero direito à defesa e do direito à ampla defesa, este caracterizador do direito processual penal, tem por finalidade o reexame do processo já alcançado pela coisa julgada, de forma a possibilitar ao condenado a absolvição, a melhora de sua situação jurídica ou a anulação do processo.
+ALT: C E - - Certo Errado
+TEMA: 5478 | Processo Penal > 2 > Revisão Criminal
+EXTRAS: 
+

@@ -1,0 +1,90 @@
+﻿### Q0051 | conf=5
+ENUN: O jogador Vinícius Júnior foi expulso, no dia 21/05/2023, em partida de futebol realizada contra o Valencia pelo campeonato espanhol, após reagir a ofensas racistas perpetradas por torcedores do time rival. Ao longo da partida, foi possível ouvir constantes gritos de “macaco!” advindos da torcida do Valencia e direcionados ao atacante brasileiro. A polícia de Madri recolheu impressões digitais e vestígios genéticos de várias pessoas envolvidas no ato. Afora isso, as autoridades locais rastrearam placas de veículos automotores que transitaram próximo ao estádio. Diante da investigação da polícia madrilenha, chegou-se à autoria em relação a determinados indivíduos. Considerando a narrativa fática, é correto afirmar que a lei penal brasileira:
+ALT: A : poderá ser aplicada às infrações penais que ocorrerem fora do território nacional, devendo ser observado o princípio da territorialidade mitigada; B : poderá ser aplicada às infrações penais que ocorrerem fora do território nacional, devendo ser observado o princípio da nacionalidade ativa, podendo-se afirmar que nesta hipótese a extraterritorialidade é condicionada; C : poderá ser aplicada às infrações penais que ocorrerem fora do território nacional, devendo ser observado o princípio da representação, podendo-se afirmar que, nessa hipótese, a extraterritorialidade é incondicionada; D : poderá ser aplicada às infrações penais que ocorrerem fora do território nacional, devendo ser observado o princípio da justiça penal universal, bem como a hipótese legal decorrente do princípio da defesa que é verificada quando o delito é praticado por estrangeiro contra brasileiro, podendo-se afirmar que, em ambos os casos, teremos extraterritorialidade incondicionada; E : poderá ser aplicada às infrações penais que ocorrerem fora do território nacional, devendo ser observado o princípio da justiça penal universal, bem como a hipótese legal decorrente do princípio da defesa que é verificada quando o delito é praticado por estrangeiro contra brasileiro, podendo-se afirmar que, em ambos os casos, teremos extraterritorialidade condicionada.
+TEMA: 5182 | Penal > 2 > Lei penal no Espaço
+EXTRAS: 
+
+### Q0045 | conf=5
+ENUN: No crime de excesso de exação, o crime é qualificado se
+ALT: A : praticado por funcionário público. B : cometido por meio vexatório ou gravoso, que a lei não autoriza. C : resulta dano para a Administração Pública ou para o administrado. D : o funcionário pratica ato de ofício, com infração de dever funcional, cedendo a pedido ou influência de outrem. E : o funcionário desvia, em proveito próprio ou de outrem, o que recebeu indevidamente para recolher aos cofres públicos.
+TEMA: 5091 | Penal > 2 > Concussão e Excesso de Exação
+EXTRAS: 
+
+### Q0035 | conf=5
+ENUN: Nos termos da Lei no 13.260/2016 (Lei Antiterrorismo), assinale a alternativa correta.
+ALT: A : Os crimes previstos na referida Lei são praticados contra o interesse da União, cabendo à Polícia Federal a investigação criminal, em sede de inquérito policial. B : Aquele que for flagrado constituindo uma organização terrorista, não cometerá um crime, estando sujeito a responsabilização por realizar atos preparatórios do terrorismo. C : O terrorismo consistirá sempre na prática por mais de um indivíduo de atos criminosos por razões de xenofobia, discriminação ou preconceito de raça, cor, etnia e religião, quando cometidos com a finalidade de provocar terror social ou generalizado. D : São atos de terrorismo incendiar, depredar, saquear, destruir ou explodir meios de transporte ou qualquer bem público ou privado. E : São atos de terrorismo incendiar, interferir, sabotar ou danificar sistemas de informática ou bancos de dados, quando cometidos com a finalidade de provocar terror social ou generalizado.
+TEMA: 4706 | Direito Penal - Legislação Especial > 1 > Terrorismo
+EXTRAS: 
+
+### Q0041 | conf=5
+ENUN: Sobre as medidas de segurança é correto afirmar:
+ALT: A : A lógica manicomial se funda na segregação hospitalar da pessoa com transtorno mental que tenha praticado um injusto penal para sua neutralização e tentativa declarada de cura. B : O Código Penal adota o sistema do duplo binário, sem a possibilidade de aplicação simultânea de pena e medida de segurança, que só se aplicam sucessivamente. C : Pelo regime adotado no Código Penal, a medida de segurança pode ser aplicada ao imputável, desde que presente a periculosidade. D : É inaplicável o Estatuto da Pessoa com Deficiência (Lei n° 13.146/2015) aos inimputáveis por doença mental, pois seria uma aplicação indevida do positivismo criminológico considerá-los pessoas com deficiência. E : Segundo a Lei n° 10.216/2001, a desinternação é sempre condicional, podendo ser restabelecida se dentro de um ano o agente praticar fato indicativo de persistência de sua periculosidade.
+TEMA: 5184 | Penal > 1 > Medida de Segurança
+EXTRAS: 
+
+### Q0042 | conf=5
+ENUN: Sobre o elemento subjetivo da conduta, dolo direto é aquele em que:
+ALT: A - o agente prevê o resultado como possível o provável e...
+TEMA: 5222 | Penal > 2 > Crime Doloso e Culposo
+EXTRAS: 
+
+### Q0111 | conf=5
+ENUN: Sobre a escola positivista da criminologia, é correto afirmar:
+ALT: A : A escola positivista ainda não chega a considerar a concepção da pena como meio de defesa social, que é própria de escolas mais modernas da criminologia. B : Sua recepção no Brasil recebeu contornos racistas, notadamente no trabalho antropológico de Nina Rodrigues. C : É uma escola criminológica ultrapassada e que já influenciou a legislação penal brasileira, mas que após a Constituição Federal de 1988 não conta mais com institutos penais influenciados por esta corrente. D : Por ter enveredado pela sociologia criminal, Enrico Ferri não é considerado um autor da escola positivista, que possui viés médico e antropológico. E : O método positivista negava a importância da pesquisa empírica, que possivelmente a levaria a resultados diversos daqueles encontrados pelos seus autores.
+TEMA: 4373 | Criminologia > 2 > Escolas Crimonológicas
+EXTRAS: 
+
+### Q0206 | conf=5
+ENUN: No tocante ao assistente de acusação, é correto afirmar que
+ALT: A : o ofendido poderá intervir como assistente em qualquer ação penal. B : a admissão do assistente fica condicionada à manifestação do Ministério Público. C : da decisão que admitir o assistente de acusação caberá recurso em sentido estrito. D : ao assistente é proibido arrazoar os recursos interpostos pelo Ministério Público. E : o assistente será admitido até o início da instrução do processo.
+TEMA: 5583 | Processo Penal > 1 > Sujeitos do Processo
+EXTRAS: 
+
+### Q0210 | conf=5
+ENUN: O Estatuto do Desarmamento, Lei nº 10.826/2003, no seu capítulo IV, define crimes relacionados a armas de fogo e munições. Considerando casos concretos de réus denunciados por esses delitos e conforme entendimento das Cortes Superiores, é correto afirmar que:
+ALT: A : em hipóteses de apreensão de armas de fogo e/ou munições de uso permitido e restrito, num mesmo contexto fático, há crime único, aplicado o princípio da consunção, e não concurso de crimes, uma vez que se trata de condutas que tutelam o mesmo bem jurídico; B : deve ser reconhecida a atipicidade material da conduta em situações específicas de ínfima quantidade de munição apreendida na posse do agente, de uso permitido ou restrito, aliada à ausência de artefato capaz de disparar o projétil; C : aplica-se o princípio da insignificância e se reconhece a atipicidade material do crime de posse de ínfima quantidade de munição de uso permitido, ainda que a moldura fática do caso revele a apreensão de arma de fogo e drogas com o agente; D : apreendido armamento que passou a ser considerado de uso permitido após a entrada em vigor de decreto, a norma penal posterior deve incidir de forma imediata a fato anterior, desde que não decidido por sentença transitada em julgado, porque favorece o agente, em harmonia com o princípio da retroatividade da lei penal mais benéfica; E : o legislador, ao elaborar a lei que alterou a Lei de Crimes Hediondos, quis conferir tratamento mais gravoso ao crime de posse ou porte de arma de fogo, acessório ou munição, não importando se de uso proibido/restrito ou de uso permitido, de modo que a natureza hedionda se reconhece também aos crimes de posse ou porte de arma de fogo de uso permitido com numeração raspada, suprimida ou adulterada.
+TEMA: 4697 | Direito Penal - Legislação Especial > 1 > Estatuto do Desarmamento
+EXTRAS: 
+
+### Q0212 | conf=5
+ENUN: Julgue o item subsequente, em relação à prova, ao instituto da interceptação telefônica e à citação por hora certa. Em processo penal, a citação por hora certa do réu que se oculte para não ser citado segue os procedimentos previstos no Código de Processo Civil, de modo que, caso o réu não compareça em juízo nem constitua advogado, ficam suspensos o processo e o curso do prazo prescricional, podendo o juiz, se for o caso, determinar a produção antecipada de provas consideradas urgentes.
+ALT: C E - - Certo Errado
+TEMA: 5488 | Processo Penal > 2 > Citação e Contagem dos Prazos
+EXTRAS: 
+
+### Q0204 | conf=5
+ENUN: Em relação à lei processual penal no tempo, vigora o princípio do efeito imediato, segundo o qual tempus regit actum. De acordo com tal princípio, as normas processuais penais têm aplicação imediata, mas consideram-se válidos os atos processuais realizados sob a égide da lei anterior.
+ALT: C E - - Certo Errado
+TEMA: 5507 | Processo Penal > 2 > Lei processual no Tempo
+EXTRAS: 
+
+### Q0186 | conf=5
+ENUN: No que concerne à fixação da pena-base, é certo que o julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato delituoso e aspectos inerentes ao agente, obedecidos e sopesados todos os critérios legais para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para a reprovação do crime, sobrepujando as elementares comuns do próprio tipo legal. No Art. 59 do Código Penal, o legislador elencou oito circunstâncias judiciais para individualização da pena na primeira fase da dosimetria. Ao considerar desfavoráveis as circunstâncias judiciais, deve o julgador declinar, motivadamente, as suas razões, que devem corresponder objetivamente às características próprias do vetor desabonado. Nesse particular, as condenações definitivas, por fato anterior ao delito, transitadas em julgado no curso da ação
+ALT: A : culpabilidade; B : antecedentes; C : conduta social; D : personalidade do agente; E : circunstâncias.
+TEMA: 5202 | Penal > 2 > Primeira Fase da Dosimetria: Circunstâncias Judiciais
+EXTRAS: 
+
+### Q0198 | conf=5
+ENUN: A moderna teoria do domínio do fato de Claus Roxin procura solucionar alguns problemas de autoria e, expressamente, já foi adotada em nossos tribunais. Além das previsões legais sobre autoria mediata, existe a possibilidade de autoria no âmbito de uma organização. Para que esta seja configurada devem estar presentes alguns requisitos, EXCETO
+ALT: A : poder efetivo de mando. B : fungibilidade do autor imediato. C : desvinculação do aparato organizado do ordenamento jurídico. D : o prévio acerto entre o comandante e os demais comandados. E : disponibilidade consideravelmente elevada por parte do executor.
+TEMA: 5073 | Penal > 2 > Autoria Mediata, Colateral e Coautoria
+EXTRAS: 
+
+### Q0201 | conf=5
+ENUN: José, com trinta anos de idade, manteve, entre 2013 e 2015, relacionamento amoroso com uma menor que atualmente tem treze anos de idade. Nesse período, constantemente, José, praticava com ela conjunção carnal e outros atos libidinosos diversos. A mãe da menor descobriu o caso e denunciou José à polícia. A menor, em seu depoimento, afirmou que sempre consentiu com o namoro e com os atos sexuais praticados e que, da mesma forma, já havia namorado outros rapazes antes de José. Acerca dessa situação hipotética, assinale a opção correta à luz da jurisprudência dominante, atualmente, no STF e no STJ.
+ALT: A : A prévia existência de relacionamento amoroso e duradouro entre a menor e José extingue a punibilidade do agente por crime de estupro de vulnerável. B : José praticou crime de estupro de vulnerável e atentado violento ao pudor em continuidade delitiva. C : José praticou crime de estupro de vulnerável, ainda que a adolescente tenha consentido em manter com ele relações sexuais. D : A ausência de representação formulada pela menor ou por sua mãe impede que José seja processado pelos fatos ocorridos. E : A anterior experiência sexual da vítima afasta sua vulnerabilidade, de forma que José deve responder apenas por corrupção de menor.
+TEMA: 5103 | Penal > 2 > Estupro e Estupro de Vulnerável
+EXTRAS: 
+
+### Q0214 | conf=5
+ENUN: Patrick foi denunciado e condenado, em primeira instância, perante a 1ª Vara Criminal de Florianópolis, pela prática de crime de corrupção passiva. Após a condenação, dentro do prazo legal, apresentou o recurso cabível, que se encontra pendente de julgamento. Nesse período, foi novamente denunciado pela prática do crime de corrupção passiva, dessa vez perante a 2ª Vara Criminal de Florianópolis, sendo verificado pelo teor da denúncia que os fatos imputados são os mesmos daquela ação da 1ª Vara Criminal. A defesa técnica de Patrick, poderá apresentar, ao responder a segunda ação penal, a exceção de:
+ALT: A : incompetência do juízo, que deverá ser processada nos autos principais; B : coisa julgada, que deverá ser processada em autos apartados; C : coisa julgada, que suspenderá o andamento da ação penal; D : litispendência, que deverá ser processada em autos apartados; E : suspeição, que precederá a qualquer outra eventualmente oposta.
+TEMA: 5494 | Processo Penal > 2 > Exceção de Litispendência e de Coisa Julgada
+EXTRAS: 
+
+### Q0243 | conf=5
+ENUN: Antônio, durante a madrugada, subtrai, com o emprego de chave falsa, o automóvel de Pedro. Depois de oferecida a denúncia pela prática de crime de furto qualificado, mas antes do seu recebimento, por ato voluntário de Antônio, o automóvel furtado é devolvido à vítima. Nesse caso, pode-se afirmar a ocorrência de
+ALT: A : arrependimento posterior. B : desistência voluntária. C : arrependimento eficaz. D : circunstância atenuante. E : causa de extinção da punibilidade.
+TEMA: 5178 | Penal > 2 > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior
+EXTRAS: 
+

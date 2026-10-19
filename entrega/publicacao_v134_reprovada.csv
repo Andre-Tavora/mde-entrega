@@ -1,0 +1,360 @@
+﻿id_questao,decisao,tema_central,caminho,extras,confianca,motivo
+Q0001,revisar,5527,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",5528,0.8,discordancia
+Q0002,revisar,4378,Criminologia > Processos de Criminalização e Cifras Criminais > Criminalização Primária e Secundária,4377,0.7,discordancia
+Q0003,publicar,5534,Processo Penal > Procedimento Ordinário > Absolvição Sumária,5562;5475,0.7,consenso
+Q0004,revisar,5484,Processo Penal > Competência > Competência por Prerrogativa de Função,5483,0.7,discordancia
+Q0005,publicar,5203,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,5201,0.7,consenso
+Q0006,revisar,5160,Penal > Dos Crimes Contra o Patrimônio > Roubo,5159,0.6,discordancia
+Q0007,revisar,5468,Processo Penal > Ação Penal > Classificação da Ação Penal,5064;5065;5471,0.6,discordancia
+Q0008,publicar,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,5088,0.7,consenso
+Q0009,publicar,5158,Penal > Dos Crimes Contra o Patrimônio > 12 Disposições Gerais dos Crimes Contra o Patrimônio,5159,0.7,consenso
+Q0010,revisar,4688,Direito Penal - Legislação Especial > Crimes contra o meio ambiente,6717,0.7,discordancia
+Q0011,publicar,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,6723,0.7,consenso
+Q0012,revisar,5569,Processo Penal > Recursos em Espécies > Recursos no Âmbito dos Juizados Especiais,,0.8,discordancia
+Q0013,publicar,5503,Processo Penal > Inquérito Policial > Juiz das Garantias,,0.9,consenso
+Q0014,revisar,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,4709,0.7,fora_divergente
+Q0015,revisar,5501,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,5500;5499,0.8,conf_baixa
+Q0016,revisar,5584,Processo Penal > Teoria Geral das Prisões,5519;5586;5503,0.6,conf_baixa
+Q0017,revisar,5532,Processo Penal > Procedimento Ordinário > Classificação dos Procedimentos,5533,0.5,discordancia
+Q0018,publicar,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,,0.7,consenso
+Q0019,revisar,5475,Processo Penal > Ação Penal > Ação Civil Ex Delicto,,0.7,discordancia
+Q0020,revisar,5203,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,5066;5067;5159;5542;5541;4709,0.4,discordancia
+Q0021,publicar,5503,Processo Penal > Inquérito Policial > Juiz das Garantias,,0.9,consenso
+Q0022,publicar,5089,Penal > Dos Crimes Contra a Administração Pública > Peculato e Peculato Mediante Erro de Outrem,,0.7,consenso
+Q0023,revisar,5526,Processo Penal > Procedimento do Tribunal do Júri > Procedimento Bifásico do Tribunal do Júri,5527;5528,0.7,conf_baixa
+Q0024,revisar,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,4387,0.6,discordancia
+Q0025,revisar,5101,Penal > Dos Crimes Contra a Administração Pública > Tráfico de Influência,5093,0.8,discordancia
+Q0026,revisar,4704,Direito Penal - Legislação Especial > Lei Maria da Penha,6724,0.6,haiku_invalido
+Q0027,revisar,5488,Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos,5489,0.7,conf_baixa
+Q0028,revisar,5526,Processo Penal > Procedimento do Tribunal do Júri > Procedimento Bifásico do Tribunal do Júri,5527,0.6,discordancia
+Q0029,publicar,4684,Direito Penal - Legislação Especial > Abuso de Autoridade,6716,0.9,consenso
+Q0030,revisar,5135,"Penal > Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso > Dos Crimes Contra a Organização do Trabalho",,0.8,discordancia
+Q0031,revisar,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,4387,0.7,discordancia
+Q0032,revisar,5497,Processo Penal > Das Questões e Processos Incidentes > Incidente de Falsidade e de Insanidade Mental,,0.9,discordancia
+Q0033,publicar,5519,Processo Penal > Prisões em Espécie > Prisão Preventiva,,0.9,consenso
+Q0034,publicar,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,,0.8,consenso
+Q0035,publicar,4706,Direito Penal - Legislação Especial > Terrorismo,,1.0,consenso
+Q0036,publicar,4704,Direito Penal - Legislação Especial > Lei Maria da Penha,6724,0.7,consenso
+Q0037,revisar,5118,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > Da Falsidade Documental,5132;5081,0.5,discordancia
+Q0038,revisar,5549,Processo Penal > Provas em Espécies > Declaração do Ofendido,5583,0.6,discordancia
+Q0039,revisar,4695,Direito Penal - Legislação Especial > Crimes Tributários,4687,0.6,discordancia
+Q0040,revisar,5529,Processo Penal > Procedimento do Tribunal do Júri > Sentença do Júri,5515;5562,0.6,discordancia
+Q0041,publicar,5184,Penal > Medida de Segurança,,1.0,consenso
+Q0042,publicar,5222,Penal > Teoria do Crime: Fato Típico > Crime Doloso e Culposo,,0.9,consenso
+Q0043,revisar,5199,Penal > Teoria da Pena,5203;5201,0.6,conf_baixa
+Q0044,publicar,5488,Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos,5533,0.7,consenso
+Q0045,publicar,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,,1.0,consenso
+Q0046,revisar,5510,Processo Penal > Nulidades > Nulidade Absoluta e Relativa,5511,0.8,conf_baixa
+Q0047,revisar,5164,Penal > Dos Crimes Contra o Patrimônio > Dano,,0.7,discordancia
+Q0048,revisar,5193,"Penal > Punibilidade > Anistia, Graça e Indulto",,0.7,discordancia
+Q0049,revisar,5152,"Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio",,0.7,discordancia
+Q0050,revisar,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,6728,0.6,discordancia
+Q0051,publicar,5182,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Espaço,,0.9,consenso
+Q0052,publicar,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,6734,0.8,consenso
+Q0053,publicar,5541,Processo Penal > Procedimento Sumaríssimo > Transação Penal,,0.8,consenso
+Q0054,publicar,5174,Penal > Introdução ao Estudo do Direito Penal > Classificações dos Crimes,,0.9,consenso
+Q0055,publicar,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,5535,0.8,consenso
+Q0056,revisar,5070,Penal > Concurso de Crimes > Pena de Multa no Concurso de Crimes,5066,0.7,conf_baixa
+Q0057,publicar,5176,Penal > Iter Criminis > Fases do Iter Criminis,,1.0,consenso
+Q0058,revisar,4378,Criminologia > Processos de Criminalização e Cifras Criminais > Criminalização Primária e Secundária,4390,0.5,discordancia
+Q0059,revisar,4373,Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas,,0.6,discordancia
+Q0060,revisar,5088,Penal > Dos Crimes Contra a Administração Pública > Noções gerais dos crimes praticados contra a administração pública,5093,0.6,conf_baixa
+Q0061,revisar,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,6734,0.7,conf_baixa
+Q0062,publicar,5182,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Espaço,,0.9,consenso
+Q0063,revisar,4704,Direito Penal - Legislação Especial > Lei Maria da Penha,6724,0.6,discordancia
+Q0064,revisar,5165,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,4695,0.7,discordancia
+Q0065,revisar,5161,Penal > Dos Crimes Contra o Patrimônio > Extorsão,,0.8,discordancia
+Q0066,publicar,4373,Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas,,0.9,consenso
+Q0067,revisar,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,,0.9,discordancia
+Q0068,revisar,5110,Penal > Dos Crimes Contra a Dignidade Sexual > Disposições Gerais dos Crimes Contra a Dignidade Sexual,5096;5126;5103,0.4,discordancia
+Q0069,revisar,5173,Penal > Introdução ao Estudo do Direito Penal > Interpretação da Norma Penal,,0.8,discordancia
+Q0070,revisar,5193,"Penal > Punibilidade > Anistia, Graça e Indulto",4703,0.7,conf_baixa
+Q0071,revisar,4688,Direito Penal - Legislação Especial > Crimes contra o meio ambiente,6717,0.7,discordancia
+Q0072,revisar,5592,Processo Penal > Teoria Geral das Provas > Sistemas de Avaliação da Prova,5595,0.6,discordancia
+Q0073,revisar,5093,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,5088,0.7,conf_baixa
+Q0074,revisar,5181,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Tempo,6734;5485,0.6,conf_baixa
+Q0075,publicar,5191,Penal > Punibilidade,,0.8,consenso
+Q0076,revisar,4373,Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas,,0.8,discordancia
+Q0077,revisar,5171,Penal > Introdução ao Estudo do Direito Penal > Conceito e Fontes do Direito Penal,5174;5194,0.5,discordancia
+Q0078,publicar,4697,Direito Penal - Legislação Especial > Estatuto do Desarmamento,,0.9,consenso
+Q0079,publicar,5581,Processo Penal > Sistemas e Princípios Processuais Penais > Sistemas Processuais Penais,,0.8,consenso
+Q0080,publicar,4370,Criminologia > Criminologia no Estado Democrático de Direito > Modelos de Reação ao Delito,,0.9,consenso
+Q0081,publicar,4373,Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas,,0.9,consenso
+Q0082,publicar,5100,"Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato",,0.9,consenso
+Q0083,revisar,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,5150;5226,0.7,discordancia
+Q0084,revisar,4704,Direito Penal - Legislação Especial > Lei Maria da Penha,6724,0.6,discordancia
+Q0085,publicar,5076,"Penal > Concurso de Pessoas > Comunicabilidade de Circunstâncias, Condições e Elementares",5091,0.8,consenso
+Q0086,publicar,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,,0.9,consenso
+Q0087,revisar,6734,Processo Penal > Lei de Execução Penal,4703,0.5,discordancia
+Q0088,revisar,4389,Criminologia > Vitimologia,4381,0.7,conf_baixa
+Q0089,revisar,5172,Penal > Introdução ao Estudo do Direito Penal > Princípios do Direito Penal,5227,0.7,discordancia
+Q0090,revisar,5531,"Processo Penal > Procedimento Ordinário > 2 Oferecimento, Rejeição e Recebimento da Peça Acusatória",,0.5,discordancia
+Q0091,publicar,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,4703,0.8,consenso
+Q0092,revisar,5511,Processo Penal > Nulidades > Nulidades em Espécie,5510,0.8,discordancia
+Q0093,revisar,5223,Penal > Teoria do Crime: Fato Típico > Crimes Omissivos e Comissivos,,0.8,discordancia
+Q0094,revisar,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,,0.5,discordancia
+Q0095,revisar,5197,Penal > Punibilidade > Perdão Judicial,,0.5,haiku_invalido
+Q0096,revisar,5486,"Processo Penal > Competência > Prorrogação, Perpetuação e Modificação de Competência",5483,0.7,discordancia
+Q0097,revisar,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,4705;4702,0.6,discordancia
+Q0098,publicar,5548,Processo Penal > Provas em Espécies > Confissão,,0.9,consenso
+Q0099,revisar,5100,"Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato",,0.7,discordancia
+Q0100,revisar,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,5224;5080;5074,0.6,discordancia
+Q0101,revisar,4704,Direito Penal - Legislação Especial > Lei Maria da Penha,6724,0.4,discordancia
+Q0102,revisar,5574,Processo Penal > Sentença Penal > Sentença Absolutória,5577;5573,0.7,conf_baixa
+Q0103,publicar,5478,Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal,,1.0,consenso
+Q0104,revisar,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,5500,0.7,discordancia
+Q0105,revisar,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,4378;4373,0.6,discordancia
+Q0106,revisar,5166,Penal > Dos Crimes Contra o Patrimônio > Estelionato,,0.6,discordancia
+Q0107,revisar,5119,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > De outras falsidades,5117,0.7,conf_baixa
+Q0108,revisar,5561,Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE),,0.5,discordancia
+Q0109,publicar,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,6728,0.8,consenso
+Q0110,revisar,5480,Processo Penal > Competência,5483;5484,0.7,conf_baixa
+Q0111,publicar,4373,Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas,,0.9,consenso
+Q0112,revisar,4705,Direito Penal - Legislação Especial > Organizações Criminosas,6725,0.6,discordancia
+Q0113,revisar,5190,Penal > Prescrição > Outras Prescrições,,0.5,conf_baixa
+Q0114,revisar,5181,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Tempo,4704;5064,0.5,discordancia
+Q0115,revisar,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,4387,0.7,discordancia
+Q0116,publicar,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,6728,0.8,consenso
+Q0117,revisar,4384,Criminologia > Teorias Legitimidoras da Pena,5200,0.7,conf_baixa
+Q0118,revisar,5507,Processo Penal > Lei Processual no Tempo e no Espaço > Lei processual no Tempo,,0.7,discordancia
+Q0119,revisar,5194,Penal > Punibilidade > Abolitio Criminis,5181,0.7,discordancia
+Q0120,revisar,5533,Processo Penal > Procedimento Ordinário > Defesa Preliminar,5547,0.6,discordancia
+Q0121,revisar,5469,Processo Penal > Ação Penal > Princípios da Ação Penal,5472,0.8,discordancia
+Q0122,publicar,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,6734,0.8,consenso
+Q0123,revisar,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,4378,0.6,discordancia
+Q0124,publicar,4384,Criminologia > Teorias Legitimidoras da Pena,5200,0.8,consenso
+Q0125,revisar,5181,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Tempo,4708,0.7,discordancia
+Q0126,revisar,5182,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Espaço,,0.6,discordancia
+Q0127,revisar,5575,Processo Penal > Sentença Penal > Sentença Condenatória,5581;5536,0.6,discordancia
+Q0128,revisar,5184,Penal > Medida de Segurança,5468;5213,0.6,discordancia
+Q0129,publicar,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,,0.9,consenso
+Q0130,revisar,5160,Penal > Dos Crimes Contra o Patrimônio > Roubo,5205,0.7,discordancia
+Q0131,revisar,5072,Penal > Concurso de Pessoas > Autores e Partícipes,,0.8,discordancia
+Q0132,revisar,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,5549,0.6,discordancia
+Q0133,revisar,5528,Processo Penal > Procedimento do Tribunal do Júri > Organização do Júri e Sessão de Julgamento,5526,0.7,discordancia
+Q0134,publicar,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,,1.0,consenso
+Q0135,publicar,5169,Penal > Dos Crimes Contra o Patrimônio > Receptação,,1.0,consenso
+Q0136,publicar,4704,Direito Penal - Legislação Especial > Lei Maria da Penha,6724,0.8,consenso
+Q0137,revisar,5499,"Processo Penal > Inquérito Policial > Conceito, Finalidade e Caractéristas do Inquérito Policial",5500,0.7,conf_baixa
+Q0138,publicar,5205,Penal > Teoria da Pena > Penas Restritivas de Direitos,5207,0.7,consenso
+Q0139,revisar,5212,Penal > Teoria do Crime: Culpabilidade > Conceito e Elementos da Culpabilidade,5217,0.7,conf_baixa
+Q0140,publicar,5159,Penal > Dos Crimes Contra o Patrimônio > Furto,5160,0.8,consenso
+Q0141,revisar,4387,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias de Nível Sociológico,4388,0.7,conf_baixa
+Q0142,fora,,,,0.9,ambos_fora
+Q0143,publicar,5507,Processo Penal > Lei Processual no Tempo e no Espaço > Lei processual no Tempo,,0.9,consenso
+Q0144,publicar,5562,Processo Penal > Recursos em Espécies > Apelação,5529,0.8,consenso
+Q0145,publicar,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,6723,0.8,consenso
+Q0146,revisar,5594,Processo Penal > Teoria Geral das Provas > Prova Ilegal e Prova Ilícita,,0.7,discordancia
+Q0147,revisar,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,5556;5557;5502,0.7,conf_baixa
+Q0148,revisar,5203,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,,0.8,discordancia
+Q0149,publicar,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,,0.8,consenso
+Q0150,revisar,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,6728,0.7,conf_baixa
+Q0151,revisar,5523,Processo Penal > Prisões em Espécie > Liberdade Provisória,5522,0.6,discordancia
+Q0152,revisar,5472,Processo Penal > Ação Penal > Ação Penal de Iniciativa Privada,5065,0.8,discordancia
+Q0153,publicar,5222,Penal > Teoria do Crime: Fato Típico > Crime Doloso e Culposo,5224,0.7,consenso
+Q0154,revisar,5135,"Penal > Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso > Dos Crimes Contra a Organização do Trabalho",,0.4,discordancia
+Q0155,revisar,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,6734,0.5,haiku_invalido
+Q0156,revisar,4688,Direito Penal - Legislação Especial > Crimes contra o meio ambiente,6717,0.7,haiku_invalido
+Q0157,revisar,5520,Processo Penal > Prisões em Espécie > Prisão Temporária,4693,0.7,discordancia
+Q0158,revisar,4707,Direito Penal - Legislação Especial > Tortura,5209,0.8,discordancia
+Q0159,revisar,5160,Penal > Dos Crimes Contra o Patrimônio > Roubo,5226,0.6,discordancia
+Q0160,publicar,5205,Penal > Teoria da Pena > Penas Restritivas de Direitos,,0.9,consenso
+Q0161,revisar,5588,Processo Penal > Teoria Geral das Prisões > Relaxamento da Prisão,5589;5594,0.7,discordancia
+Q0162,revisar,4381,Criminologia > Teoria Geral da Criminologia > Conceito e objeto da Criminologia,4368,0.5,discordancia
+Q0163,revisar,4684,Direito Penal - Legislação Especial > Abuso de Autoridade,5133;4703,0.6,conf_baixa
+Q0164,revisar,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,6734,0.7,haiku_invalido
+Q0165,revisar,4705,Direito Penal - Legislação Especial > Organizações Criminosas,6725,0.5,discordancia
+Q0166,revisar,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,6734;5208;5193,0.6,discordancia
+Q0167,revisar,5528,Processo Penal > Procedimento do Tribunal do Júri > Organização do Júri e Sessão de Julgamento,5526,0.7,conf_baixa
+Q0168,revisar,4683,Direito Penal - Legislação Especial,,0.6,discordancia
+Q0169,publicar,5492,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",,0.9,consenso
+Q0170,publicar,5203,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,,0.7,consenso
+Q0171,revisar,4693,Direito Penal - Legislação Especial > Crimes Hediondos,,0.5,discordancia
+Q0172,revisar,5484,Processo Penal > Competência > Competência por Prerrogativa de Função,,0.6,discordancia
+Q0173,revisar,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,6734,0.7,conf_baixa
+Q0174,revisar,5166,Penal > Dos Crimes Contra o Patrimônio > Estelionato,5133;4709,0.4,discordancia
+Q0175,publicar,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,5091,0.9,consenso
+Q0176,publicar,5081,Penal > Dos Crimes Contra a Administração Judicial > Falso Testemunha ou Falsa Perícia e Corrupção Ativa de Testemunha ou Perito,,0.9,consenso
+Q0177,publicar,5547,Processo Penal > Provas em Espécies > Interrogatório Judicial,,0.9,consenso
+Q0178,publicar,4697,Direito Penal - Legislação Especial > Estatuto do Desarmamento,,0.9,consenso
+Q0179,publicar,4369,Criminologia > Criminologia no Estado Democrático de Direito > Sistemas de Prevenção,,0.9,consenso
+Q0180,publicar,5554,Processo Penal > Provas em Espécies > Busca e Apreensão,5594,0.8,consenso
+Q0181,publicar,4695,Direito Penal - Legislação Especial > Crimes Tributários,,0.8,consenso
+Q0182,revisar,5138,Penal > Dos Crimes Contra a Periclitação da Vida e da Saúde,5154;5139;5122,0.4,discordancia
+Q0183,revisar,5561,Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE),5187;5488,0.6,discordancia
+Q0184,publicar,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,6728,0.8,consenso
+Q0185,revisar,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,6734,0.7,conf_baixa
+Q0186,publicar,5202,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,,0.9,consenso
+Q0187,revisar,5209,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,5201,0.4,discordancia
+Q0188,publicar,5231,Penal > Teoria do Crime: Ilicitude > Legítima Defesa,5229,0.8,consenso
+Q0189,revisar,5472,Processo Penal > Ação Penal > Ação Penal de Iniciativa Privada,5196,0.7,discordancia
+Q0190,revisar,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,4701,0.7,conf_baixa
+Q0191,revisar,5567,Processo Penal > Recursos em Espécies > Carta Testemunhavel,5561,0.6,discordancia
+Q0192,revisar,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,5092;5089;5081,0.6,conf_baixa
+Q0193,publicar,5557,Processo Penal > Provas em Espécies > Colaboração Premiada,4705,0.8,consenso
+Q0194,publicar,5089,Penal > Dos Crimes Contra a Administração Pública > Peculato e Peculato Mediante Erro de Outrem,5076,0.7,consenso
+Q0195,publicar,4373,Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas,,0.8,consenso
+Q0196,revisar,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,4387,0.7,discordancia
+Q0197,revisar,5482,Processo Penal > Competência > Competência em Razão da Matéria,5499,0.6,discordancia
+Q0198,publicar,5073,"Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria",,0.9,consenso
+Q0199,revisar,5220,Penal > Teoria do Crime: Fato Típico > Fato Típico,5219;5221;5230,0.6,conf_baixa
+Q0200,revisar,4705,Direito Penal - Legislação Especial > Organizações Criminosas,,0.6,haiku_invalido
+Q0201,publicar,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,,0.9,consenso
+Q0202,revisar,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,5109,0.8,discordancia
+Q0203,revisar,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,6723,0.7,conf_baixa
+Q0204,publicar,5507,Processo Penal > Lei Processual no Tempo e no Espaço > Lei processual no Tempo,,0.9,consenso
+Q0205,revisar,5567,Processo Penal > Recursos em Espécies > Carta Testemunhavel,5514;5562,0.5,discordancia
+Q0206,revisar,5583,Processo Penal > Sujeitos do Processo,,0.8,discordancia
+Q0207,revisar,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,6734,0.7,conf_baixa
+Q0208,publicar,5072,Penal > Concurso de Pessoas > Autores e Partícipes,5231,0.7,consenso
+Q0209,revisar,5499,"Processo Penal > Inquérito Policial > Conceito, Finalidade e Caractéristas do Inquérito Policial",5582,0.6,conf_baixa
+Q0210,revisar,4697,Direito Penal - Legislação Especial > Estatuto do Desarmamento,,0.7,discordancia
+Q0211,revisar,5535,Processo Penal > Procedimento Ordinário > Audiência de Instrução e Julgamento,5582,0.4,discordancia
+Q0212,publicar,5488,Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos,,0.9,consenso
+Q0213,revisar,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,5533,0.7,conf_baixa
+Q0214,publicar,5494,Processo Penal > Das Questões e Processos Incidentes > Exceção de Litispendência e de Coisa Julgada,,0.9,consenso
+Q0215,publicar,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,5576,0.8,consenso
+Q0216,revisar,5541,Processo Penal > Procedimento Sumaríssimo > Transação Penal,5540,0.4,discordancia
+Q0217,revisar,4372,"Criminologia > Etapas Evolutivas e Escolas Criminológicas > Etapas Evolutivas da Criminologia (Antiguidade, Idade Média e Idade Moderna)",4373,0.6,discordancia
+Q0218,publicar,5518,Processo Penal > Prisões em Espécie > Prisão em Flagrante,,0.9,consenso
+Q0219,revisar,5074,Penal > Concurso de Pessoas > Participação,5072,0.6,conf_baixa
+Q0220,publicar,5501,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,,0.8,consenso
+Q0221,revisar,5200,"Penal > Teoria da Pena > Sanção Penal: Conceito, Finalidade e Modalidades",5184,0.7,conf_baixa
+Q0222,revisar,4376,Criminologia > Política Criminal > Direito Penal do Inimigo,4375,0.6,conf_baixa
+Q0223,revisar,5086,Penal > Dos Crimes Contra a Administração Judicial > Outros crimes contra a Administração Judicial,,0.6,discordancia
+Q0224,publicar,5203,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,5207,0.7,consenso
+Q0225,revisar,5478,Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal,5484,0.7,discordancia
+Q0226,publicar,5544,Processo Penal > Provas em Espécies > Cadeia de Custódia,,0.9,consenso
+Q0227,publicar,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,5104;5110,0.7,consenso
+Q0228,revisar,5208,Penal > Teoria da Pena > Livramento Condicional,6734,0.4,discordancia
+Q0229,revisar,5585,Processo Penal > Teoria Geral das Prisões > Conceitos e Espécies de Prisão,5519;5520;5586,0.6,discordancia
+Q0230,revisar,5214,Penal > Teoria do Crime: Culpabilidade > Erro de Proibição,5071;5200;5184,0.6,haiku_invalido
+Q0231,publicar,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,4708,0.8,consenso
+Q0232,revisar,5080,"Penal > Dos Crimes Contra a Administração Judicial > Denunciação Caluniosa, Comunicação Falsa de Crime ou Contravenção e Autoacusação Falsa",5079;5082;5081;5084,0.7,conf_baixa
+Q0233,publicar,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",,1.0,consenso
+Q0234,publicar,4381,Criminologia > Teoria Geral da Criminologia > Conceito e objeto da Criminologia,4382,0.7,consenso
+Q0235,revisar,5561,Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE),5493,0.7,discordancia
+Q0236,revisar,5490,Processo Penal > Das Questões e Processos Incidentes,5491;5495,0.6,conf_baixa
+Q0237,publicar,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",,1.0,consenso
+Q0238,revisar,5523,Processo Penal > Prisões em Espécie > Liberdade Provisória,,0.6,discordancia
+Q0239,revisar,5207,Penal > Teoria da Pena > Suspensão Condicional da Pena,,0.6,conf_baixa
+Q0240,revisar,5500,Processo Penal > Inquérito Policial > Procedimento do Inquérito Policial,5473,0.5,discordancia
+Q0241,publicar,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,,0.7,consenso
+Q0242,publicar,5512,Processo Penal > Parte Geral dos Recursos,,0.8,consenso
+Q0243,publicar,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",,0.9,consenso
+Q0244,revisar,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,,0.9,discordancia
+Q0245,publicar,5187,Penal > Prescrição > Contagem dos Prazos e Causas Suspensivas e Interruptivas da Prescrição,,0.8,consenso
+Q0246,revisar,5527,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",5213,0.9,discordancia
+Q0247,publicar,5502,Processo Penal > Inquérito Policial > Acordo de Não Persecução Penal,,0.9,consenso
+Q0248,publicar,5088,Penal > Dos Crimes Contra a Administração Pública > Noções gerais dos crimes praticados contra a administração pública,,0.8,consenso
+Q0249,revisar,5492,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",,0.6,discordancia
+Q0250,publicar,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,5576,0.8,consenso
+Q0251,publicar,5191,Penal > Punibilidade,5193,0.8,consenso
+Q0252,revisar,5206,Penal > Teoria da Pena > Pena de Multa,5208;5193,0.4,discordancia
+Q0253,publicar,4373,Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas,,0.9,consenso
+Q0254,revisar,4704,Direito Penal - Legislação Especial > Lei Maria da Penha,,0.6,discordancia
+Q0255,publicar,5213,Penal > Teoria do Crime: Culpabilidade > Inimputabilidade,,0.9,consenso
+Q0256,revisar,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,5214,0.6,conf_baixa
+Q0257,revisar,5219,"Penal > Teoria do Crime: Fato Típico > Conceito, Sujeito e Objeto do Crime",5227;5172,0.6,conf_baixa
+Q0258,publicar,5545,Processo Penal > Provas em Espécies > Exame de Corpo de Delito,,0.9,consenso
+Q0259,revisar,5183,Penal > Lei Penal no Tempo e no Espaço > Conflito Aparente de Normas,,0.8,discordancia
+Q0260,revisar,4376,Criminologia > Política Criminal > Direito Penal do Inimigo,4370,0.6,discordancia
+Q0261,revisar,5136,"Penal > Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso > Dos Crimescontra a Propriedade Imaterial",,0.6,discordancia
+Q0262,publicar,5184,Penal > Medida de Segurança,4703,0.7,consenso
+Q0263,publicar,5492,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",,0.9,consenso
+Q0264,publicar,5109,Penal > Dos Crimes Contra a Dignidade Sexual > Outros Crimes Contra a Dignidade Sexual,5103,0.8,consenso
+Q0265,revisar,5186,"Penal > Prescrição > Conceito, Regras Gerais e Fundamentos da Prescrição",5187,0.6,conf_baixa
+Q0266,revisar,5482,Processo Penal > Competência > Competência em Razão da Matéria,5481,0.7,discordancia
+Q0267,revisar,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,6728,0.6,discordancia
+Q0268,revisar,5121,Penal > Dos Crimes Contra a Honra > Disposições Gerais e Comuns aos Crimes Contra a Honra,5118;6716,0.3,haiku_invalido
+Q0269,revisar,5172,Penal > Introdução ao Estudo do Direito Penal > Princípios do Direito Penal,4375,0.6,discordancia
+Q0270,publicar,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,,0.9,consenso
+Q0271,revisar,5515,Processo Penal > Parte Geral dos Recursos > Efeito dos Recursos,5562,0.6,discordancia
+Q0272,revisar,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,6734,0.5,discordancia
+Q0273,revisar,5089,Penal > Dos Crimes Contra a Administração Pública > Peculato e Peculato Mediante Erro de Outrem,5222,0.7,discordancia
+Q0274,publicar,5160,Penal > Dos Crimes Contra o Patrimônio > Roubo,,0.9,consenso
+Q0275,revisar,5539,Processo Penal > Procedimento Sumaríssimo,5488,0.7,discordancia
+Q0276,revisar,5554,Processo Penal > Provas em Espécies > Busca e Apreensão,5545;5547;5548;5552,0.5,discordancia
+Q0277,publicar,4696,Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes,6722,0.8,consenso
+Q0278,publicar,5542,Processo Penal > Procedimento Sumaríssimo > Suspensão Condicional do Processo,4701,0.7,consenso
+Q0279,revisar,5188,Penal > Prescrição > Prescrição da Pretensão Punitiva,5187,0.6,discordancia
+Q0280,revisar,5121,Penal > Dos Crimes Contra a Honra > Disposições Gerais e Comuns aos Crimes Contra a Honra,5122;5064,0.7,discordancia
+Q0281,revisar,5555,Processo Penal > Provas em Espécies > Interceptação Telefônica e Quebra do Sigilo de Dados Telefônicos,4700;5499,0.6,conf_baixa
+Q0282,revisar,4704,Direito Penal - Legislação Especial > Lei Maria da Penha,6724,0.5,discordancia
+Q0283,publicar,5496,"Processo Penal > Das Questões e Processos Incidentes > Medidas Assecuratórias: Sequestro, Hipoteca Legal e Arresto",,0.9,consenso
+Q0284,revisar,5231,Penal > Teoria do Crime: Ilicitude > Legítima Defesa,5224;5214,0.7,conf_baixa
+Q0285,publicar,4376,Criminologia > Política Criminal > Direito Penal do Inimigo,,0.9,consenso
+Q0286,revisar,5204,Penal > Teoria da Pena > Terceira fase da Dosimetria: Causas de Aumento e de Diminuição,5202;5203,0.6,discordancia
+Q0287,revisar,5229,Penal > Teoria do Crime: Ilicitude > Conceito e Elementos da Ilicitude,5230,0.7,conf_baixa
+Q0288,revisar,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,4695;4688;5068;5087,0.4,discordancia
+Q0289,publicar,4704,Direito Penal - Legislação Especial > Lei Maria da Penha,6724,0.8,consenso
+Q0290,revisar,4701,Direito Penal - Legislação Especial > Juizado Especial Criminal,5540,0.6,discordancia
+Q0291,revisar,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,5500;6728,0.8,discordancia
+Q0292,publicar,4374,Criminologia > Política Criminal,,0.8,consenso
+Q0293,revisar,5187,Penal > Prescrição > Contagem dos Prazos e Causas Suspensivas e Interruptivas da Prescrição,5189;5188,0.6,discordancia
+Q0294,publicar,5212,Penal > Teoria do Crime: Culpabilidade > Conceito e Elementos da Culpabilidade,,0.8,consenso
+Q0295,publicar,5489,Processo Penal > Comunicação dos Atos Processuais > Intimação e Contagem dos Prazos,5488,0.8,consenso
+Q0296,revisar,5472,Processo Penal > Ação Penal > Ação Penal de Iniciativa Privada,,0.8,discordancia
+Q0297,publicar,4695,Direito Penal - Legislação Especial > Crimes Tributários,4689,0.8,consenso
+Q0298,revisar,4695,Direito Penal - Legislação Especial > Crimes Tributários,4694;4687,0.6,discordancia
+Q0299,revisar,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,4373,0.5,conf_baixa
+Q0300,revisar,5084,Penal > Dos Crimes Contra a Administração Judicial > Favorecimento Pessoal e Real,,0.5,discordancia
+Q0301,publicar,5197,Penal > Punibilidade > Perdão Judicial,5121,0.8,consenso
+Q0302,publicar,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,,0.9,consenso
+Q0303,revisar,5182,Penal > Lei Penal no Tempo e no Espaço > Lei penal no Espaço,5181,0.5,discordancia
+Q0304,revisar,5540,Processo Penal > Procedimento Sumaríssimo > Competência dos Juizados Especiais Criminais,4701,0.8,discordancia
+Q0305,revisar,5466,Processo Penal > Ação Penal,5470;5471;5473,0.7,discordancia
+Q0306,publicar,5146,Penal > Dos Crimes Contra a Saúde Pública e Dos Crimes Contra à Paz Pública > Crimes Contra à Paz Pública,,0.8,consenso
+Q0307,revisar,4707,Direito Penal - Legislação Especial > Tortura,,0.8,discordancia
+Q0308,publicar,5501,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,,0.8,consenso
+Q0309,publicar,4688,Direito Penal - Legislação Especial > Crimes contra o meio ambiente,6717,0.8,consenso
+Q0310,publicar,5507,Processo Penal > Lei Processual no Tempo e no Espaço > Lei processual no Tempo,5508;5506,0.8,consenso
+Q0311,publicar,5488,Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos,,0.9,consenso
+Q0312,revisar,4384,Criminologia > Teorias Legitimidoras da Pena,5200,0.7,conf_baixa
+Q0313,revisar,5209,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,5577;5475,0.7,discordancia
+Q0314,publicar,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,,0.9,consenso
+Q0315,revisar,5188,Penal > Prescrição > Prescrição da Pretensão Punitiva,5187,0.7,discordancia
+Q0316,revisar,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,5153,0.6,discordancia
+Q0317,publicar,5198,Penal > Punibilidade > Decadência,5471,0.8,consenso
+Q0318,revisar,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",,0.8,discordancia
+Q0319,revisar,5073,"Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria",5072,0.7,conf_baixa
+Q0320,publicar,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,,0.9,consenso
+Q0321,publicar,5073,"Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria",5071,0.8,consenso
+Q0322,publicar,5561,Processo Penal > Recursos em Espécies > Recurso em sentido estrito (RESE),5531,0.7,consenso
+Q0323,revisar,5590,Processo Penal > Teoria Geral das Provas,,0.6,discordancia
+Q0324,revisar,5200,"Penal > Teoria da Pena > Sanção Penal: Conceito, Finalidade e Modalidades",5184;4703,0.5,conf_baixa
+Q0325,revisar,5467,Processo Penal > Ação Penal > Características e Condições da Ação Penal,5473,0.5,conf_baixa
+Q0326,publicar,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,6728,0.8,consenso
+Q0327,revisar,5203,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,,0.7,discordancia
+Q0328,revisar,4381,Criminologia > Teoria Geral da Criminologia > Conceito e objeto da Criminologia,4382,0.7,conf_baixa
+Q0329,revisar,5557,Processo Penal > Provas em Espécies > Colaboração Premiada,4705,0.5,discordancia
+Q0330,publicar,5501,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,5503;5581,0.8,consenso
+Q0331,publicar,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,,0.9,consenso
+Q0332,revisar,5541,Processo Penal > Procedimento Sumaríssimo > Transação Penal,4701,0.5,discordancia
+Q0333,revisar,4373,Criminologia > Etapas Evolutivas e Escolas Criminológicas > Escolas Crimonológicas,,0.6,discordancia
+Q0334,publicar,4381,Criminologia > Teoria Geral da Criminologia > Conceito e objeto da Criminologia,,0.9,consenso
+Q0335,revisar,5221,Penal > Teoria do Crime: Fato Típico > Conduta,5222;5171,0.5,discordancia
+Q0336,publicar,5159,Penal > Dos Crimes Contra o Patrimônio > Furto,,0.9,consenso
+Q0337,publicar,4684,Direito Penal - Legislação Especial > Abuso de Autoridade,6716,0.9,consenso
+Q0338,revisar,5590,Processo Penal > Teoria Geral das Provas,5591;5548;5550;5545,0.7,conf_baixa
+Q0339,revisar,5572,Processo Penal > Sentença Penal,5578;5565;5527,0.5,conf_baixa
+Q0340,publicar,5071,Penal > Concurso de Pessoas,5074;5076;5203,0.8,consenso
+Q0341,revisar,5157,Penal > Dos Crimes Contra o Patrimônio,,0.6,conf_baixa
+Q0342,publicar,5545,Processo Penal > Provas em Espécies > Exame de Corpo de Delito,5546,0.7,consenso
+Q0343,revisar,5196,"Penal > Punibilidade > Renúncia, Perdão do Ofendido e Retratação",5195;5065,0.8,discordancia
+Q0344,revisar,4688,Direito Penal - Legislação Especial > Crimes contra o meio ambiente,6717,0.6,discordancia
+Q0345,revisar,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,5110;5203,0.7,discordancia
+Q0346,revisar,5583,Processo Penal > Sujeitos do Processo,,0.8,discordancia
+Q0347,revisar,5207,Penal > Teoria da Pena > Suspensão Condicional da Pena,,0.6,discordancia
+Q0348,revisar,5093,Penal > Dos Crimes Contra a Administração Pública > Corrupção Ativa,5182;6719,0.6,conf_baixa
+Q0349,revisar,5178,"Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior",,0.7,discordancia
+Q0350,revisar,4702,Direito Penal - Legislação Especial > Lavagem de Dinheiro,6723,0.6,discordancia
+Q0351,publicar,5118,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > Da Falsidade Documental,,0.8,consenso
+Q0352,revisar,5515,Processo Penal > Parte Geral dos Recursos > Efeito dos Recursos,5513;5514,0.7,discordancia
+Q0353,revisar,5188,Penal > Prescrição > Prescrição da Pretensão Punitiva,5535,0.6,conf_baixa
+Q0354,revisar,5227,Penal > Teoria do Crime: Fato Típico > Tipicidade,5226;5221;5072,0.7,conf_baixa
+Q0355,publicar,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,6728,0.8,consenso
+Q0356,publicar,5066,Penal > Concurso de Crimes,5067;5068;5070,0.8,consenso
+Q0357,revisar,5135,"Penal > Dos Crimes contra a Organização do Trabalho, a Propriedade Imaterial e ao Sentimento Religioso > Dos Crimes Contra a Organização do Trabalho",,0.6,discordancia
+Q0358,publicar,5133,"Penal > Dos Crimes Contra a Liberdade Pessoal > Dos Crimes contra a Inviolabilidade do Domicílio, Contra a Inviolabilidade da Correspondência e Contra a Inviolabilidade dos Segredos",,0.7,consenso
+Q0359,revisar,4696,Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes,6722,0.5,discordancia

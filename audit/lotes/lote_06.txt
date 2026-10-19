@@ -1,0 +1,90 @@
+﻿### Q0093 | conf=5
+ENUN: JOÃO e JOSÉ estão na praia e resolveram entrar no mar. Em determinado momento eles começam a se afogar. Havia naquele local um salva-vidas que, ao avistar apenas JOÃO, notou que ele era seu desafeto e se recusou a salvá-lo; próximo a eles havia também um surfista, este avistou apenas JOSÉ pedindo socorro, mas, por ser seu inimigo, não atendeu aos pedidos dele, resolvendo sair do local. As duas pessoas acabam se afogando e morrendo.
+ALT: A : O salva-vidas responde por homicídio doloso por omissão. B : O salva-vidas responde por omissão de socorro. C : O surfista responde por homicídio doloso por omissão. D : A conduta do surfista é atípica. E : O surfista responde por homicídio culposo.
+TEMA: 5223 | Penal > 2 > Crimes Omissivos e Comissivos
+EXTRAS: 
+
+### Q0081 | conf=5
+ENUN: Acerca das Escolas da Criminologia, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) A Escola Clássica da Criminologia tem, como objeto principal de estudo, o crime como um ente jurídico. ( ) A Escola da Criminologia Positivista tinha como principais adeptos Cesare Beccaria, Enrico Ferri e Raffaele Garofalo. ( ) A Escola da Criminologia Crítica recebe influência da Teoria do Labelling Approach. As afirmativas são, respectivamente,
+ALT: A : V – V – V. B : V – V – F. C : F – V – V. D : V – F – V. E : F – F – V.
+TEMA: 4373 | Criminologia > 2 > Escolas Crimonológicas
+EXTRAS: 
+
+### Q0082 | conf=5
+ENUN: João e Cléber, policiais militares do estado de Santa Catarina, receberam denúncia anônima no sentido de que Tício estaria agredindo a sua companheira. Em assim sendo, os agentes públicos compareceram ao local dos fatos e constataram, in loco, a violência perpetrada contra a mulher. Nesse contexto, durante a contenção de Tício, este se opôs à execução do ato afirmando que mataria João caso não fosse solto. Passados trinta minutos, o indivíduo foi acalmado pelos policiais e encaminhado à Delegacia de Polícia.
+ALT: A : excesso de exação, além da responsabilização pela infração penal perpetrada contra a sua companheira; B : desobediência, além da responsabilização pela infração penal perpetrada contra a sua companheira; C : tergiversação, além da responsabilização pela infração penal perpetrada contra a sua companheira; D : resistência, além da responsabilização pela infração penal perpetrada contra a sua companheira; E : concussão, além da responsabilização pela infração penal perpetrada contra a sua companheira.
+TEMA: 5100 | Penal > 2 > Resistência, Desobediência e Desacato
+EXTRAS: 
+
+### Q0086 | conf=5
+ENUN: Um Auditor-Fiscal do Trabalho deixou de autuar uma empresa que havia cometido infração às normas de segurança no trabalho porque o dirigente dessa empresa prometeu-lhe uma semana de estadia num hotel de luxo, com direito a acompanhante e todas as despesas inclusas. Ocorre que, após o encerramento dos trabalhos de fiscalização e lavratura do termo de regularidade da empresa, o dirigente da mesma negou-se a cumprir a promessa.
+ALT: A : cometeu o crime de enriquecimento ilícito. B : cometeu o crime de corrupção passiva. C : cometeu o crime de concussão. D : cometeu o crime de facilitação de descaminho. E : não cometeu nenhum desses crimes porque não chegou a receber a vantagem prometida.
+TEMA: 5092 | Penal > 2 > Corrupção Passiva
+EXTRAS: 
+
+### Q0053 | conf=5
+ENUN: Com relação aos juizados especiais criminais, às nulidades, aos recursos no processo penal e à execução penal, julgue o item a seguir. Diferentemente da suspensão condicional do processo, a homologação da transação penal no âmbito dos juizados especiais criminais faz coisa julgada material, de forma que o descumprimento das cláusulas do acordo não permite a continuidade da persecução penal.
+ALT: C E - - Certo Errado
+TEMA: 5541 | Processo Penal > 2 > Transação Penal
+EXTRAS: 
+
+### Q0030 | conf=5
+ENUN: Aquele que, mediante violência ou grave ameaça constrange alguém a trabalhar ou não trabalhar durante certo periodo:
+ALT: A : Não comete crime, por falta de capitulação legal; B : Comete crime de constrangimento ilegal; C : Comete crime de atentado contra a liberdade de trabalho; D : Comete crime por frustração de direito as­ segurado por lei trabalhista; E : Comete crime de atentado contra a liberdade do contrato de trabalho.
+TEMA: 5135 | Penal > 2 > Dos Crimes Contra a Organização do Trabalho
+EXTRAS: 
+
+### Q0032 | conf=5
+ENUN: Quando, no curso da investigação, houver motivo para duvidar da integridade mental do investigado, a autoridade policial devera
+ALT: A : concluir a investigação e, no relatório, informar tal circunstância, que será apreciada pelo Ministério Publico e pelo Magistrado. B : Requisitar de ofício, exame de sanidade mental junto ao Instituto Médico Legal. C : representar á autoridade judiciária para que o investigado seja submetido a exame médico-legal. D : oficiar ao Ministério Público, noticiando o fato e representando pela realização de exame para verificar a sanidade do investigado. E : poderá nomear mais de um perito para a realização do exame mental, em virtude de sua complexidade.
+TEMA: 5497 | Processo Penal > 2 > Incidente de Falsidade e de Insanidade Mental
+EXTRAS: 
+
+### Q0033 | conf=5
+ENUN: A prisão preventiva
+ALT: A : pode ser decretada como garantia da ordem pública, mas não da econômica. B : é obrigatória no caso de réu citado por edital e que não constituiu defensor, nos termos do art. 366 do Código de Processo Penal. C : não admite revogação por excesso de prazo para o término da instrução, medida cabível apenas para o relaxamento de flagrante. D : não é cabível se houver apresentação espontânea do acusado à autoridade. E : pode recair sobre acusado primário e de bons antecedentes.
+TEMA: 5519 | Processo Penal > 2 > Prisão Preventiva
+EXTRAS: 
+
+### Q0025 | conf=5
+ENUN: A conduta do particular de solicitar vantagem de contribuinte autuado pela fiscalização, a pretexto ilusório de influir em ato praticado por auditor fiscal, configura corrupção ativa.
+ALT: C E - - Certo Errado
+TEMA: 5101 | Penal > 2 > Tráfico de Influência
+EXTRAS: 5093
+
+### Q0013 | conf=5
+ENUN: A Lei nº 13.964/2019, denominada “pacote anti-crime”, inovou o sistema processual penal brasileiro. A Defensoria Pública do Paraná, em seu portal da internet (21/06/2023), registrou “apoio à implementação do juiz das garantias”, então sob discussão no STF, por considerar a sua criação “uma iniciativa fundamental para aprimorar o funcionamento da Justiça penal no país.” A nota da Defensoria afirma que “A medida busca [...] assegurar o respeito às garantias individuais”, contribuindo para “uma maior imparcialidade da justiça [...] para uma justiça mais eficaz e para um processo penal mais justo, beneficiando toda a sociedade”. Nesse contexto, incluem-se na competência legal do Juiz de Garantias as seguintes hipóteses, EXCETO:
+ALT: A - Julgar o habeas corpus impetrado durante a investigação, bem como determinar, de ofício, o trancamento do inqué...
+TEMA: 5503 | Processo Penal > 2 > Juiz das Garantias
+EXTRAS: 
+
+### Q0019 | conf=5
+ENUN: Considerando as relações entre as esferas criminal e cível e a ação civil ex delicto, assinale a alternativa INCORRETA:
+ALT: A - Aplicando a “teoria da norma ainda constitucional”...
+TEMA: 5475 | Processo Penal > 2 > Ação Civil Ex Delicto
+EXTRAS: 
+
+### Q0021 | conf=5
+ENUN: Sobre o Juiz das Garantias e o entendimento do STF no julgamento de ações diretas de inconstitucionalidade, julgue o item a seguir. O STF fixou o prazo, improrrogável, de doze meses, a contar da publicação da ata do julgamento, para que sejam adotadas as medidas legislativas e administrativas necessárias à adequação das diferentes leis de organização judiciária, à efetiva implantação e ao efetivo funcionamento do juiz das garantias em todo o país, tudo conforme as diretrizes do Conselho Nacional de Justiça e sob a supervisão dele.
+ALT: C E - - Certo Errado
+TEMA: 5503 | Processo Penal > 2 > Juiz das Garantias
+EXTRAS: 
+
+### Q0034 | conf=5
+ENUN: A situação em que o habeas corpus é medida de impugnação cabível é
+ALT: A : para trancar processo em curso por infração penal em que a pena pecuniária seja a única cominada. B : para que o advogado consiga ter acesso aos autos de inquérito policial. C : contra a decisão que inadmite assistente de acusação. D : para se pedir o desentranhamento de prova ilícita dos autos de inquérito policial ou de ação penal. E : para se obter restituição de coisas apreendidas.
+TEMA: 5477 | Processo Penal > 2 > Habeas Corpus
+EXTRAS: 
+
+### Q0047 | conf=5
+ENUN: Durante um pacífico protesto realizado no interior do Município Alfa, Caio, destoando do público presente e agindo com dolo, lançou uma pedra em direção ao pequeno estabelecimento comercial de João, gerando, em razão dos bens móveis destruídos, prejuízo considerável para a vítima. Na sequência, Caio jogou diversos paralelepípedos contra a sede da municipalidade, deteriorando o bem público. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que Caio responderá, em concurso, pelos crimes de
+ALT: A : dano qualificado em detrimento de João e dano qualificado por ter deteriorado bem público, hipóteses em que se procede mediante ação penal pública incondicionada. B : dano qualificado em detrimento de João, hipótese em que somente se procede mediante representação do ofendido, e dano qualificado por ter deteriorado bem público. C : dano simples em detrimento de João e dano simples por ter deteriorado bem público, hipóteses em que se procede mediante ação penal pública incondicionada. D : dano qualificado em detrimento de João, hipótese em que somente se procede mediante queixa, e dano qualificado por ter deteriorado bem público. E : dano simples em detrimento de João, hipótese em que somente se procede mediante queixa, e dano qualificado por ter deteriorado bem público.
+TEMA: 5164 | Penal > 2 > Dano
+EXTRAS: 
+
+### Q0049 | conf=5
+ENUN: Mévia e Tício foram namorados, por 5 anos. Mévia terminou a relação, por ter conhecido e se apaixonado por outra pessoa. Tício não se conformava com o término e, diagnosticado com depressão, todos os dias, durante meses, mandava mensagem para Mévia, dizendo que a vida sem ela perdera a graça. Mévia, sabendo da condição de saúde mental de Tício, manteve-se silente durante todo o tempo. Mas, um dia, irritada com as mensagens, que estavam causando instabilidade em seu atual relacionamento, Mévia envia a Tício a seguinte resposta: “se a vida perdeu a graça, de que vale viver? Seja homem ao menos uma vez! Coloque fim em seu sofrimento e pare de me infernizar! Eu até vou a seu enterro e faço uma homenagem póstuma!” Tício visualizou a mensagem, respondendo com “Ok”. Passados dois dias, Tício se joga da janela do prédio de sua casa. Por sorte, Tício cai em cima da carroceria de um caminhão, lota
+ALT: A : Mévia não incorreu em qualquer crime, visto que o tipo penal de induzimento, instigação ou auxílio a suicídio e automutilação, para se configurar, exige que da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza grave. B : Mévia, em tese, incorreu no crime de induzimento, instigação ou auxílio a suicídio e automutilação, que se configura com a conduta de induzir, instigar ou auxiliar, independentemente do resultado. C : Mévia, em tese, incorreu no crime de induzimento, instigação ou auxílio a suicídio e automutilação, na modalidade tentada, vez que a morte não se concretizou, por circunstância alheia a sua vontade. D : Mévia não incorreu em qualquer crime, visto que o tipo penal de induzimento, instigação ou auxílio a suicídio e automutilação, para se configurar, exige que da conduta de instigar, induzir ou auxiliar advenha, no mínimo, lesão de natureza leve. E : Mévia, em tese, incorreu no crime de induzimento, instigação ou auxílio a suicídio e automutilação, na figura qualificada, dada a relação afetiva, entre a vítima e o autor.
+TEMA: 5152 | Penal > 2 > Induzimento, Instigação ou Auxílio ao Suicídio
+EXTRAS: 
+

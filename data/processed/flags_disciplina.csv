@@ -1,0 +1,360 @@
+﻿id_questao,categoria_disc,origem,predita,tema_id,tema,confianca,assunto_origem
+Q0001,coerente,processo penal,processo penal,5526,,4,Procedimento do Júri
+Q0002,coerente,criminologia,criminologia,4387,,3,Teorias Legitimidoras da Pena
+Q0003,coerente,processo penal,processo penal,5534,,3,Ação Penal (Parte 02)
+Q0004,coerente,processo penal,processo penal,5482,,3,Competência (Parte 02)
+Q0005,coerente,direito penal,penal,5199,,3,Fixação do regime inicial da pena privativa de liberdade
+Q0006,coerente,direito penal,penal,5159,,3,Roubo
+Q0007,coerente,direito penal,penal,5064,,3,Ação Penal
+Q0008,coerente,direito penal,penal,5201,,3,Teoria da Pena (Parte 02)
+Q0009,coerente,direito penal,penal,5157,,3,Concurso de Crimes
+Q0010,coerente,direito penal,penal,6717,,4,Concurso de Crimes
+Q0011,coerente,direito penal - legislação especial,direito penal - legislação especial,4702,,3,Concurso de Crimes
+Q0012,coerente,processo penal,processo penal,5541,,3,Ação Penal (Parte 01)
+Q0013,coerente,processo penal,processo penal,5503,,4,"Sistemas de Investigação, Investigação Preliminar: Juiz das Garantias"
+Q0014,id_invalido,disciplina unificada,,,,3,Medidas Socioeducativas
+Q0015,coerente,processo penal,processo penal,5498,,5,Inquérito Policial
+Q0016,origem_fora,direito constitucional,processo penal,5585,,3,
+Q0017,coerente,processo penal,processo penal,5466,,3,Ação Penal (Parte 01)
+Q0018,coerente,processo penal,processo penal,5540,,3,Competência (Parte 02)
+Q0019,coerente,processo penal,processo penal,5467,,2,Ação Penal (Parte 01)
+Q0020,divergente,processo penal,penal,5062,,2,Ação Penal (Parte 02)
+Q0021,coerente,processo penal,processo penal,5503,,4,Competência (Parte 02)
+Q0022,coerente,direito penal,penal,5087,,3,Concurso de Crimes
+Q0023,coerente,processo penal,processo penal,5526,,4,Procedimento do Júri
+Q0024,coerente,criminologia,criminologia,4373,,3,
+Q0025,coerente,direito penal,penal,5093,,3,Ação Penal
+Q0026,id_invalido,processo penal,,5704,,2,Ação Penal
+Q0027,coerente,processo penal,processo penal,5488,,4,"Das Citações e Intimações, Citação no Processo Penal"
+Q0028,coerente,processo penal,processo penal,5466,,2,Comunicação dos atos processuais
+Q0029,coerente,direito penal - legislação especial,direito penal - legislação especial,4684,,5,Medida de Segurança
+Q0030,coerente,direito penal,penal,5128,,3,Lesão Corporal
+Q0031,coerente,criminologia,criminologia,4387,,4,Teorias Sociológicas Explicativas da Criminalidade
+Q0032,coerente,processo penal,processo penal,5500,,4,Inquérito Policial
+Q0033,coerente,processo penal,processo penal,5519,,4,Procedimento Ordinário e Sumário (Parte 02)
+Q0034,coerente,processo penal,processo penal,5477,,3,Inquérito Policial
+Q0035,coerente,direito penal - legislação especial,direito penal - legislação especial,4706,,5,
+Q0036,origem_vazia,,direito penal - legislação especial,4704,,3,
+Q0037,coerente,direito penal,penal,5066,,1,Crimes contra a administração pública
+Q0038,coerente,processo penal,processo penal,5466,,3,Ação Penal (Parte 01)
+Q0039,coerente,direito penal - legislação especial,direito penal - legislação especial,4687,,3,Concurso de Crimes
+Q0040,coerente,processo penal,processo penal,5560,,3,Recursos Criminais
+Q0041,coerente,direito penal,penal,5184,,5,Espécies de Medida de Segurança
+Q0042,coerente,penal,penal,5222,,4,"Tipo Penal Doloso, Tipicidade"
+Q0043,coerente,direito penal,penal,5199,,3,Teoria da Pena (Parte 02)
+Q0044,coerente,processo penal,processo penal,5487,,3,"Das Provas, Das Citações e Intimações, Confissão no Processo Penal"
+Q0045,coerente,penal,penal,5091,,5,"Concussão e Excesso de Exação , Crimes contra a administração pública"
+Q0046,coerente,processo penal,processo penal,5509,,5,Sistemas e Princípios Processuais Penais
+Q0047,coerente,direito penal,penal,5166,,2,Lesão Corporal
+Q0048,coerente,direito penal,penal,5199,,3,Teoria da Pena (Parte 02)
+Q0049,coerente,penal,penal,5153,,2,"Tipicidade, Crimes contra a vida"
+Q0050,coerente,direito penal,penal,5193,,2,Legislação Penal Especial
+Q0051,coerente,direito penal,penal,5182,,4,Concurso de Crimes
+Q0052,coerente,direito penal - legislação especial,direito penal - legislação especial,4703,,4,Teoria da Pena (Parte 02)
+Q0053,coerente,processo penal,processo penal,5541,,3,"Procedimento Penal, Procedimento comum sumaríssimo - Lei nº 9.099 de 1995 - Lei dos Juizados Especiais Criminais - JECRIM"
+Q0054,coerente,direito penal,penal,5174,,4,Classificação dos crimes
+Q0055,coerente,processo penal,processo penal,5550,,4,Comunicação dos atos processuais
+Q0056,coerente,direito penal,penal,5066,,4,Concurso de Crimes
+Q0057,coerente,direito penal,penal,5175,,5,Iter Criminis
+Q0058,coerente,criminologia,criminologia,4365,,2,Teorias Legitimidoras da Pena
+Q0059,coerente,criminologia,criminologia,4368,,3,Teorias Legitimidoras da Pena
+Q0060,coerente,direito penal,penal,5087,,3,Corrupção ativa
+Q0061,coerente,direito penal - legislação especial,direito penal - legislação especial,4703,,4,Teoria da Pena (Parte 02)
+Q0062,divergente,direito penal - legislação especial,penal,5182,,4,Concurso de Crimes
+Q0063,divergente,processo penal,direito penal - legislação especial,4708,,2,Inquérito Policial
+Q0064,coerente,direito penal,penal,5191,,3,Causas de extinção da punibilidade
+Q0065,coerente,direito penal,penal,5132,,4,Lesão Corporal
+Q0066,coerente,criminologia,criminologia,4373,,4,Etapas Evolutivas e Escolas Criminológicas
+Q0067,coerente,direito penal,penal,5092,,4,Concurso de Crimes
+Q0068,coerente,direito penal,penal,5150,,1,Crimes contra a fé pública
+Q0069,coerente,penal,penal,5171,,3,"Conceitos e caracteres, Noções Fundamentais"
+Q0070,coerente,penal,penal,5193,,4,
+Q0071,coerente,direito penal,penal,6717,,4,Teoria do Crime (Ilicitude)
+Q0072,coerente,processo penal,processo penal,5580,,3,Inquérito Policial
+Q0073,coerente,direito penal,penal,5087,,4,Concurso de Crimes
+Q0074,divergente,direito penal - legislação especial,penal,5181,,3,Teoria da Pena (Parte 02)
+Q0075,coerente,direito penal,penal,5191,,4,Causas de extinção da punibilidade
+Q0076,coerente,criminologia,criminologia,4381,,4,Conceitos Gerais de Criminologia
+Q0077,coerente,direito penal,penal,5180,,2,Concurso de Pessoas
+Q0078,coerente,direito penal - legislação especial,direito penal - legislação especial,4697,,4,Concurso de Crimes
+Q0079,coerente,processo penal,processo penal,5581,,4,Sistemas e Princípios Processuais Penais
+Q0080,coerente,criminologia,criminologia,4370,,4,Criminologia no Estado Democrático de Direito
+Q0081,coerente,criminologia,criminologia,4373,,4,Etapas Evolutivas e Escolas Criminológicas
+Q0082,coerente,direito penal,penal,5087,,4,Lesão Corporal
+Q0083,coerente,direito penal,penal,5150,,3,Concurso de Crimes
+Q0084,divergente,processo penal,penal,5062,,2,Sistemas e Princípios Processuais Penais
+Q0085,coerente,direito penal,penal,5076,,4,Concurso de Crimes
+Q0086,coerente,direito penal,penal,5092,,4,Concurso de Crimes
+Q0087,divergente,direito penal,processo penal,5519,,2,Legislação Penal Especial
+Q0088,coerente,criminologia,criminologia,4389,,4,Vitimologia
+Q0089,coerente,direito penal,penal,5218,,3,Teoria do Crime (Ilicitude)
+Q0090,coerente,processo penal,processo penal,5466,,2,Ação Penal (Parte 01)
+Q0091,coerente,direito penal,penal,5201,,4,Teoria da Pena (Parte 02)
+Q0092,coerente,processo penal,processo penal,5510,,4,Nulidades no Processo Penal
+Q0093,coerente,direito penal,penal,5150,,3,Concurso de Crimes
+Q0094,coerente,criminologia,criminologia,4368,,2,Teorias Sociológicas Explicativas da Criminalidade
+Q0095,id_invalido,direito penal,,5301,,1,Concurso de Crimes
+Q0096,coerente,processo penal,processo penal,5483,,4,Competência (Parte 01)
+Q0097,coerente,direito penal,penal,5066,,2,Concurso de Crimes
+Q0098,coerente,processo penal,processo penal,5548,,4,Ação Penal (Parte 01)
+Q0099,coerente,direito penal,penal,5062,,2,Lesão Corporal
+Q0100,coerente,direito penal,penal,5150,,2,Lesão Corporal
+Q0101,coerente,processo penal,processo penal,5530,,1,Comunicação dos atos processuais
+Q0102,coerente,processo penal,processo penal,5572,,4,Ação Penal (Parte 02)
+Q0103,coerente,processo penal,processo penal,5478,,5,Ação Penal (Parte 01)
+Q0104,coerente,processo penal,processo penal,5498,,4,Inquérito Policial
+Q0105,coerente,criminologia,criminologia,4387,,3,Teorias Sociológicas Explicativas da Criminalidade (Parte 02)
+Q0106,coerente,direito penal,penal,5159,,2,Crimes contra o patrimônio
+Q0107,coerente,penal,penal,5119,,4,"Outras falsidades, Crimes contra a fé pública"
+Q0108,coerente,processo penal,processo penal,5513,,2,Procedimento Ordinário e Sumário (Parte 02)
+Q0109,coerente,direito penal - legislação especial,direito penal - legislação especial,4708,,4,Prescrição
+Q0110,coerente,processo penal,processo penal,5480,,4,Competência (Parte 02)
+Q0111,coerente,criminologia,criminologia,4373,,4,Teorias Legitimidoras da Pena
+Q0112,divergente,processo penal,penal,5150,,1,Ação Penal (Parte 02)
+Q0113,coerente,direito penal,penal,5185,,3,Ação Penal
+Q0114,coerente,processo penal,processo penal,5511,,2,Inquérito Policial
+Q0115,coerente,criminologia,criminologia,4387,,4,Teorias Sociológicas Explicativas da Criminalidade
+Q0116,coerente,direito penal - legislação especial,direito penal - legislação especial,4708,,4,Prescrição
+Q0117,coerente,criminologia,criminologia,4384,,4,Teorias Legitimidoras da Pena
+Q0118,divergente,processo penal,penal,5190,,2,Sistemas e Princípios Processuais Penais
+Q0119,divergente,processo penal,penal,5180,,3,Lei Processual Penal no tempo e no espaço
+Q0120,coerente,processo penal,processo penal,5590,,3,Sistemas e Princípios Processuais Penais
+Q0121,coerente,processo penal,processo penal,5472,,4,"Ação penal de iniciativa privada: definição, princípios e espécies, Ação Penal"
+Q0122,coerente,direito penal - legislação especial,direito penal - legislação especial,4703,,4,Teoria da Pena (Parte 02)
+Q0123,coerente,criminologia,criminologia,4368,,3,Criminologia no Estado Democrático de Direito
+Q0124,coerente,criminologia,criminologia,4384,,4,Teorias Legitimidoras da Pena
+Q0125,coerente,direito penal - legislação especial,direito penal - legislação especial,4708,,3,Teoria da Pena (Parte 02)
+Q0126,coerente,direito penal,penal,5062,,2,Ação Penal
+Q0127,coerente,processo penal,processo penal,5582,,3,"Princípios fundamentais do direito processual penal, Do juiz, do ministério público, do acusado e defensor, dos assistentes e auxiliares da justiça"
+Q0128,coerente,processo penal,processo penal,5466,,2,Ação Penal (Parte 01)
+Q0129,coerente,processo penal,processo penal,5550,,4,Comunicação dos atos processuais
+Q0130,coerente,direito penal,penal,5222,,2,Concurso de Crimes
+Q0131,coerente,penal,penal,5073,,4,"Participação, Autoria e coautoria, Concurso de Pessoas"
+Q0132,coerente,processo penal,processo penal,5465,,3,Comunicação dos atos processuais
+Q0133,coerente,processo penal,processo penal,5526,,4,Procedimento do Júri
+Q0134,coerente,direito penal,penal,5092,,5,Crimes contra a administração pública
+Q0135,coerente,direito penal,penal,5169,,5,Crimes contra o patrimônio
+Q0136,divergente,processo penal,direito penal - legislação especial,4704,,4,Ação Penal (Parte 02)
+Q0137,origem_fora,direito civil - legislação especial,processo penal,5498,,4,
+Q0138,coerente,direito penal,penal,5205,,3,Teoria da Pena (Parte 02)
+Q0139,coerente,direito penal,penal,5212,,4,Culpabilidade
+Q0140,coerente,direito penal,penal,5157,,4,Concurso de Crimes
+Q0141,coerente,criminologia,criminologia,4387,,4,Teorias Sociológicas Explicativas da Criminalidade
+Q0142,id_invalido,direito tributário,,,,4,Impostos Estaduais
+Q0143,coerente,processo penal,processo penal,5505,,4,Lei Processual Penal no tempo e no espaço
+Q0144,coerente,processo penal,processo penal,5562,,4,"Recursos Criminais, Apelação no Processo Penal"
+Q0145,coerente,direito penal - legislação especial,direito penal - legislação especial,4702,,4,Concurso de Crimes
+Q0146,coerente,processo penal,processo penal,5555,,3,Ação Penal (Parte 01)
+Q0147,coerente,processo penal,processo penal,5498,,4,Inquérito Policial
+Q0148,coerente,direito penal,penal,5202,,3,Teoria da Pena (Parte 01)
+Q0149,coerente,processo penal,processo penal,5498,,4,Inquérito Policial
+Q0150,divergente,direito penal,direito penal - legislação especial,4708,,4,Legislação Penal Especial
+Q0151,coerente,processo penal,processo penal,5519,,3,Ação Penal (Parte 02)
+Q0152,divergente,processo penal,penal,5065,,4,Ação Penal
+Q0153,coerente,direito penal,penal,5222,,3,Iter Criminis
+Q0154,coerente,direito penal,penal,5062,,2,Legislação Penal Especial
+Q0155,id_invalido,direito penal,,5703,,2,Medida de Segurança
+Q0156,id_invalido,direito penal,,6730,,3,Punibilidade
+Q0157,coerente,processo penal,processo penal,5584,,3,Inquérito Policial
+Q0158,coerente,direito penal - legislação especial,direito penal - legislação especial,4691,,4,Teoria da Pena (Parte 02)
+Q0159,coerente,direito penal,penal,5071,,3,Concurso de Crimes
+Q0160,coerente,direito penal,penal,5205,,4,Teoria da Pena (Parte 02)
+Q0161,coerente,processo penal,processo penal,5517,,3,Inquérito Policial
+Q0162,coerente,criminologia,criminologia,4367,,2,Conceitos Gerais de Criminologia
+Q0163,coerente,direito penal - legislação especial,direito penal - legislação especial,4684,,3,Concurso de Crimes
+Q0164,id_invalido,direito penal - legislação especial,,703,,3,Teoria da Pena (Parte 02)
+Q0165,coerente,processo penal,processo penal,5466,,2,Ação Penal (Parte 02)
+Q0166,divergente,direito penal - legislação especial,penal,5201,,3,Teoria da Pena (Parte 02)
+Q0167,coerente,processo penal,processo penal,5524,,4,Comunicação dos atos processuais
+Q0168,coerente,direito penal,penal,5062,,2,Legislação Penal Especial
+Q0169,coerente,direito processual penal,processo penal,5490,,4,"Das Questões e Processos Incidentes, Suspeição e impedimento"
+Q0170,coerente,direito penal,penal,5199,,3,
+Q0171,coerente,processo penal,processo penal,5466,,2,Ação Penal (Parte 02)
+Q0172,coerente,processo penal,processo penal,5466,,3,Ação Penal (Parte 01)
+Q0173,coerente,direito penal - legislação especial,direito penal - legislação especial,4703,,4,Teoria da Pena (Parte 02)
+Q0174,coerente,direito penal,penal,5150,,1,Concurso de Crimes
+Q0175,coerente,penal,penal,5092,,4,"Corrupção passiva, Concussão e Excesso de Exação , Crimes contra a administração pública"
+Q0176,coerente,direito penal,penal,5081,,4,Concurso de Crimes
+Q0177,coerente,processo penal,processo penal,5547,,4,Comunicação dos atos processuais
+Q0178,divergente,penal,direito penal - legislação especial,4697,,4,"Legislação Penal Especial, Lei de Armas (Estatuto do Desarmamento) – Lei nº 10.826 de 2003 e Decretos Regulamentares"
+Q0179,coerente,criminologia,criminologia,4369,,4,Criminologia no Estado Democrático de Direito
+Q0180,coerente,processo penal,processo penal,5554,,4,"Das Provas, Inadmissibilidade das provas obtidas por meios ilícitos, Busca e apreensão"
+Q0181,coerente,direito penal - legislação especial,direito penal - legislação especial,4695,,3,Concurso de Crimes
+Q0182,coerente,direito penal,penal,5150,,2,Concurso de Crimes
+Q0183,coerente,processo penal,processo penal,5466,,2,Ação Penal
+Q0184,coerente,direito penal - legislação especial,direito penal - legislação especial,4708,,4,Concurso de Crimes
+Q0185,divergente,direito penal,direito penal - legislação especial,4703,,4,Legislação Penal Especial
+Q0186,coerente,direito penal,penal,5202,,4,Primeira fase da dosimetria
+Q0187,coerente,direito penal,penal,5222,,1,
+Q0188,coerente,direito penal,penal,5228,,4,Teoria do Crime (Ilicitude)
+Q0189,coerente,processo penal,processo penal,5469,,3,Ação Penal
+Q0190,coerente,processo penal,processo penal,5540,,4,Rito Sumaríssimo
+Q0191,coerente,processo penal,processo penal,5561,,3,Procedimento Ordinário e Sumário (Parte 02)
+Q0192,coerente,direito penal,penal,5087,,3,Concussão e Excesso de Exação
+Q0193,coerente,processo penal,processo penal,5557,,4,Inquérito Policial
+Q0194,coerente,direito penal,penal,5087,,3,Teoria do Crime Fato Típico Parte 03
+Q0195,coerente,criminologia,criminologia,4371,,4,Etapas Evolutivas e Escolas Criminológicas
+Q0196,coerente,criminologia,criminologia,4387,,4,Teorias Sociológicas Explicativas da Criminalidade (Parte 02)
+Q0197,coerente,processo penal,processo penal,5498,,3,Inquérito Policial
+Q0198,coerente,direito penal,penal,5073,,4,Concurso de Pessoas
+Q0199,coerente,direito penal,penal,5218,,3,Teoria do Crime Fato Típico Parte 03
+Q0200,id_invalido,processo penal,,5705,,2,Ação Penal (Parte 02)
+Q0201,coerente,direito penal,penal,5103,,4,Concurso de Crimes
+Q0202,coerente,direito penal,penal,5103,,4,Favorecimento de prostituição ou outra forma de exploração sexual de vulnerável
+Q0203,coerente,direito penal - legislação especial,direito penal - legislação especial,4702,,4,
+Q0204,coerente,processo penal,processo penal,5507,,4,Lei Processual Penal no tempo e no espaço
+Q0205,coerente,processo penal,processo penal,5512,,2,Ação Penal (Parte 02)
+Q0206,coerente,processo penal,processo penal,5466,,3,Comunicação dos atos processuais
+Q0207,divergente,direito penal,direito penal - legislação especial,4703,,4,Legislação Penal Especial
+Q0208,coerente,direito penal,penal,5072,,3,Concurso de Crimes
+Q0209,coerente,processo penal,processo penal,5498,,3,Inquérito Policial
+Q0210,coerente,direito penal,penal,5062,,2,Concurso de Crimes
+Q0211,coerente,processo penal,processo penal,5580,,2,"Do juiz, do ministério público, do acusado e defensor, dos assistentes e auxiliares da justiça"
+Q0212,coerente,processo penal,processo penal,5488,,4,"Das Citações e Intimações, Citação no Processo Penal"
+Q0213,divergente,penal,direito penal - legislação especial,4708,,4,"Legislação Penal Especial, Lei de Tóxicos – Lei nº 11.343 de 2006"
+Q0214,coerente,processo penal,processo penal,5494,,4,Das Questões e Processos Incidentes
+Q0215,coerente,penal,penal,5201,,4,"Penas privativas de liberdade, Regimes penitenciários"
+Q0216,coerente,processo penal,processo penal,5512,,1,Ação Penal (Parte 02)
+Q0217,coerente,criminologia,criminologia,4384,,3,Teorias Legitimidoras da Pena
+Q0218,origem_fora,direito constitucional,processo penal,5518,,4,
+Q0219,coerente,direito penal,penal,5071,,3,Concurso de Pessoas
+Q0220,coerente,processo penal,processo penal,5501,,4,Inquérito Policial
+Q0221,coerente,penal,penal,5199,,4,"Diferenças entre reclusão e detenção, Sanções penais, Penas privativas de liberdade"
+Q0222,divergente,direito penal,criminologia,4376,,3,Ação Penal
+Q0223,coerente,direito penal,penal,5132,,2,Tipicidade
+Q0224,coerente,direito penal,penal,5199,,3,Concurso de Crimes
+Q0225,coerente,processo penal,processo penal,5480,,3,Ação Penal (Parte 01)
+Q0226,coerente,processo penal,processo penal,5544,,4,Ação Penal (Parte 01)
+Q0227,coerente,direito penal,penal,5102,,3,Lesão Corporal
+Q0228,coerente,processo penal,processo penal,5590,,1,Ação Penal (Parte 02)
+Q0229,coerente,processo penal,processo penal,5519,,3,Lei Processual Penal no tempo e no espaço
+Q0230,id_invalido,direito penal,,,,2,Concurso de Pessoas
+Q0231,coerente,penal,penal,5224,,4,"Tipicidade, Erro do tipo essencial"
+Q0232,coerente,direito penal,penal,5079,,4,"Crimes contra a administração pública, Denunciação caluniosa"
+Q0233,coerente,direito penal,penal,5178,,5,Iter Criminis
+Q0234,coerente,criminologia,criminologia,4381,,3,Conceitos Gerais de Criminologia
+Q0235,coerente,processo penal,processo penal,5480,,3,Competência (Parte 02)
+Q0236,coerente,processo penal,processo penal,5490,,3,Ação Penal (Parte 01)
+Q0237,coerente,direito penal,penal,5178,,5,Iter Criminis
+Q0238,coerente,processo penal,processo penal,5480,,2,Ação Penal (Parte 02)
+Q0239,coerente,direito penal,penal,5199,,3,Punibilidade
+Q0240,coerente,processo penal,processo penal,5488,,2,Ação Penal (Parte 01)
+Q0241,coerente,direito penal,penal,5224,,3,Teoria do Crime (Fato Típico) Parte 02
+Q0242,coerente,processo penal,processo penal,5512,,4,Sistemas e Princípios Processuais Penais
+Q0243,coerente,direito penal,penal,5178,,4,Iter Criminis
+Q0244,coerente,penal,penal,5092,,4,"Crimes contra a administração pública, Concussão e Excesso de Exação"
+Q0245,coerente,direito penal,penal,5185,,4,Prescrição
+Q0246,coerente,processo penal,processo penal,5526,,4,Procedimento do Júri
+Q0247,coerente,processo penal,processo penal,5502,,4,Lei Processual Penal no tempo e no espaço
+Q0248,coerente,penal,penal,5087,,4,Crimes contra a administração pública
+Q0249,coerente,processo penal,processo penal,5480,,2,Competência (Parte 02)
+Q0250,coerente,direito penal,penal,5199,,4,Teoria da Pena (Parte 02)
+Q0251,coerente,direito penal,penal,5191,,4,Punibilidade
+Q0252,divergente,processo penal,penal,5150,,1,Ação Penal (Parte 02)
+Q0253,coerente,criminologia,criminologia,4373,,4,Teorias Legitimidoras da Pena
+Q0254,divergente,processo penal,penal,5062,,2,Comunicação dos atos processuais
+Q0255,coerente,direito penal,penal,5213,,4,Culpabilidade
+Q0256,coerente,direito penal,penal,5224,,3,Teoria do Crime (Fato Típico) Parte 02
+Q0257,coerente,penal,penal,5219,,3,"Teoria Geral do Delito, Tipicidade"
+Q0258,coerente,processo penal,processo penal,5545,,4,Procedimento do Júri
+Q0259,coerente,direito penal,penal,5170,,3,Teoria do Crime (Ilicitude)
+Q0260,coerente,criminologia,criminologia,4368,,3,Criminologia no Estado Democrático de Direito
+Q0261,divergente,direito penal,direito penal - legislação especial,4691,,3,Ação Penal
+Q0262,divergente,direito penal - legislação especial,penal,5184,,3,Medida de Segurança
+Q0263,coerente,processo penal,processo penal,5492,,4,Procedimento do Júri
+Q0264,coerente,direito penal,penal,5102,,4,Lesão Corporal
+Q0265,coerente,direito penal,penal,5185,,3,Punibilidade
+Q0266,coerente,processo penal,processo penal,5524,,3,Procedimento do Júri
+Q0267,divergente,processo penal,penal,5062,,2,"Procedimento especial da Lei nº 11.343 de 2006, Procedimento Penal"
+Q0268,id_invalido,direito penal,,,,1,Teoria do Crime (Ilicitude)
+Q0269,coerente,direito penal,penal,5171,,3,Introdução ao Estudo de Direito Penal
+Q0270,coerente,penal,penal,5091,,4,"Corrupção ativa, Corrupção passiva, Peculato"
+Q0271,coerente,processo penal,processo penal,5560,,3,Ação Penal (Parte 01)
+Q0272,coerente,direito penal,penal,5063,,2,Legislação Penal Especial
+Q0273,coerente,direito penal,penal,5222,,3,Tipo Penal Culposo
+Q0274,coerente,penal,penal,5160,,4,"Roubo, Crimes contra o patrimônio"
+Q0275,coerente,processo penal,processo penal,5487,,4,Comunicação dos atos processuais
+Q0276,coerente,processo penal,processo penal,5555,,2,Inquérito Policial
+Q0277,origem_fora,direito civil - legislação especial,direito penal - legislação especial,4696,,4,
+Q0278,coerente,processo penal,processo penal,5539,,3,Procedimento Ordinário e Sumário (Parte 02)
+Q0279,coerente,penal,penal,5196,,2,"Causas de extinção da punibilidade, Crimes contra o patrimônio, Desistência voluntária e arrependimento eficaz"
+Q0280,coerente,processo penal,processo penal,5466,,4,Comunicação dos atos processuais
+Q0281,coerente,processo penal,processo penal,5555,,3,Sistemas e Princípios Processuais Penais
+Q0282,divergente,processo penal,direito penal - legislação especial,4690,,2,Ação Penal
+Q0283,coerente,processo penal,processo penal,5496,,4,Ação Penal (Parte 01)
+Q0284,coerente,direito penal,penal,5231,,4,Concurso de Crimes
+Q0285,divergente,direito penal,criminologia,4376,,4,Teoria Geral do Delito
+Q0286,coerente,direito penal,penal,5066,,3,Concurso de Crimes
+Q0287,coerente,direito penal,penal,5228,,4,Teoria do Crime (Ilicitude)
+Q0288,coerente,direito penal,penal,5066,,2,Concurso de Crimes
+Q0289,coerente,direito penal - legislação especial,direito penal - legislação especial,4704,,4,
+Q0290,coerente,processo penal,processo penal,5481,,2,Ação Penal
+Q0291,divergente,direito penal - legislação especial,processo penal,5498,,4,Ação Penal
+Q0292,coerente,criminologia,criminologia,4374,,4,Política Criminal
+Q0293,coerente,penal,penal,5189,,3,
+Q0294,coerente,direito penal,penal,5212,,4,Culpabilidade
+Q0295,coerente,processo penal,processo penal,5489,,4,Comunicação dos atos processuais
+Q0296,coerente,processo penal,processo penal,5467,,4,Ação Penal (Parte 01)
+Q0297,coerente,direito penal - legislação especial,direito penal - legislação especial,4695,,4,Ação Penal
+Q0298,coerente,direito penal - legislação especial,direito penal - legislação especial,4694,,4,Teoria do Crime (Ilicitude)
+Q0299,coerente,criminologia,criminologia,4385,,2,Teorias Legitimidoras da Pena
+Q0300,coerente,penal,penal,5158,,2,"Crimes contra a administração pública, Favorecimento pessoal"
+Q0301,coerente,direito penal,penal,5197,,4,Lesão Corporal
+Q0302,coerente,penal,penal,5224,,4,"Tipicidade, Erro do tipo essencial"
+Q0303,coerente,direito penal,penal,5185,,1,Ação Penal
+Q0304,coerente,direito penal - legislação especial,direito penal - legislação especial,4701,,4,
+Q0305,divergente,processo penal,penal,5064,,4,Ação Penal
+Q0306,coerente,direito penal,penal,5146,,4,Crimes contra a paz pública
+Q0307,coerente,direito penal - legislação especial,direito penal - legislação especial,4693,,3,Concurso de Crimes
+Q0308,coerente,processo penal,processo penal,5501,,4,"Inquérito Policial, Encerramento do Inquérito Policial"
+Q0309,origem_fora,direito ambiental,direito penal - legislação especial,4688,,4,Sistema de responsabilização por ilícitos ambientais
+Q0310,coerente,processo penal,processo penal,5505,,4,Lei Processual Penal no tempo e no espaço
+Q0311,coerente,processo penal,processo penal,5488,,4,"Das Citações e Intimações, Citação no Processo Penal"
+Q0312,coerente,criminologia,criminologia,4384,,4,Teorias Legitimidoras da Pena
+Q0313,divergente,direito penal,processo penal,5577,,3,Teoria da Pena (Parte 02)
+Q0314,coerente,processo penal,processo penal,5477,,4,Ação Penal
+Q0315,coerente,direito penal,penal,5189,,3,Concurso de Crimes
+Q0316,coerente,direito penal,penal,5066,,2,Concurso de Crimes
+Q0317,coerente,direito penal,penal,5198,,4,Concurso de Crimes
+Q0318,coerente,penal,penal,5227,,3,
+Q0319,coerente,direito penal,penal,5073,,4,Concurso de Pessoas
+Q0320,coerente,processo penal,processo penal,5550,,4,Inquérito Policial
+Q0321,coerente,direito penal,penal,5071,,4,Concurso de Pessoas
+Q0322,coerente,processo penal,processo penal,5561,,3,Procedimento Ordinário
+Q0323,coerente,processo penal,processo penal,5543,,3,Sistemas e Princípios Processuais Penais
+Q0324,divergente,direito penal - legislação especial,penal,5199,,3,Teoria da Pena (Parte 02)
+Q0325,coerente,processo penal,processo penal,5466,,3,Ação Penal
+Q0326,coerente,direito penal - legislação especial,direito penal - legislação especial,4708,,4,Concurso de Crimes
+Q0327,coerente,direito penal,penal,5202,,3,
+Q0328,coerente,criminologia,criminologia,4381,,4,Conceitos Gerais de Criminologia
+Q0329,coerente,processo penal,processo penal,5480,,1,Ação Penal (Parte 01)
+Q0330,coerente,processo penal,processo penal,5498,,4,Inquérito Policial
+Q0331,coerente,processo penal,processo penal,5477,,4,Comunicação dos atos processuais
+Q0332,coerente,processo penal,processo penal,5488,,1,Ação Penal (Parte 02)
+Q0333,coerente,direito penal,penal,5175,,2,Iter Criminis
+Q0334,coerente,criminologia,criminologia,4381,,4,Conceitos Gerais de Criminologia
+Q0335,coerente,penal,penal,5170,,2,"Classificação dos crimes, Teoria Geral do Delito"
+Q0336,coerente,penal,penal,5159,,4,"Crimes contra o patrimônio, Furto"
+Q0337,coerente,direito penal - legislação especial,direito penal - legislação especial,4684,,5,Concurso de Crimes
+Q0338,coerente,processo penal,processo penal,5590,,4,Sistemas e Princípios Processuais Penais
+Q0339,coerente,processo penal,processo penal,5578,,3,Ação Penal (Parte 01)
+Q0340,coerente,direito penal,penal,5071,,4,Concurso de Pessoas
+Q0341,coerente,direito penal,penal,5157,,3,Concurso de Crimes
+Q0342,coerente,processo penal,processo penal,5543,,3,Inquérito Policial
+Q0343,divergente,processo penal,penal,5065,,4,"Ação penal de iniciativa privada: definição, princípios e espécies, Ação Penal"
+Q0344,coerente,direito penal,penal,5062,,2,Ação Penal
+Q0345,coerente,direito penal,penal,5110,,3,
+Q0346,coerente,processo penal,processo penal,5466,,3,Sistemas e Princípios Processuais Penais
+Q0347,coerente,direito penal,penal,5069,,3,Crime continuado
+Q0348,coerente,direito penal,penal,5093,,3,
+Q0349,coerente,direito penal,penal,5170,,2,Concurso de Crimes
+Q0350,coerente,direito penal,penal,5063,,2,Legislação Penal Especial
+Q0351,coerente,direito penal,penal,5116,,3,Teoria do Crime (Ilicitude)
+Q0352,coerente,processo penal,processo penal,5560,,4,Ação Penal
+Q0353,divergente,processo penal,penal,5185,,3,Ação Penal (Parte 02)
+Q0354,coerente,direito penal,penal,5218,,4,Teoria do Crime (Fato Típico) Parte 02
+Q0355,divergente,direito penal,direito penal - legislação especial,4708,,4,Concurso de Crimes
+Q0356,coerente,penal,penal,5066,,4,Concurso de crimes
+Q0357,divergente,direito penal,processo penal,5465,,1,Iter Criminis
+Q0358,coerente,penal,penal,5133,,3,Crimes contra a inviolabilidade de segredos
+Q0359,divergente,processo penal,penal,5070,,1,Ação Penal (Parte 02)

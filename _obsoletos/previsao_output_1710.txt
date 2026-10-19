@@ -1,0 +1,27 @@
+PREVISAO DE DESEMPENHO - sem gabarito
+=========================================
+Total de questoes: 359
+Decisoes: {'revisar': 271, 'publicar': 87, 'fora': 1}
+
+1) PRECISAO em 'publicar'
+   Auditoria manual CENSITARIA: 87 de 87 publicadas, 87 acertos (pai/filho = acerto; irmao = erro)
+   Precisao observada: 1.000
+   IC 95% Wilson (bilateral): [0.958, 1.000]
+   Clopper-Pearson unilateral 95%, limite inferior: 0.966
+   Correcao pop. finita (censo -> sem erro amostral no lote, N=87): 1.000
+   -> Estimativa: precisao >= 95.8% com 95% de confianca (regua: 95%)
+
+2) COBERTURA (fracao publicada automaticamente)
+   Observada: 87/359 = 0.242
+   IC 95% Wilson para lotes futuros: [0.201, 0.289]
+
+3) JUSTIFICATIVA
+   - Sem gabarito: auditoria juridica de 100% das publicadas (censo). Precisao no lote = 100.0% exata; o IC Wilson/Clopper projeta a precisao para lotes futuros (superpopulacao).
+   - Avaliacao contra a arvore temas.csv, nao contra o rotulo de origem (ruidoso:
+     'Concurso de Crimes' como lixeira, origens vazias).
+   - Cobertura de 24% e escolha deliberada: erro em 'publicar' custa mais que a fila do professor.
+   - Usado o limite inferior bilateral (conservador); com zero erros o Wilson nao colapsa em 1,0.
+
+4) RISCOS
+   - Vies do auditor interno. Mitigacao: revisao cega pelo professor.
+   - Mudanca de distribuicao em producao. Mitigacao: re-auditar n~60/semana e monitorar o limite inferior de Wilson.

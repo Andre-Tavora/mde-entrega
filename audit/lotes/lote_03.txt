@@ -1,0 +1,90 @@
+﻿### Q0231 | conf=4
+ENUN: Aquele que pratica conduta descrita no tipo penal do delito de tráfico de drogas, mas em erro sobre elemento constitutivo do tipo, ou seja, em hipótese de erro de tipo essencial poderá
+ALT: A : alegar atipicidade da conduta. B : responder pela modalidade culposa do delito. C : ser isento de pena. D : ter a pena diminuída com base em causa especial de diminuição de pena. E : alegar excludente de ilicitude da conduta.
+TEMA: 5224 | Penal > 2 > Erro de Tipo
+EXTRAS: 4708
+
+### Q0003 | conf=4
+ENUN: Francisco foi processado pelo Ministério Público pelo delito de furto. Contudo, após a resposta preliminar, foi absolvido sumariamente, tendo o juízo decidido que o fato narrado na denúncia evidentemente não constitui crime. Nesse contexto, é correto afirmar que, em face da referida decisão, caberá:
+ALT: A : recurso em sentido estrito a ser interposto pelo Ministério Público e, se transitada em julgado, vinculará o juízo cível; B : recurso de apelação a ser interposto pelo Ministério Público e, se transitada em julgado, não vinculará o juízo cível; C : correição parcial a ser manejada pelo Ministério Público e, se transitada em julgado, não vinculará o juízo cível; D : recurso de apelação a ser interposto pelo Ministério Público e, se transitada em julgado, vinculará o juízo cível; E : correição parcial a ser manejada pelo Ministério Público e, se transitada em julgado, vinculará o juízo cível.
+TEMA: 5534 | Processo Penal > 2 > Absolvição Sumária
+EXTRAS: 5562;5475
+
+### Q0005 | conf=4
+ENUN: Carlos foi denunciado pelo crime de furto qualificado, praticado em 15/5/2022. Após a tramitação regular do processo, o juiz fixou a pena base no mínimo legal, tendo em seguida agravado em 1/6 a pena em face da reincidência, sob o fundamento de que o réu possuía uma condenação anterior transitada em julgado, e impôs o regime fechado para início de cumprimento de pena. Na condenação anterior, Carlos havia recebido o livramento condicional em 27/4/2015, cumprindo-o sem revogações até 27/4/2019, e a decisão que declarou extinta a pena foi proferida em 29/6/2020. Considerando-se a situação hipotética apresentada, bem como a pena e o regime fixados pelo juiz, é correto afirmar que, em relação ao crime de furto qualificado praticado em 15/5/2022, Carlos é
+ALT: A : reincidente, e o regime inicial cabível é o fechado, visto que o período depurador referente à condenação anterior começou a correr em 27/4/2019. B : reincidente, e o regime inicial cabível é o fechado, visto que o período depurador referente à condenação anterior começou a correr em 29/6/2020. C : primário, e o regime inicial cabível é o semiaberto, visto que o período depurador se iniciou em 27/4/2015 e a pena é superior a quatro anos. D : primário, e o regime cabível é o aberto, visto que o período depurador foi cumprido sem revogação e a pena é inferior a quatro anos. E : reincidente, e o regime cabível é o semiaberto, visto que, dada a pena aplicada, incide no caso a súmula n.º 269 do STJ.
+TEMA: 5203 | Penal > 2 > Segunda Fase da Dosimetria: Agravantes e Atenuantes
+EXTRAS: 5201
+
+### Q0026 | conf=4
+ENUN: Está fora do âmbito de proteção da Lei n.º 11.340/2006, que trata da violência doméstica contra a mulher,
+ALT: A : a filha transexual que é ameaçada pelo pai dentro da própria residência. B : a mãe vulnerável que é ameaçada e agredida pela própria filha com a qual convive. C : a mulher agredida dentro do ambiente laboral por colega de trabalho do sexo masculino com quem nunca teve relação íntima ou de afeto. D : a empregada doméstica agredida pelo neto da empregadora dentro da casa desta. E : a mulher vítima de contravenção penal em razão do gênero.
+TEMA: 4704 | Direito Penal - Legislação Especial > 1 > Lei Maria da Penha
+EXTRAS: 6724
+
+### Q0153 | conf=4
+ENUN: O agente que imagina já ter obtido o resultado pensado por ele, sem tê-lo alcançado, e, por isso, pratica outra conduta que efetivamente alcança o objetivo primário realiza a conduta em dolo
+ALT: A : geral. B : de segundo grau. C : eventual. D : alternativo. E : cumulativo.
+TEMA: 5222 | Penal > 2 > Crime Doloso e Culposo
+EXTRAS: 5224
+
+### Q0146 | conf=4
+ENUN: A Constituição Federal de 1988, no artigo 5°, inciso LVI, prevê expressamente a inadmissibilidade da utilização no processo de provas obtidas por meios ilícitos. De acordo com as teorias adotadas pelo legislador brasileiro e recente entendimento jurisprudencial, descarta-se a ilicitude da prova na seguinte situação.
+ALT: A : Juca está sendo acusado de crime, porém alega que é inocente e tudo não passa de um plano vingativo elaborado por seu desafeto político. No intuito de provar sua inocência, Juca contrata investigador particular, o qual instala sistema de captação de imagem e som clandestinamente no escritório do seu desafeto. Por meio das imagens e som gravados, Juca consegue extrair conversa que prova indubitavelmente não ser ele autor do crime denunciado e faz a juntada nos autos do processo judicial. B : Um grupo de policiais civis estava executando operação contra o tráfico na cidade de Campo Grande-MS, quando suspeitou que Arnolgildo estaria filmando toda ação policial. Por esse motivo, Arnolgildo foi então abordado pelos policiais civis, os quais, sem a existência de mandado judicial, efetuaram uma busca na sua residência e localizaram 9 gramas de crack e 0,4 gramas de cocaína. Arnolgildo foi preso em flagrante pela acusação de tráfico de drogas. C : Autorizada interceptação telefônica em face de Diná Sabino de acordo com os ditames legais, ao término, é extraída prova da prática de delito por esta. No entanto, as conversas de cunho probatório são aquelas que haviam sido realizadas entre Diná Sabino e seu advogado, quando a primeira confessa a prática de crimes e requer orientação de como proceder para ser inocentada. D : Ao cumprir mandado de busca e apreensão em investigação de crime de homicídio, os policiais acessam os computadores da residência do investigado e levantam diversos dados que demonstram a coautoria do vizinho. Dessa forma, os policiais estendem informalmente o mandado judicial e cumprem a diligência, também, na residência do vizinho, em observância ao princípio da celeridade processual. E : Chegou ao conhecimento da autoridade policial que determinado caminhão estava transportando alta quantidade de drogas. Em cumprimento de mandado judicial, foram realizadas busca e apreensão do veículo, confirmando-se o fato. No decorrer do processo judicial, constatou-se que o crime havia sido descoberto no 16° dia do início de interceptação telefônica, deferida judicialmente pelo prazo inicial de 30 dias. Verificou-se, ainda, que houve pedido de prorrogação após um dia do término do prazo inicial.
+TEMA: 5594 | Processo Penal > 2 > Prova Ilegal e Prova Ilícita
+EXTRAS: 
+
+### Q0273 | conf=4
+ENUN: É punido na modalidade culposa o crime de
+ALT: A : peculato. B : falsidade ideológica. C : condescendência criminosa. D : violação de sigilo funcional. E : supressão de tributos mediante omissão de informação.
+TEMA: 5089 | Penal > 2 > Peculato e Peculato Mediante Erro de Outrem
+EXTRAS: 5222
+
+### Q0029 | conf=4
+ENUN: Nos termos da Lei nº 13.869/2019, configura crime de abuso de autoridade
+ALT: A : deixar de entregar ao preso, imediatamente, a nota de culpa, assinada pela autoridade, com o motivo da prisão e os nomes do condutor e das testemunhas. B : prosseguir com o interrogatório de pessoa que tenha optado por ser assistida por advogado, sem a presença de seu patrono. C : submeter a pessoa, presa em flagrante, a interrogatório policial, durante o período de repouso noturno. D : impedir a entrevista pessoal e reservada do preso com seu advogado, ainda que de modo justificado. E : adentrar, mediante consentimento do ocupante, imóvel alheio ou suas dependências, ou nele permanecer nas mesmas condições, sem determinação judicial.
+TEMA: 4684 | Direito Penal - Legislação Especial > 1 > Abuso de Autoridade
+EXTRAS: 6716
+
+### Q0267 | conf=4
+ENUN: Matheus, caminhoneiro, foi capturado em flagrante enquanto transportava, na fronteira entre a República Federativa do Brasil e a Colômbia, cem quilos de cocaína. Em assim sendo, o indivíduo foi encaminhado à presença do delegado de polícia federal, que constatou que, na unidade policial, inexistia perito oficial para firmar o laudo de constatação da natureza e quantidade da droga. Dessa forma, o laudo pericial foi lavrado por uma pessoa idônea. Nesse cenário, considerando as disposições da Lei n o 11.343/2006, é correto afirmar que:
+ALT: A : recebida cópia do auto de prisão em flagrante, o juiz, no prazo de dez dias, certificará a regularidade formal do laudo de constatação e determinará a destruição das drogas apreendidas, guardando-se amostra necessária à realização do laudo definitivo; B : com a ratificação da prisão em flagrante de Matheus, o delegado de polícia fará, imediatamente, comunicação ao juiz competente, ao Ministério Público e à Defensoria Pública, remetendo-lhes cópia do auto lavrado; C : o local da destruição das drogas será vistoriado antes e depois de efetivada a medida, sendo lavrado auto circunstanciado pela autoridade sanitária, certificando-se neste a destruição total do material; D : a constatação da natureza e quantidade da droga se deu de forma irregular, pois não é possível suprir a ausência de perito oficial, substituindo-o por pessoa idônea, por ausência de previsão legal; E : a destruição das drogas será executada pelo delegado de polícia competente, na presença do Ministério Público, da autoridade sanitária e do juiz que ordenar a adoção da medida.
+TEMA: 4708 | Direito Penal - Legislação Especial > 1 > Tráfico de Drogas
+EXTRAS: 6728
+
+### Q0248 | conf=4
+ENUN: Considere os seguintes tipos penais praticados contra a Administração Pública: Tipos penais 1. Desobediência 2. Resistência 3. Corrupção passiva 4. Corrupção ativa 5. Concussão Ação a. Solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, ou aceitar promessa de tal vantagem. b. Exigir, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida. c. Opor-se à execução de ato legal, mediante violência ou ameaça a funcionário competente para executá-lo ou a quem lhe esteja prestando auxílio. d. Desobedecer a ordem legal de funcionário público. e. Oferecer ou prometer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou retardar ato de ofício. A correta correlação entre o tipo penal e a sua
+ALT: A : 1-d - 2-a - 3-b - 4-e - 5-c. B : 1-a - 2-c - 3-d - 4-e - 5-b. C : 1-d - 2-c - 3-a - 4-e - 5-b. D : 1-d - 2-b - 3-a - 4-e - 5-c. E : 1e - 2-c - 3-a - 4-d - 5-b.
+TEMA: 5088 | Penal > 2 > Noções gerais dos crimes praticados contra a administração pública
+EXTRAS: 
+
+### Q0283 | conf=5
+ENUN: Antonio acabou de sofrer hipoteca, determinada por juiz criminal, de imóvel que recebeu de seu pai. Nesse caso,
+ALT: A : se houver sentença condenatória transitada em julgado, o próprio juiz criminal determinará a avaliação e a venda do bem em leilão público. B : os embargos são o recurso cabível contra a decretação da hipoteca. C : a medida é cabível, ainda que Antonio seja terceiro, não investigado. D : o imóvel, de origem lícita, não poderia ter sido hipotecado. E : Antonio poderia ter oferecido caução em dinheiro para que o juiz deixasse de mandar proceder à inscrição da hipoteca legal.
+TEMA: 5496 | Processo Penal > 2 > Medidas Assecuratórias: Sequestro, Hipoteca Legal e Arresto
+EXTRAS: 
+
+### Q0274 | conf=5
+ENUN: Tendo como referência a jurisprudência sumulada dos tribunais superiores, julgue o item a seguir, acerca de crimes, penas, imputabilidade penal, aplicação da lei penal e institutos. Na hipótese de tentativa de subtração patrimonial e morte consumada, o agente responderá pelo crime de latrocínio consumado.
+ALT: C E - - Certo Errado
+TEMA: 5160 | Penal > 2 > Roubo
+EXTRAS: 
+
+### Q0270 | conf=5
+ENUN: João conduzia o seu veículo automotor, ocasião em que foi parado por uma blitz da Polícia Militar. Após analisar a documentação do condutor, o policial Caio exigiu, para si, R$ 2.000,00 para liberar o automóvel. Nesse cenário, considerando as disposições do Código Penal, Caio responderá pelo crime de:
+ALT: A : excesso de exação; B : corrupção passiva; C : corrupção ativa; D : concussão; E : peculato.
+TEMA: 5091 | Penal > 2 > Concussão e Excesso de Exação
+EXTRAS: 
+
+### Q0307 | conf=5
+ENUN: Determinado policial militar efetuou a prisão em flagrante de Luciano e o conduziu à delegacia de polícia. Lá, com o objetivo de fazer Luciano confessar a prática dos atos que ensejaram sua prisão, o policial responsável por seu interrogatório cobriu sua cabeça com um saco plástico e amarrou-o no seu pescoço, asfixiando-o. Como Luciano não confessou, o policial deixou-o trancado na sala de interrogatório durante várias horas, pendurado de cabeça para baixo, no escuro, período em que lhe dizia que, se ele não confessasse, seria morto. O delegado de polícia, ciente do que ocorria na sala de interrogatório, manteve-se inerte. Em depoimento posterior, Luciano afirmou que a conduta do policial lhe provocara intenso sofrimento físico e mental. Considerando a situação hipotética acima e o disposto na Lei Federal n.º 9.455/1997, julgue o item subsequente. O delegado não pode ser considerado coau
+ALT: C E - - Certo Errado
+TEMA: 4707 | Direito Penal - Legislação Especial > 1 > Tortura
+EXTRAS: 
+
+### Q0302 | conf=5
+ENUN: César é açougueiro e está trabalhando regulamente no freezer do açougue, quando uma pessoa, fugindo da Polícia, se esconde atrás de algumas peças de carne, sem que César tenha percebido. Ao terminar seu turno, cansado, César acaba jogando uma enorme faca em direção a um armário, momento em que a faca acaba por acertar fatalmente o fugitivo. Sobre a conduta de César, trata-se de caso de exclusão
+ALT: A : do dolo por erro de tipo. B : da imputabilidade. C : da culpabilidade por inexigibilidade de conduta diversa. D : do dolo por erro de proibição. E : de ilicitude.
+TEMA: 5224 | Penal > 2 > Erro de Tipo
+EXTRAS: 
+

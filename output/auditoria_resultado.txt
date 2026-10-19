@@ -1,0 +1,1 @@
+﻿Auditoria publicar: 87/87 certas | Precisao pontual: 100,0% | Wilson 95%: [95,8% ; 100,0%]

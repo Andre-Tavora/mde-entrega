@@ -1,0 +1,90 @@
+﻿### Q0285 | conf=5
+ENUN: Constitui uma das características do direito penal do inimigo
+ALT: A : a legislação diferenciada. B : a punição a partir de atos executórios. C : a não utilização de medidas de segurança. D : a observância das garantias processuais penais. E : o abrandamento das penas na antecipação da tutela penal.
+TEMA: 4376 | Criminologia > 2 > Direito Penal do Inimigo
+EXTRAS: 
+
+### Q0255 | conf=5
+ENUN: No que diz respeito à imputabilidade penal, assinale a alternativa incorreta.
+ALT: A : A paixão e a emoção não excluem a imputabilidade penal B : A pena pode ser reduzida de um a dois terços, se o agente, por embriaguez, proveniente de caso fortuito ou força maior, não possuía, ao tempo da ação ou da omissão, a plena capacidade de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento C : É isento de pena o agente que, em virtude de perturbação de saúde mental ou por desenvolvimento mental incompleto ou retardado não era inteiramente capaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento D : A embriaguez, voluntária ou culposa, pelo álcool ou substância de efeitos análogos, não exclui a imputabilidade penal E : Os menores de 18 (dezoito) anos são penalmente inimputáveis, ficando sujeitos às normas estabelecidas na legislação especial
+TEMA: 5213 | Penal > 2 > Inimputabilidade
+EXTRAS: 
+
+### Q0253 | conf=5
+ENUN: No que concerne às Escolas Penais, é correto afirmar que a
+ALT: A : “Positiva” entende que o crime deriva de circunstâncias biológicas ou sociais, tendo sido defendida por Feuerbach. B : “Clássica” funda-se no livre-arbítrio e tem em Carrara um de seus maiores expoentes. C : “Lombrosiana” acredita que o homem é racional e nasce livre, sendo o crime fruto de uma escolha errada, concepção hipotetizada por Lombroso e também por Ferri. D : “Clássica” entende que a pena é medida profilática, de cura, pensamento difundido por Carmignani. E : “Positiva” nasce em contraposição às ideias de Lombroso, defende o naturalismo-racional e tem em Garofalo um de seus doutrinadores.
+TEMA: 4373 | Criminologia > 2 > Escolas Crimonológicas
+EXTRAS: 
+
+### Q0247 | conf=5
+ENUN: Com a Lei Anticrime surge o instituto do Acordo de Não Persecução Penal (ANPP), cujo cumprimento integral traduz-se em uma causa de extinção da punibilidade. Todavia, o marco legal do ANPP veda a aplicação do acordo nos crimes de violência doméstica e nos crimes de racismo, o que encontra respaldo, incontroverso, na doutrina e na jurisprudência. É preciso lembrar, também, que não deve ser oferecido o acordo se no momento da lavratura do auto de prisão em flagrante o preso não confessar circunstanciadamente. Ademais, a referida lei, no que tange ao acordo de não persecução penal, não pode ser aplicado a fatos ocorridos antes de sua vigência.
+ALT: C E - - Certo Errado
+TEMA: 5502 | Processo Penal > 2 > Acordo de Não Persecução Penal
+EXTRAS: 
+
+### Q0263 | conf=5
+ENUN: O juiz dar-se-á por suspeito e, se não o fizer, poderá ser recusado por qualquer das partes: I. Se ele próprio ou seu cônjuge ou parente, consanguíneo ou afim, em linha reta ou colateral até o terceiro grau, inclusive, for parte ou diretamente interessado no feito. II. Se ele, seu cônjuge, ascendente ou descendente, estiver respondendo a processo por fato análogo, sobre cujo caráter criminoso haja controvérsia. III. Se ele, seu cônjuge, ou parente, consanguíneo, ou afim, até o terceiro grau, inclusive, sustentar demanda ou responder a processo que tenha de ser julgado por qualquer das partes. IV. Ele próprio houver desempenhado qualquer dessas funções (defensor ou advogado, órgão do Ministério Público, autoridade policial, auxiliar da justiça ou perito) ou servido como testemunha.
+ALT: A B C - - - Apenas as assertivas I e IV estão corretas. Apenas as assertivas I, II e III estão corretas. Apenas as assertiv...
+TEMA: 5492 | Processo Penal > 2 > Exceção de Suspeição, de Impedimento ou de Incompatibilidade
+EXTRAS: 
+
+### Q0259 | conf=5
+ENUN: O crime de dano (CP, art. 163), norma menos grave, funciona como elemento do crime de furto qualificado pelo rompimento de obstáculo à subtração da coisa (CP, art. 155, § 4.º, inciso I). Nesta hipótese, o crime de dano é excluído pela norma mais grave, em função do princípio da
+ALT: A B C D - - - - especialidade. consunção. subsidiariedade tácita ou implícita. subsidiariedade expressa ou explícita.
+TEMA: 5183 | Penal > 2 > Conflito Aparente de Normas
+EXTRAS: 
+
+### Q0258 | conf=5
+ENUN: O exame de corpo de delito
+ALT: A : deve ser realizado por perito oficial ou pelo próprio juiz. B : deve ser realizado quando se mostrar ausente vestígio do crime, assegurado o direito de apresentação de quesitos pelas partes. C : será feito de maneira indireta no caso de competência do Tribunal do Júri. D : poderá ser substituído pela acareação ou pelo reconhecimento em crimes contra a fé pública. E : será realizado com prioridade em caso de violência doméstica e familiar contra a mulher.
+TEMA: 5545 | Processo Penal > 2 > Exame de Corpo de Delito
+EXTRAS: 
+
+### Q0349 | conf=5
+ENUN: Em cada item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada com base na legislação de regência e na jurisprudência dos tribunais superiores a respeito de execução penal, lei penal no tempo, concurso de crimes, crime impossível e arrependimento posterior. Cristiano, maior e capaz, roubou, mediante emprego de arma de fogo, a bicicleta de um adolescente, tendo-o ameaçado gravemente. Perseguido, Cristiano foi preso, confessou o crime e voluntariamente restituiu a coisa roubada. Nessa situação, a restituição do bem não assegura a Cristiano a redução de um a dois terços da pena, pois o crime foi cometido com grave ameaça à pessoa.
+ALT: C E - - Certo Errado
+TEMA: 5178 | Penal > 2 > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior
+EXTRAS: 
+
+### Q0346 | conf=5
+ENUN: Sobre o assistente da acusação no processo penal, após analisar as proposições abaixo destacadas, assinale a alternativa CORRETA: I - Em razão dos princípios da oralidade e concentração dos atos instrutórios, os quais regem o sistema acusatório, o Código de Processo Penal estabelece que do despacho que admitir, ou não, o assistente da acusação, não caberá recurso, não havendo necessidade que conste dos autos o pedido e a decisão sobre a admissibilidade do assistente. II - Após sucessivas e tópicas reformas legislativas, o Código de Processo Penal passou a estabelecer que o assistente da acusação tem legitimidade para requerer a decretação de prisão preventiva. III - No procedimento do júri, o assistente da acusação, apesar de poder participar dos debates orais em plenário, não tem legitimidade para requerer o desaforamento do julgamento, resguardando-se, assim, a legitimidade principal d
+ALT: A : Somente as alternativas II e III estão corretas. B : As alternativas I e V estão corretas. C : Somente a alternativa V está correta. D : Somente a alternativa III está correta. E : Somente as alternativas II e IV estão corretas.
+TEMA: 5583 | Processo Penal > 1 > Sujeitos do Processo
+EXTRAS: 
+
+### Q0336 | conf=5
+ENUN: Em 05 de junho de 2022, Mariana entrou em um restaurante estilo “self-service” e apoiou sua bolsa em uma cadeira. Enquanto conversava distraidamente com seu marido, José, Mariana esqueceu sua bolsa aberta. Diogo, outro cliente que estava no estabelecimento, terminou o almoço, levantou-se de onde estava sentado e foi em direção ao caixa para efetuar o pagamento da conta. Nesse momento, Diogo percebeu a bolsa de Mariana aberta e, sorrateiramente, pegou o aparelho celular dela. Logo em seguida, Mariana e José deram falta do aparelho e iniciaram a procura no local, tendo José visto Diogo na fila do caixa com o celular de Mariana. Imediatamente, José interpelou Diogo e restou comprovado que se tratava realmente do celular de Mariana. De acordo com jurisprudência consolidada dos Tribunais Superiores, em relação à conduta de Diogo, pode-se afirmar que
+ALT: A : praticou o crime de roubo consumado, previsto no art. 157, caput, do CP. B : praticou o crime de furto, na sua forma tentada, previsto no art. 155, caput, c/c art. 14, II, ambos do CP. C : praticou o crime de roubo, na sua forma tentada, previsto no art. 157, caput c/c art. 14, II, ambos do CP. D : praticou o crime de furto consumado, previsto no art. 155, caput, do CP. E : praticou o crime de apropriação indébita, previsto no art. 168, caput, do CP.
+TEMA: 5159 | Penal > 2 > Furto
+EXTRAS: 
+
+### Q0012 | conf=5
+ENUN: Da decisão que rejeitar a denúncia oferecida nos termos do artigo 77 da Lei 9.099/1995, caberá:
+ALT: A : Apelação, no prazo de 10 dias. B : Apelação no prazo de 5 dias. C : Recurso em sentido estrito, no prazo de 15 dias. D : Recurso em sentido estrito, no prazo de 5 dias. E : Correição parcial.
+TEMA: 5569 | Processo Penal > 2 > Recursos no Âmbito dos Juizados Especiais
+EXTRAS: 
+
+### Q0357 | conf=5
+ENUN: Configura o crime de boicotagem violenta
+ALT: A : constranger alguém, mediante violência ou grave ameaça, a não fornecer a outrem ou não adquirir de outrem matéria-prima ou produto industrial ou agrícola. B : participar de suspensão ou abandono coletivo de trabalho, praticando violência contra pessoa ou contra coisa. C : constranger alguém, mediante violência ou grave ameaça, a abrir ou fechar o seu estabelecimento, ou a participar de parede ou paralisação de atividade econômica. D : participar de suspensão ou abandono coletivo de trabalho, provocando a interrupção de obra pública ou serviço de interesse coletivo. E : danificar estabelecimento industrial, comercial ou agrícola com o intuito de impedir ou embaraçar o curso normal do trabalho.
+TEMA: 5135 | Penal > 2 > Dos Crimes Contra a Organização do Trabalho
+EXTRAS: 
+
+### Q0351 | conf=5
+ENUN: Falsificar cartão de crédito é
+ALT: A : conduta atípica. B : falsificação de documento público. C : falsidade ideológica. D : falsa identidade. E : falsificação de documento particular.
+TEMA: 5118 | Penal > 2 > Da Falsidade Documental
+EXTRAS: 
+
+### Q0318 | conf=5
+ENUN: Com intenção de matar Mário, Lúcio adquiriu, de forma clandestina, uma arma de fogo e munições. Após monitorar a rotina da vítima, Lúcio aguardou Mário sair do trabalho e, enquanto ele caminhava em direção ao seu veículo, Lúcio sacou a arma e disparou uma única vez, atingindo-o. Mesmo possuindo ainda quatro projéteis intactos na arma, Lúcio sentiu repentino remorso, guardou a arma e ligou para o serviço de emergência. Mário foi socorrido, mas, apesar de todo o esforço médico empregado, veio a falecer dias depois no hospital em decorrência exclusiva dos ferimentos causados pelos disparos. Diante de tal situação hipotética, assinale a afirmativa correta.
+ALT: A : O caso narrado configura desistência voluntária, uma vez que Lúcio interrompeu voluntariamente a execução do homicídio quando ainda dispunha de meios para prosseguir, devendo, portanto, responder apenas pelo delito de lesão corporal. B : O caso narrado configura arrependimento eficaz, pois Lúcio exauriu os meios de execução que seriam suficientes para atingir o resultado almejado, contudo, agiu positivamente para evitá-lo, devendo, portanto, responder apenas pela tentativa de homicídio. C : A intervenção de Lúcio ao chamar o socorro não exclui a tipicidade, uma vez que o resultado morte efetivamente ocorreu por consequência direta de sua conduta, devendo ele responder por homicídio consumado, sem prejuízo da aplicação de atenuante genérica. D : O caso narrado configura arrependimento posterior, pois Lúcio buscou minimizar as consequências do crime praticado logo após a sua consumação ao chamar o socorro médico, o que enseja a redução da pena do homicídio de um a dois terços. E : O caso narrado configura crime impossível por ineficácia relativa do meio empregado, pois a intervenção médica quase evitou o resultado, demonstrando que a conduta do agente não era inequivocamente apta a garantir a consumação inicialmente pretendida.
+TEMA: 5178 | Penal > 2 > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior
+EXTRAS: 
+
+### Q0314 | conf=5
+ENUN: O habeas corpus é
+ALT: A - ação de natureza constitucional destinada a coibir qual- quer ilegalidade ou abuso de poder contra a liberdade ...
+TEMA: 5477 | Processo Penal > 2 > Habeas Corpus
+EXTRAS: 
+

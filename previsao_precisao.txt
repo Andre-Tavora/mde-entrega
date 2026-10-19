@@ -1,0 +1,15 @@
+﻿=== PRECISAO EM 'PUBLICAR' ===
+Populacao: N = 87 questoes com decisao 'publicar'
+Amostra auditada: n = 62 (61 certas, 1 erro)  -> precisao pontual 98,39%
+Metodo: teste exato hipergeometrico (populacao finita, 1-lado, alfa = 0,05)
+  P(X<=1 | K=4) = 0,0697 (nao rejeitado) | P(X<=1 | K=5) = 0,0227 (rejeitado)
+  => no maximo 4 erros em 87 com 95% de confianca
+Precisao minima garantida: 83/87 = 95,40%  -> REGUA >= 95%: ATENDIDA
+Intervalo reportado: [95,40% ; 98,85%]  (o teto assume as 25 nao auditadas corretas)
+Referencia (pop. infinita, conservador): Wilson 95% [91,41% ; 99,71%]
+Justificativa: Wilson/Clopper-Pearson ignoram que n/N = 71%; o hipergeometrico e o teste exato para esta populacao.
+
+=== COBERTURA ===
+Distribuicao (N=359): publicar 87 (24.2%) | revisar 271 (75.5%) | fora 1 (0.3%)
+Cobertura bruta (publicar/total): 24.23% (exata, sem incerteza)
+Cobertura util: sem auditoria de 'fora' -> reportar apenas a bruta

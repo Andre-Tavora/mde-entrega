@@ -1,0 +1,188 @@
+﻿===== Q0307 | tema 4707 [Direito Penal - Legislação Especial > Tortura (nivel 1, active)] | extras 
+ENUNCIADO: Determinado policial militar efetuou a prisão em flagrante de Luciano e o conduziu à delegacia de polícia. Lá, com o objetivo de fazer Luciano confessar a prática dos atos que ensejaram sua prisão, o policial responsável por seu interrogatório cobriu sua cabeça com um saco plástico e amarrou-o no seu pescoço, asfixiando-o. Como Luciano não confessou, o policial deixou-o trancado na sala de interrogatório durante várias horas, pendurado de cabeça para baixo, no escuro, período em que lhe dizia que, se ele não confessasse, seria morto. O delegado de polícia, ciente do que ocorria na sala de interrogatório, manteve-se inerte. Em depoimento posterior, Luciano afirmou que a conduta do policial lhe provocara intenso sofrimento físico e mental.
+
+Considerando a situação hipotética acima e o disposto na Lei Federal n.º 9.455/1997, julgue o item subsequente.
+
+O delegado não pode ser considerado coautor ou partícipe da conduta do policial, pois o crime de tortura somente pode ser praticado de forma comissiva.
+COMANDO: Julgue o item subsequente.
+(C) Certo
+(E) Errado
+
+===== Q0263 | tema 5492 [Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade (nivel 2, active)] | extras 
+ENUNCIADO: O juiz dar-se-á por suspeito e, se não o fizer, poderá ser recusado por qualquer das partes:
+
+I. Se ele próprio ou seu cônjuge ou parente, consanguíneo ou afim, em linha reta ou colateral até o terceiro grau, inclusive, for parte ou diretamente interessado no feito.
+
+II. Se ele, seu cônjuge, ascendente ou descendente, estiver respondendo a processo por fato análogo, sobre cujo caráter criminoso haja controvérsia.
+
+III. Se ele, seu cônjuge, ou parente, consanguíneo, ou afim, até o terceiro grau, inclusive, sustentar demanda ou responder a processo que tenha de ser julgado por qualquer das partes.
+
+IV. Ele próprio houver desempenhado qualquer dessas funções (defensor ou advogado, órgão do Ministério Público, autoridade policial, auxiliar da justiça ou perito) ou servido como testemunha.
+COMANDO: Avalie as assertivas acima e marque a alternativa CORRETA.
+(A) Apenas as assertivas I e IV estão corretas.
+(B) Apenas as assertivas I, II e III estão corretas.
+(C) Apenas as assertivas II e III estão corretas.
+(D) Todas as assertivas estão corretas.
+
+===== Q0204 | tema 5507 [Processo Penal > Lei Processual no Tempo e no Espaço > Lei processual no Tempo (nivel 2, active)] | extras 
+ENUNCIADO: Em relação à lei processual penal no tempo, vigora o princípio do efeito imediato, segundo o qual tempus regit actum.
+
+De acordo com tal princípio, as normas processuais penais têm aplicação imediata, mas consideram-se válidos os atos processuais realizados sob a égide da lei anterior.
+COMANDO: Explique o princípio do efeito imediato na lei processual penal.
+(C) Certo
+(E) Errado
+
+===== Q0270 | tema 5091 [Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação (nivel 2, active)] | extras 
+ENUNCIADO: João conduzia o seu veículo automotor, ocasião em que foi parado por uma blitz da Polícia Militar. Após analisar a documentação do condutor, o policial Caio exigiu, para si, R$ 2.000,00 para liberar o automóvel. Nesse cenário, considerando as disposições do Código Penal, Caio responderá pelo crime de:
+COMANDO: 
+(A) excesso de exação;
+(B) corrupção passiva;
+(C) corrupção ativa;
+(D) concussão;
+(E) peculato.
+
+===== Q0334 | tema 4381 [Criminologia > Teoria Geral da Criminologia > Conceito e objeto da Criminologia (nivel 2, active)] | extras 
+ENUNCIADO: Assinale a alternativa que NÃO engloba um objeto de estudo criminológico.
+COMANDO: 
+(A) O crime.
+(B) A vítima.
+(C) O “dever-ser”.
+(D) O controle social do comportamento delitivo.
+(E) A personalidade do delinquente.
+
+===== Q0349 | tema 5178 [Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior (nivel 2, active)] | extras 
+ENUNCIADO: Em cada item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada com base na legislação de regência e na jurisprudência dos tribunais superiores a respeito de execução penal, lei penal no tempo, concurso de crimes, crime impossível e arrependimento posterior.
+
+Cristiano, maior e capaz, roubou, mediante emprego de arma de fogo, a bicicleta de um adolescente, tendo-o ameaçado gravemente. Perseguido, Cristiano foi preso, confessou o crime e voluntariamente restituiu a coisa roubada. Nessa situação, a restituição do bem não assegura a Cristiano a redução de um a dois terços da pena, pois o crime foi cometido com grave ameaça à pessoa.
+COMANDO: Julgue a assertiva apresentada com base na legislação e jurisprudência mencionadas.
+(C) Certo
+(E) Errado
+
+===== Q0283 | tema 5496 [Processo Penal > Das Questões e Processos Incidentes > Medidas Assecuratórias: Sequestro, Hipoteca Legal e Arresto (nivel 2, active)] | extras 
+ENUNCIADO: Antonio acabou de sofrer hipoteca, determinada por juiz criminal, de imóvel que recebeu de seu pai. Nesse caso,
+COMANDO: Assinale a alternativa correta.
+(A) se houver sentença condenatória transitada em julgado, o próprio juiz criminal determinará a avaliação e a venda do bem em leilão público.
+(B) os embargos são o recurso cabível contra a decretação da hipoteca.
+(C) a medida é cabível, ainda que Antonio seja terceiro, não investigado.
+(D) o imóvel, de origem lícita, não poderia ter sido hipotecado.
+(E) Antonio poderia ter oferecido caução em dinheiro para que o juiz deixasse de mandar proceder à inscrição da hipoteca legal.
+
+===== Q0285 | tema 4376 [Criminologia > Política Criminal > Direito Penal do Inimigo (nivel 2, active)] | extras 
+ENUNCIADO: Constitui uma das características do direito penal do inimigo
+COMANDO: Complete a frase com a característica correta do direito penal do inimigo.
+(A) a legislação diferenciada.
+(B) a punição a partir de atos executórios.
+(C) a não utilização de medidas de segurança.
+(D) a observância das garantias processuais penais.
+(E) o abrandamento das penas na antecipação da tutela penal.
+
+===== Q0259 | tema 5183 [Penal > Lei Penal no Tempo e no Espaço > Conflito Aparente de Normas (nivel 2, active)] | extras 
+ENUNCIADO: O crime de dano (CP, art. 163), norma menos grave, funciona como elemento do crime de furto qualificado pelo rompimento de obstáculo à subtração da coisa (CP, art. 155, § 4.º, inciso I).
+
+Nesta hipótese, o crime de dano é excluído pela norma mais grave, em função do princípio da
+COMANDO: Complete a frase com o princípio aplicável.
+(A) especialidade.
+(B) consunção.
+(C) subsidiariedade tácita ou implícita.
+(D) subsidiariedade expressa ou explícita.
+
+===== Q0233 | tema 5178 [Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior (nivel 2, active)] | extras 
+ENUNCIADO: Sobre a desistência voluntária e o arrependimento eficaz, assinale a alternativa correta:
+COMANDO: Assinale a alternativa correta.
+(A) o agente que, voluntariamente, impede que o resultado do crime se produza não responde pelos seus atos, porque incide na hipótese de desistência voluntária;
+(B) o agente que, voluntariamente, desiste de prosseguir na execução do crime, não responde pelos atos praticados, desde que tais atos não configurem, isoladamente, crime ou contravenção penal, sendo o caso de desistência voluntária;
+(C) o agente que, voluntariamente, repare o dano ou restitua a coisa ao proprietário, até o recebimento da denúncia, não responde pelos seus atos, estando configurada a hipótese de arrependimento eficaz;
+(D) considera-se arrependimento eficaz quando o agente, iniciada a execução do crime, por ineficácia absoluta do meio, não consegue consumá-lo, não respondendo pelos atos praticados;
+(E) é caso de desistência voluntária quando o agente, por absoluta impropriedade do objeto, impede que o resultado se produza, só responde pelos atos já praticados.
+
+===== Q0244 | tema 5091 [Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação (nivel 2, active)] | extras 
+ENUNCIADO: O agente que exigir vantagem indevida, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, responderá pelo crime de:
+COMANDO: 
+(A) peculato.
+(B) concussão.
+(C) corrupção passiva.
+(D) corrupção ativa.
+
+===== Q0246 | tema 5527 [Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia (nivel 2, active)] | extras 5213 [Penal > Teoria do Crime: Culpabilidade > Inimputabilidade (nivel 2, active)]
+ENUNCIADO: No procedimento do júri, presentes indícios da autoria e prova da materialidade, se ao término da instrução do sumário de culpa ficar provado tecnicamente que o acusado é semi-imputável, o juiz deverá:
+COMANDO: Assinale a alternativa correta.
+(A) pronunciá-lo.
+(B) absolvê-lo sumariamente.
+(C) impronunciá-lo.
+(D) remeter os autos para o juízo comum para a prolação da sentença.
+(E) declarar nulo o processo e remeter os autos para o juízo comum.
+
+===== Q0320 | tema 5550 [Processo Penal > Provas em Espécies > Prova Testemunhal (nivel 2, active)] | extras 
+ENUNCIADO: O Direito Processual Penal, doutrinariamente, elenca as espécies de testemunhas. Dentre elas há a chamada testemunha fedatária.
+COMANDO: Marque abaixo a sentença CORRETA acerca da referida espécie
+(A) é a testemunha que depõe sobre algum fato que ouviu dizer.
+(B) é a testemunha que depõe sobre a regularidade de algum ato praticado no inquérito ou no processo.
+(C) é a pessoa que foi indicada por outra testemunha, não sendo computada no número máximo de testemunhas.
+(D) trata-se dos casos em que a Lei de Drogas e a Lei do crime organizado autorizam os agentes de polícia a se infiltrarem para obterem informações acerca desses crimes.
+
+===== Q0179 | tema 4369 [Criminologia > Criminologia no Estado Democrático de Direito > Sistemas de Prevenção (nivel 2, active)] | extras 
+ENUNCIADO: Ações como controle dos meios de comunicação e ordenação urbana, orientadas a determinados grupos ou subgrupos sociais, estão inseridas no âmbito da chamada prevenção secundária do delito.
+COMANDO: Explique o que caracteriza a prevenção secundária do delito.
+(C) Certo
+(E) Errado
+
+===== Q0258 | tema 5545 [Processo Penal > Provas em Espécies > Exame de Corpo de Delito (nivel 2, active)] | extras 
+ENUNCIADO: O exame de corpo de delito
+COMANDO: Explique o que é o exame de corpo de delito.
+(A) deve ser realizado por perito oficial ou pelo próprio juiz.
+(B) deve ser realizado quando se mostrar ausente vestígio do crime, assegurado o direito de apresentação de quesitos pelas partes.
+(C) será feito de maneira indireta no caso de competência do Tribunal do Júri.
+(D) poderá ser substituído pela acareação ou pelo reconhecimento em crimes contra a fé pública.
+(E) será realizado com prioridade em caso de violência doméstica e familiar contra a mulher.
+
+===== Q0176 | tema 5081 [Penal > Dos Crimes Contra a Administração Judicial > Falso Testemunha ou Falsa Perícia e Corrupção Ativa de Testemunha ou Perito (nivel 2, active)] | extras 
+ENUNCIADO: Sobre o crime de falso testemunho, é CORRETO afirmar que:
+COMANDO: 
+(A) o crime de falso testemunho é delito de mão própria, pois somente pode ser executado pela própria testemunha;
+(B) comete crime de falso testemunho o irmão do reclamante, mesmo não estando compromissado pelo Juiz;
+(C) mesmo não se observando a existência de potencial dano à administração da Justiça, comete crime de falso testemunho a testemunha que faltar com a verdade em seu depoimento;
+(D) o dolo do crime não exige que a testemunha tenha consciência de estar cometendo uma falsidade;
+(E) não cabe retratação de falso testemunho na Justiça do Trabalho;
+
+===== Q0237 | tema 5178 [Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior (nivel 2, active)] | extras 
+ENUNCIADO: Qual a diferença entre desistência voluntária e arrependimento eficaz?
+COMANDO: Responda qual é a diferença entre desistência voluntária e arrependimento eficaz.
+(A) Na desistência voluntária o que ocorre é a desistência no prosseguimento dos atos executórios do crime, feita de modo voluntário, respondendo o agente somente pelo que praticou. No arrependimento eficaz a desistência ocorre entre o término dos atos executórios e a consumação. O agente, neste caso, já fez tudo o que podia para atingir o resultado, mas resolve interferir para evitar a sua concretização.
+(B) Entre a desistência voluntária e o arrependimento eficaz, em verdade, não há nenhuma diferença, porquanto em ambas as situações o que se busca é impedir o resultado.
+(C) A diferença entre a desistência voluntária e o arrependimento eficaz está em que, na primeira, o agente é impedido de consumar o delito, já no arrependimento eficaz a consumação não ocorre porque o próprio agente a impede.
+(D) A diferença entre a desistência voluntária e o arrependimento eficaz reside no fato de que, na desistência voluntária, o agente não chega a iniciar a execução do delito. Já no arrependimento eficaz a execução iniciada é interrompida, impedindo-se a consumação do delito.
+(E) A diferença entre a desistência voluntária e o arrependimento eficaz está em que, na primeira, a execução do delito é interrompida por circunstâncias alheias ao domínio do agente. Já no arrependimento eficaz o delito não se consuma em razão da impropriedade dos meios de execução.
+
+===== Q0318 | tema 5178 [Penal > Iter Criminis > Desistência Voluntária, Arrependimento Eficaz e Arrependimento posterior (nivel 2, active)] | extras 
+ENUNCIADO: Com intenção de matar Mário, Lúcio adquiriu, de forma clandestina, uma arma de fogo e munições. Após monitorar a rotina da vítima, Lúcio aguardou Mário sair do trabalho e, enquanto ele caminhava em direção ao seu veículo, Lúcio sacou a arma e disparou uma única vez, atingindo-o. Mesmo possuindo ainda quatro projéteis intactos na arma, Lúcio sentiu repentino remorso, guardou a arma e ligou para o serviço de emergência. Mário foi socorrido, mas, apesar de todo o esforço médico empregado, veio a falecer dias depois no hospital em decorrência exclusiva dos ferimentos causados pelos disparos. Diante de tal situação hipotética, assinale a afirmativa correta.
+COMANDO: 
+(A) O caso narrado configura desistência voluntária, uma vez que Lúcio interrompeu voluntariamente a execução do homicídio quando ainda dispunha de meios para prosseguir, devendo, portanto, responder apenas pelo delito de lesão corporal.
+(B) O caso narrado configura arrependimento eficaz, pois Lúcio exauriu os meios de execução que seriam suficientes para atingir o resultado almejado, contudo, agiu positivamente para evitá-lo, devendo, portanto, responder apenas pela tentativa de homicídio.
+(C) A intervenção de Lúcio ao chamar o socorro não exclui a tipicidade, uma vez que o resultado morte efetivamente ocorreu por consequência direta de sua conduta, devendo ele responder por homicídio consumado, sem prejuízo da aplicação de atenuante genérica.
+(D) O caso narrado configura arrependimento posterior, pois Lúcio buscou minimizar as consequências do crime praticado logo após a sua consumação ao chamar o socorro médico, o que enseja a redução da pena do homicídio de um a dois terços.
+(E) O caso narrado configura crime impossível por ineficácia relativa do meio empregado, pois a intervenção médica quase evitou o resultado, demonstrando que a conduta do agente não era inequivocamente apta a garantir a consumação inicialmente pretendida.
+
+===== Q0206 | tema 5583 [Processo Penal > Sujeitos do Processo (nivel 1, active)] | extras 
+ENUNCIADO: No tocante ao assistente de acusação, é correto afirmar que
+COMANDO: Complete a afirmativa sobre o assistente de acusação.
+(A) o ofendido poderá intervir como assistente em qualquer ação penal.
+(B) a admissão do assistente fica condicionada à manifestação do Ministério Público.
+(C) da decisão que admitir o assistente de acusação caberá recurso em sentido estrito.
+(D) ao assistente é proibido arrazoar os recursos interpostos pelo Ministério Público.
+(E) o assistente será admitido até o início da instrução do processo.
+
+===== Q0198 | tema 5073 [Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria (nivel 2, active)] | extras 
+ENUNCIADO: A moderna teoria do domínio do fato de Claus Roxin procura solucionar alguns problemas de autoria e, expressamente, já foi adotada em nossos tribunais.
+
+Além das previsões legais sobre autoria mediata, existe a possibilidade de autoria no âmbito de uma organização.
+
+Para que esta seja configurada devem estar presentes alguns requisitos, EXCETO
+COMANDO: Assinale o requisito que não é necessário para configurar a autoria no âmbito de uma organização.
+(A) poder efetivo de mando.
+(B) fungibilidade do autor imediato.
+(C) desvinculação do aparato organizado do ordenamento jurídico.
+(D) o prévio acerto entre o comandante e os demais comandados.
+(E) disponibilidade consideravelmente elevada por parte do executor.
+
+
+

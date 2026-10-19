@@ -1,0 +1,312 @@
+{
+  "arvore": {
+    "total_nos": 377,
+    "ativos": 375,
+    "inativos": [
+      5078,
+      5234
+    ],
+    "por_nivel_ativos": {
+      "0": 4,
+      "1": 109,
+      "2": 262
+    },
+    "folhas_ativas": 320,
+    "homonimos_entre_ramos": {
+      "abuso de autoridade": [
+        {
+          "id": 4684,
+          "caminho": "Direito Penal - Legislação Especial > Abuso de Autoridade"
+        },
+        {
+          "id": 6716,
+          "caminho": "Penal > Abuso de Autoridade"
+        }
+      ],
+      "crimes contra o meio ambiente": [
+        {
+          "id": 4688,
+          "caminho": "Direito Penal - Legislação Especial > Crimes contra o meio ambiente"
+        },
+        {
+          "id": 6717,
+          "caminho": "Penal > Crimes contra o meio ambiente"
+        }
+      ],
+      "lavagem de dinheiro": [
+        {
+          "id": 4702,
+          "caminho": "Direito Penal - Legislação Especial > Lavagem de Dinheiro"
+        },
+        {
+          "id": 6723,
+          "caminho": "Penal > Lavagem de Dinheiro"
+        }
+      ],
+      "lei de execucao penal": [
+        {
+          "id": 4703,
+          "caminho": "Direito Penal - Legislação Especial > Lei de Execução Penal"
+        },
+        {
+          "id": 6734,
+          "caminho": "Processo Penal > Lei de Execução Penal"
+        }
+      ],
+      "lei maria da penha": [
+        {
+          "id": 4704,
+          "caminho": "Direito Penal - Legislação Especial > Lei Maria da Penha"
+        },
+        {
+          "id": 6724,
+          "caminho": "Penal > Lei Maria da Penha"
+        }
+      ],
+      "organizacoes criminosas": [
+        {
+          "id": 4705,
+          "caminho": "Direito Penal - Legislação Especial > Organizações Criminosas"
+        },
+        {
+          "id": 6725,
+          "caminho": "Penal > Organizações Criminosas"
+        }
+      ],
+      "trafico de drogas": [
+        {
+          "id": 4708,
+          "caminho": "Direito Penal - Legislação Especial > Tráfico de Drogas"
+        },
+        {
+          "id": 6728,
+          "caminho": "Penal > Tráfico de Drogas"
+        }
+      ],
+      "acao penal": [
+        {
+          "id": 5063,
+          "caminho": "Penal > Ação Penal"
+        },
+        {
+          "id": 5466,
+          "caminho": "Processo Penal > Ação Penal"
+        }
+      ]
+    },
+    "nos_parte_n": [
+      {
+        "id": 6718,
+        "caminho": "Penal > Dos Crimes Contra a Administração Pública (Parte 1)"
+      },
+      {
+        "id": 6719,
+        "caminho": "Penal > Dos Crimes contra a Administração Pública (Parte 2)"
+      },
+      {
+        "id": 6720,
+        "caminho": "Penal > Dos Crimes Contra o Patrimônio (Parte 1)"
+      },
+      {
+        "id": 6721,
+        "caminho": "Penal > Dos Crimes contra o Patrimônio (Parte 2)"
+      },
+      {
+        "id": 6726,
+        "caminho": "Penal > Teoria da Pena (Parte 1)"
+      },
+      {
+        "id": 6727,
+        "caminho": "Penal > Teoria da Pena (Parte 2)"
+      },
+      {
+        "id": 6732,
+        "caminho": "Processo Penal > Competência (Parte 1)"
+      },
+      {
+        "id": 6733,
+        "caminho": "Processo Penal > Competência (Parte 2)"
+      },
+      {
+        "id": 6736,
+        "caminho": "Processo Penal > Recursos (Parte 03) - Espécies"
+      },
+      {
+        "id": 6737,
+        "caminho": "Processo Penal > Sentença Penal (Parte 1)"
+      },
+      {
+        "id": 6738,
+        "caminho": "Processo Penal > Sentença Penal (Parte 2)"
+      }
+    ],
+    "ativos_sem_descricao": {
+      "qtd": 20,
+      "ids": [
+        6716,
+        6717,
+        6718,
+        6719,
+        6720,
+        6721,
+        6722,
+        6723,
+        6724,
+        6725,
+        6726,
+        6727,
+        6728,
+        6732,
+        6733,
+        6734,
+        6735,
+        6736,
+        6737,
+        6738
+      ]
+    },
+    "temas_com_zero_questoes": null,
+    "top10_lixeiras": null,
+    "problemas_integridade": []
+  },
+  "questoes": {
+    "total": 359,
+    "tipo": {
+      "multipla_escolha": 301,
+      "certo_errado": 58
+    },
+    "n_alternativas": {
+      "5": 255,
+      "2": 58,
+      "4": 46
+    },
+    "comando_vazio": 101,
+    "comando_suspeito_CE": [
+      "Q0008",
+      "Q0028",
+      "Q0088",
+      "Q0107",
+      "Q0128",
+      "Q0179",
+      "Q0204",
+      "Q0208",
+      "Q0235",
+      "Q0238",
+      "Q0249",
+      "Q0256",
+      "Q0265",
+      "Q0291",
+      "Q0298",
+      "Q0312",
+      "Q0313",
+      "Q0317"
+    ],
+    "disciplina_origem": {
+      "Processo Penal": 131,
+      "Criminologia": 31,
+      "Direito Penal": 129,
+      "Direito Penal - Legislação Especial": 32,
+      "Disciplina Unificada": 1,
+      "Direito Constitucional": 2,
+      "(vazio)": 1,
+      "Penal": 27,
+      "Direito Civil - Legislação Especial": 2,
+      "Direito Tributário": 1,
+      "Direito Processual Penal": 1,
+      "Direito Ambiental": 1
+    },
+    "disciplina_origem_fora_das_4_ou_vazia": {
+      "Disciplina Unificada": 1,
+      "Direito Constitucional": 2,
+      "(vazio)": 1,
+      "Direito Tributário": 1,
+      "Direito Ambiental": 1
+    },
+    "assunto_origem_vazio": 18,
+    "enunciado_curto_lt_80_chars": [
+      "Q0015",
+      "Q0022",
+      "Q0023",
+      "Q0027",
+      "Q0029",
+      "Q0033",
+      "Q0034",
+      "Q0037",
+      "Q0041",
+      "Q0042",
+      "Q0043",
+      "Q0045",
+      "Q0056",
+      "Q0057",
+      "Q0058",
+      "Q0061",
+      "Q0065",
+      "Q0066",
+      "Q0068",
+      "Q0073",
+      "Q0075",
+      "Q0090",
+      "Q0096",
+      "Q0098",
+      "Q0102",
+      "Q0110",
+      "Q0111",
+      "Q0122",
+      "Q0126",
+      "Q0135",
+      "Q0140",
+      "Q0167",
+      "Q0172",
+      "Q0174",
+      "Q0176",
+      "Q0177",
+      "Q0192",
+      "Q0193",
+      "Q0200",
+      "Q0205",
+      "Q0206",
+      "Q0221",
+      "Q0222",
+      "Q0223",
+      "Q0227",
+      "Q0229",
+      "Q0237",
+      "Q0239",
+      "Q0242",
+      "Q0245",
+      "Q0253",
+      "Q0255",
+      "Q0258",
+      "Q0268",
+      "Q0273",
+      "Q0276",
+      "Q0277",
+      "Q0282",
+      "Q0285",
+      "Q0286",
+      "Q0287",
+      "Q0294",
+      "Q0295",
+      "Q0299",
+      "Q0301",
+      "Q0303",
+      "Q0306",
+      "Q0310",
+      "Q0314",
+      "Q0321",
+      "Q0325",
+      "Q0326",
+      "Q0331",
+      "Q0333",
+      "Q0334",
+      "Q0339",
+      "Q0340",
+      "Q0341",
+      "Q0347",
+      "Q0351",
+      "Q0354",
+      "Q0357"
+    ],
+    "ids_duplicados": []
+  }
+}

@@ -1,0 +1,54 @@
+import csv, json, sys
+from pathlib import Path
+
+BASE = Path("mde-entrega")
+AUD = BASE / "output/auditoria_publicar.csv"
+QST = BASE / "data/processed/questoes_limpas.jsonl"
+TMS = BASE / "data/raw/temas.csv"
+
+temas = {r["tema_id"]: r for r in csv.DictReader(open(TMS, encoding="utf-8-sig"))}
+qs = {q["id"]: q for q in (json.loads(l) for l in open(QST, encoding="utf-8") if l.strip())}
+rows = list(csv.DictReader(open(AUD, encoding="utf-8-sig")))
+campos = list(rows[0].keys())
+idx = {r["id"]: r for r in rows}
+
+def caminho(t):
+    t = str(t).strip(); return temas[t]["caminho"] if t in temas else f"?? ({t})"
+
+def salvar():
+    with open(AUD, "w", newline="", encoding="utf-8-sig") as f:
+        w = csv.DictWriter(f, fieldnames=campos, quoting=csv.QUOTE_ALL)
+        w.writeheader(); w.writerows(rows)
+
+def show(n):
+    for r in [r for r in rows if r["correto"] == ""][:n]:
+        q = qs.get(r["id"], {})
+        print("=" * 90)
+        print(f"{r['id']} | conf {r['confianca']} | origem: {q.get('disciplina_origem')} > {q.get('assunto_origem')}")
+        print(q.get("texto_modelo", "(sem texto)")[:2500])
+        print(f">> PREVISTO: {caminho(r['tema_central_id'])}")
+        for e in filter(None, r["extras_ids"].replace(";", "|").split("|")):
+            print(f"   extra: {caminho(e)}")
+    print(f"\nPendentes: {sum(r['correto']=='' for r in rows)}/{len(rows)}")
+
+def stats():
+    f = [r for r in rows if r["correto"] in ("0", "1")]
+    ok = sum(r["correto"] == "1" for r in f)
+    print(f"Auditadas: {len(f)}/{len(rows)} | Acertos: {ok} | Precisao: {ok/max(len(f),1):.1%}")
+    for r in f:
+        if r["correto"] == "0": print(f"  ERRO {r['id']}: {r['tipo_erro']} -> {r['obs']}")
+
+def mark(args):
+    for a in args:
+        qid, v = a.split("=", 1); p = v.split(":")
+        r = idx.get(qid)
+        if r is None: print("ID inexistente:", qid); continue
+        r["correto"] = p[0]
+        r["tipo_erro"] = p[1] if len(p) > 1 else ""
+        r["obs"] = p[2] if len(p) > 2 else ""
+    salvar(); stats()
+
+cmd = sys.argv[1] if len(sys.argv) > 1 else "stats"
+if cmd == "show": show(int(sys.argv[2]) if len(sys.argv) > 2 else 5)
+elif cmd == "mark": mark(sys.argv[2:])
+else: stats()

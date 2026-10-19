@@ -1,0 +1,42 @@
+﻿### Q0177 | conf=5
+ENUN: Assinale a afirmativa incorreta.
+ALT: A : O silêncio do réu não importará em confissão nem poderá ser valorado pelo juiz em prejuízo da defesa para efeito de condenação, mas poderá ser valorado na fixação da penabase no aspecto da personalidade do criminoso. B : O réu tem o direito de entrevistar-se reservadamente com seu advogado antes de seu interrogatório judicial. C : O réu tem o direito de permanecer calado, negar a verdade ou mentir durante seu interrogatório judicial. D : Além de permanecer calado, o réu tem o direito de recusar-se a fornecer material para exame grafotécnico. E : Se o réu não for previamente advertido de seu direito de permanecer em silêncio, tudo que disser em seu interrogatório poderá ser anulado posteriormente.
+TEMA: 5547 | Processo Penal > 2 > Interrogatório Judicial
+EXTRAS: 
+
+### Q0178 | conf=5
+ENUN: A Resolução CNJ nº 467/2022 regulamentou o inciso XI do artigo 6º da Lei nº 10.826/2003 e prevê que o porte de arma de fogo de servidores dos quadros pessoais do Poder Judiciário é:
+ALT: A : defeso aos servidores do Poder Judiciário, enquadrados como agentes e inspetores da especialidade Polícia Judicial, ainda que efetivamente estejam no exercício do poder de polícia, em todo o território nacional, sendo permitido somente no Estado em que está lotado para o exercício de suas funções. B : autorizado aos servidores do Poder Judiciário, enquadrados como agentes e inspetores da especialidade Polícia Judicial, independentemente de estarem no exercício do poder de polícia, somente no Estado em que estejam lotados. C : defeso aos servidores do Poder Judiciário, enquadrados como agentes e inspetores da especialidade Polícia Judicial, ainda que efetivamente estejam no exercício do poder de polícia, em todo o território nacional. D : autorizado aos servidores do Poder Judiciário, enquadrados como agentes e inspetores da especialidade Polícia Judicial, e que efetivamente estejam no exercício do poder de polícia, em todo o território nacional. E : autorizado aos servidores do Poder Judiciário, enquadrados como agentes e inspetores da especialidade Polícia Judicial, e que efetivamente estejam no exercício do poder de polícia, somente no Estado em que estejam lotado para os exercícios de suas funções.
+TEMA: 4697 | Direito Penal - Legislação Especial > 1 > Estatuto do Desarmamento
+EXTRAS: 
+
+### Q0179 | conf=5
+ENUN: Ações como controle dos meios de comunicação e ordenação urbana, orientadas a determinados grupos ou subgrupos sociais, estão inseridas no âmbito da chamada prevenção secundária do delito.
+ALT: C E - - Certo Errado
+TEMA: 4369 | Criminologia > 2 > Sistemas de Prevenção
+EXTRAS: 
+
+### Q0176 | conf=5
+ENUN: Sobre o crime de falso testemunho, é CORRETO afirmar que:
+ALT: A : o crime de falso testemunho é delito de mão própria, pois somente pode ser executado pela própria testemunha; B : comete crime de falso testemunho o irmão do reclamante, mesmo não estando compromissado pelo Juiz; C : mesmo não se observando a existência de potencial dano à administração da Justiça, comete crime de falso testemunho a testemunha que faltar com a verdade em seu depoimento; D : o dolo do crime não exige que a testemunha tenha consciência de estar cometendo uma falsidade; E : não cabe retratação de falso testemunho na Justiça do Trabalho;
+TEMA: 5081 | Penal > 2 > Falso Testemunha ou Falsa Perícia e Corrupção Ativa de Testemunha ou Perito
+EXTRAS: 
+
+### Q0160 | conf=5
+ENUN: Julgue o item subsequente, acerca do instituto da pena. É inadmissível a substituição de pena privativa de liberdade por restritiva de direitos ao réu reincidente, ainda que a substituição seja socialmente recomendável e se trate de reincidência genérica.
+ALT: C E - - Certo Errado
+TEMA: 5205 | Penal > 2 > Penas Restritivas de Direitos
+EXTRAS: 
+
+### Q0169 | conf=5
+ENUN: A respeito das causas de impedimento e suspeição do juiz, de acordo com o Código de Processo Penal, assinale a alternativa correta.
+ALT: A : Nos juízos coletivos, não poderão servir no mesmo processo os juízes que forem entre si parentes, consanguíneos ou afins, em linha reta ou colateral, até o quarto grau. B : O juiz será suspeito, podendo ser recusado por qualquer das partes, se já tiver funcionado como juiz de outra instância, pronunciando-se de fato ou de direito sobre a questão. C : Ainda que dissolvido o casamento, sem descendentes, que ensejava impedimento ou suspeição, não funcionará como juiz o sogro, o padrasto, o cunhado, o genro ou enteado de quem for parte no processo. D : O juiz será impedido se for credor ou devedor de qualquer das partes. E : A suspeição poderá ser reconhecida ou declarada ainda que a parte injurie, de propósito, o juiz.
+TEMA: 5492 | Processo Penal > 2 > Exceção de Suspeição, de Impedimento ou de Incompatibilidade
+EXTRAS: 
+
+### Q0175 | conf=5
+ENUN: João, agente público federal competente, deu ordem de parada a um veículo automotor que transitava em excesso de velocidade no interior do estado do Pará. Realizado o exame de alcoolemia (teste do bafômetro), constatou-se que o condutor havia ingerido grande quantidade de álcool, dando azo à caracterização de crime previsto no Código de Trânsito Brasileiro. Dessa forma, João solicitou ao condutor dez mil reais para liberá-lo, proposta aceita imediatamente e operacionalizada por meio de transferência bancária. Nesse cenário, considerando as disposições do Código Penal, João responderá pelo(s) crime(s) de:
+ALT: A : corrupção passiva e corrupção ativa, em concurso; B : concussão e corrupção passiva, em concurso; C : corrupção passiva; D : corrupção ativa; E : concussão.
+TEMA: 5092 | Penal > 2 > Corrupção Passiva
+EXTRAS: 5091
+

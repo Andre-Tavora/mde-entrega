@@ -1,0 +1,90 @@
+﻿### Q0011 | conf=4
+ENUN: Com referência à interceptação de comunicação telefônica, ao crime de tráfico ilícito de entorpecentes, ao crime de lavagem de capitais e a crimes cibernéticos, julgue o seguinte item. Situação hipotética: Álvaro, servidor público federal, foi, por cinco anos, presidente da comissão de licitações de determinado órgão público federal. Em diversas ocasiões, Álvaro recebeu valores e bens para favorecer empresas nos certames licitatórios, e os transferiu para o patrimônio de Flávio, seu irmão, que os utilizava nos negócios da empresa da família, com vistas a ocultar o ingresso desses recursos e a sua origem ilícita. Assertiva: Nessa situação, Álvaro e Flávio responderão pelo crime de lavagem de capitais, e será da justiça federal a competência para processar e julgar a ação penal.
+ALT: C E - - Certo Errado
+TEMA: 4702 | Direito Penal - Legislação Especial > 1 > Lavagem de Dinheiro
+EXTRAS: 6723
+
+### Q0202 | conf=4
+ENUN: Tício e Mévio são amigos, desde a infância. Enquanto Tício tem facilidade para se relacionar, Mévio é tímido, nunca tendo se relacionado. No aniversário de Mévio, Tício decide contratar uma profissional do sexo. Contudo, ele pede para a moça não contar nada ao amigo e, simula um encontro fortuito, dos dois, em um bar. O plano de Tício dá certo. Mévio e a moça contratada passam a noite juntos, no quarto de um flat, onde ela disse residir. Pela manhã, contudo, Mévio é acordado, por policiais, em uma operação de combate à exploração sexual de criança e adolescente, sendo acusado de manter relação sexual com menor de 18 anos, em situação de prostituição (art. 218, B, parágrafo 2º, inciso I, do CP), já que a moça conta com apenas 17 anos de idade.
+ALT: A : A conduta de Mévio é atípica, vez que o ato de manter relação sexual com pessoa em situação de prostituição, adulta ou menor, não é punível. B : A conduta de Mévio é atípica, vez que o ato de manter relação sexual com pessoa em situação de prostituição somente é punível, se a vítima for menor de 14 anos. C : A conduta de Mévio é atípica, vez que ele desconhecia a condição de prostituição e, sobretudo, menoridade da vítima. D : A conduta de Mévio, embora típica, em razão do desconhecimento da condição de prostituição e menoridade, é punida a título de culpa. E : A conduta de Mévio é atípica, vez desconhecer a condição de prostituição e menoridade da vítima, mas Tício, que a contratou, incorreu no crime do artigo 218-B, caput, do CP.
+TEMA: 5224 | Penal > 2 > Erro de Tipo
+EXTRAS: 5109
+
+### Q0322 | conf=4
+ENUN: Delegado Mário foi denunciado pelo delito de abuso de autoridade, tendo em vista a prática de conduta que se enquadra na seguinte descrição típica: “deixar injustificadamente de comunicar prisão em flagrante à autoridade judiciária no prazo legal.” O Magistrado competente para a análise da inicial acusatória entendeu por bem rejeitá-la. Inconformado, o Ministério Público resolve recorrer de tal decisão.
+ALT: A : Apelação, no prazo de 5 dias. B : Apelação, no prazo de 10 dias. C : Recurso em Sentido Estrito, no prazo de 20 dias. D : Recurso em Sentido Estrito, no prazo de 2 dias. E : Recurso em Sentido Estrito, no prazo de 5 dias.
+TEMA: 5561 | Processo Penal > 2 > Recurso em sentido estrito (RESE)
+EXTRAS: 5531
+
+### Q0095 | conf=4
+ENUN: Júpiter está arrumando a ligação elétrica de sua casa, com ajuda de Jano, seu amigo, que lhe segura a escada. Deixando de observar um dever objetivo de cuidado, Júpiter faz uma ligação equivocada e recebe uma alta descarga de energia, sofrendo inutilização permanente de membro. No mesmo incidente, Jano sofre uma lesão corporal leve. Em outro cenário, Saturno, pai dedicado e amoroso, está dando banho em seu filho, Nemestrino. Imprudentemente, Saturno deixa Nemestrino cair no chão, o que causa a morte imediata do bebê.
+ALT: A : aplica-se ao primeiro caso e depende de concordância da mãe de Nemestrino para aplicação ao segundo. B : aplica-se ao segundo caso, mas não ao primeiro. C : não se aplica a nenhum dos casos. D : aplica-se a ambos os casos. E : aplica-se ao primeiro caso, mas não ao segundo.
+TEMA: 5197 | Penal > 2 > Perdão Judicial
+EXTRAS: 
+
+### Q0122 | conf=4
+ENUN: A remição
+ALT: A : pelo trabalho é contada à razão de um dia de pena a cada doze horas trabalhadas e a remição pelo estudo à razão de um dia de pena a cada três dias estudados. B : pelo trabalho não pode ser acumulada com a remição pelo estudo. C : pelo estudo é acrescida de um terço se o sentenciado concluir o ensino fundamental, médio ou superior durante o cumprimento de pena. D : pelo estudo é vedada no regime aberto, pois é uma obrigação do sentenciado. E : poderá ser perdida em sua totalidade em caso de condenação por falta disciplinar de natureza grave que seja equiparável a crime hediondo.
+TEMA: 4703 | Direito Penal - Legislação Especial > 1 > Lei de Execução Penal
+EXTRAS: 6734
+
+### Q0170 | conf=4
+ENUN: Em 2024, Guilherme, Américo, Lucas, Rogério e Vladimir praticaram um crime. De acordo com as informações de antecedentes criminais fornecidas a seguir, assinale a opção que indica qual deles é tecnicamente primário (não reincidente).
+ALT: A : Guilherme, enquanto policial militar, foi definitivamente condenado por corrupção passiva prevista no Código Penal Militar e terminou de cumprir a pena no ano de 2023. B : Américo, na condição de ocupante de cargo político, praticou crime de peculato, tendo sido definitivamente condenado em 2023, sendo que ainda não terminou de cumprir as penas restritivas de direito que lhe foram impostas. C : Lucas foi definitivamente condenado em 2015, tendo sua pena sido extinta em 2020, pela concessão de indulto pleno. Em 2022, Lucas obteve sua reabilitação. D : Rogério foi definitivamente condenado em 2023, mas, após o trânsito em julgado de sua condenação, o Juiz reconheceu a ocorrência da prescrição da pretensão punitiva, na modalidade retroativa. E : Vladimir foi definitivamente condenado na Espanha, por tráfico de drogas, a uma pena de 6 anos de reclusão, fato ocorrido em 2017 e transitado em julgado em 2018; porém, ainda não cumpriu a pena porque logrou se evadir para o Brasil.
+TEMA: 5203 | Penal > 2 > Segunda Fase da Dosimetria: Agravantes e Atenuantes
+EXTRAS: 
+
+### Q0055 | conf=4
+ENUN: No que tange à oitiva das testemunhas arroladas pela acusação em audiência de instrução e julgamento, na forma do Art. 212 do Código de Processo Penal, é correto afirmar que:
+ALT: A : a nulidade pela alteração da ordem de inquirição deve indicar o prejuízo gerado; B : é possível ao juiz formular perguntas de forma detalhada, após as partes; C : a ordem de inquirição pode ser alterada no caso de ausência momentânea de uma das partes; D : havendo atuação comedida, o juiz pode iniciar a inquirição da testemunha; E : o juiz pode intervir, a qualquer momento, diante de ilegalidade na condução do depoimento.
+TEMA: 5550 | Processo Penal > 2 > Prova Testemunhal
+EXTRAS: 5535
+
+### Q0224 | conf=4
+ENUN: Em ação penal na qual se imputa ao réu a prática do crime de roubo, na modalidade tentada, constam de sua Folha de Antecedentes Criminais as seguintes anotações, devidamente esclarecidas por certidões cartorárias: 1. condenação transitada em julgado, por crime de ameaça, à pena de multa, cumprida 3 anos e 8 meses antes da prática do crime objeto do processo 2. condenação transitada em julgado, por contravenção penal de exercício ilegal de profissão ou atividade, à pena de prestação pecuniária, cumprida 2 anos e 9 meses antes da prática do crime objeto do processo.
+ALT: A : ambas as anotações geram reincidência, sendo possível a concessão de suspensão condicional da pena privativa de liberdade aplicada, caso esta não supere os 2 anos e sejam favoráveis ao réu as circunstâncias judiciais; B : ambas as anotações geram reincidência, não sendo possível a concessão de suspensão condicional da pena privativa de liberdade aplicada, mesmo que esta não supere os 2 anos e sejam favoráveis ao réu as circunstâncias judiciais; C : somente a anotação número 1 gera reincidência, sendo possível a concessão de suspensão condicional da pena privativa de liberdade aplicada, caso esta não supere os 2 anos e sejam favoráveis ao réu as circunstâncias judiciais; D : somente a anotação número 1 gera reincidência, não sendo possível a concessão de suspensão condicional da pena privativa de liberdade aplicada, mesmo que esta não supere os 2 anos e sejam favoráveis ao réu as circunstâncias judiciais; E : nenhuma das anotações gera reincidência, sendo possível a concessão de suspensão condicional da pena privativa de liberdade aplicada, caso esta não supere os 2 anos e sejam favoráveis ao réu as circunstâncias judiciais.
+TEMA: 5203 | Penal > 2 > Segunda Fase da Dosimetria: Agravantes e Atenuantes
+EXTRAS: 5207
+
+### Q0018 | conf=4
+ENUN: Marque “C” para certo e “E” para errado na assertiva abaixo. São considerados casos de exclusão de competência dos Juizados Especiais Criminais a conexão, não localização do acusado e a complexidade da ocorrência ou circunstância diversa que não permita o imediato oferecimento da denúncia, como perícias complexas e amplas diligências para a identificação do autor.
+ALT: C E - - Certo Errado
+TEMA: 5540 | Processo Penal > 2 > Competência dos Juizados Especiais Criminais
+EXTRAS: 
+
+### Q0308 | conf=4
+ENUN: Inquérito policial arquivado pelo Ministério Público por ausência de elementos suficientes de informação importa
+ALT: A : coisa julgada material. B : ilegitimidade ad causam. C : ilegitimidade ad processum. D : ausência de justa causa processual em sentido estrito. E : prescrição da pretensão punitiva estatal.
+TEMA: 5501 | Processo Penal > 2 > Conclusão e Arquivamento do Inquérito Policial
+EXTRAS: 
+
+### Q0350 | conf=4
+ENUN: Assinale a opção correta acerca dos crimes de lavagem ou ocultação de bens, direitos e valores.
+ALT: A - Em razão do fenômeno da consunção, não é possível a...
+TEMA: 4702 | Direito Penal - Legislação Especial > 1 > Lavagem de Dinheiro
+EXTRAS: 6723
+
+### Q0119 | conf=4
+ENUN: Considere que um indivíduo está sendo processado por um determinado crime. Lei posterior ao fato criminoso deixa de considerá-lo crime. Para que a nova lei beneficie o acusado,
+ALT: A : é necessário que ela entre em vigor antes do oferecimento da denúncia. B : basta que ela entre em vigor a qualquer tempo, mesmo após o trânsito em julgado da decisão condenatória. C : é necessário que ela entre em vigor antes do recebimento da denúncia. D : é necessário que ela entre em vigor antes de proferida a sentença de primeiro grau. E : é necessário que ela entre em vigor antes do trânsito em julgado.
+TEMA: 5194 | Penal > 2 > Abolitio Criminis
+EXTRAS: 5181
+
+### Q0052 | conf=4
+ENUN: Uma pessoa presa em regime fechado, definitivamente condenada, prestou 300 dias de trabalho prisional intra muros, bem como, simultaneamente, teve frequência escolar de 200 horas, concluindo atividade de ensino médio ao longo do cumprimento da pena. Cada 12 (doze) horas foram divididas em 3 (três) dias de estudo. Esse indivíduo I. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 3 (três) dias de trabalho. II. tem direito à remição de pena, à razão de 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar. III. tem direito à remição de pena, com o acréscimo de 1/3 (um terço) de toda a remição conquistada durante o cumprimento da pena devido à conclusão do ensino médio. IV. em caso da prática de falta grave, obrigatoriamente, perderá 1/3 (um terço) da remição conquistada, recomeçando a contagem a partir da data da infração disciplinar.
+ALT: A : II, III e IV. B : I e III. C : I e II. D : III e IV. E : I, II e IV.
+TEMA: 4703 | Direito Penal - Legislação Especial > 1 > Lei de Execução Penal
+EXTRAS: 6734
+
+### Q0358 | conf=4
+ENUN: Julgue o próximo item, considerando a Lei de Acesso à Informação, o Marco Civil da Internet e os demais instrumentos normativos que regulam a publicidade e a segurança de redes de comunicação no Brasil. É tipificada como crime, de acordo com a Lei de delitos informáticos, a invasão de dispositivo informático alheio mediante violação de mecanismo de segurança, previstos agravantes para casos de obtenção de dados sigilosos e divulgação ou comercialização desses dados.
+ALT: C E - - Certo Errado
+TEMA: 5133 | Penal > 2 > Dos Crimes contra a Inviolabilidade do Domicílio, Contra a Inviolabilidade da Correspondência e Contra a Inviolabilidade dos Segredos
+EXTRAS: 
+
+### Q0326 | conf=4
+ENUN: Constitui crime previsto na lei de drogas
+ALT: A : fornecer, desde que onerosamente, maquinário, aparelho, instrumento ou qualquer outro objeto destinado à fabricação, preparação, produção ou transformação de drogas, sem autorização ou em desacordo com determinação legal ou regulamentar. B : oferecer droga, desde que em caráter habitual e ainda que sem objetivo de lucro, a pessoa de seu relacionamento, para juntos consumirem. C : prescrever ou ministrar, culposamente, drogas, sem que delas necessite o paciente, ou fazê-lo em doses excessivas ou em desacordo com determinação legal ou regulamentar. D : conduzir embarcação ou aeronave após o consumo de drogas, ainda que sem exposição a dano potencial a incolumidade de outrem. E : consentir que outrem se utilize de local de que tem a propriedade para o tráfico ilícito de drogas, desde que o faça onerosamente.
+TEMA: 4708 | Direito Penal - Legislação Especial > 1 > Tráfico de Drogas
+EXTRAS: 6728
+

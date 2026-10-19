@@ -1,0 +1,168 @@
+﻿### Q0023 | tag=SEM_MAPA
+ORIGEM: Procedimento do Júri
+PREVISTO: 5526 - Procedimento Bifásico do Tribunal do Júri
+ENUNCIADO:
+Sobre o Tribunal do Júri, é INCORRETO afirmar:
+
+ALTERNATIVAS:
+(A) Seu procedimento desdobra-se em juízo da acusação, que analisa a admissibilidade da pretensão punitiva, e juízo da causa, que diz respeito ao mérito da acusação.
+(B) Se o acusado houver permanecido preso durante a instrução criminal, a pronúncia do juiz importará em automática manutenção da cautela extrema, sendo, por outro lado, necessária a motivação do decreto de prisão na hipótese de o pronunciado encontrar-se solto.
+(C) A decisão de impronúncia não faz coisa julgada formal e material.
+(D) Se o advogado do acusado, regularmente intimado, não comparecer à sessão de julgamento, e não houver escusa legítima, o julgamento será adiado uma única vez, cabendo ao juiz-presidente intimar a Defensoria Pública para o novo julgamento.
+(E) Nos termos da lei, o sistema de colheita de depoimentos em plenário é, para as partes, o do exame direto e cruzado, ao passo que, para os jurados, o sistema é o indireto, ou presidencialista.
+
+### Q0258 | tag=SEM_MAPA
+ORIGEM: Procedimento do Júri
+PREVISTO: 5545 - Exame de Corpo de Delito
+ENUNCIADO:
+O exame de corpo de delito
+
+ALTERNATIVAS:
+(A) deve ser realizado por perito oficial ou pelo próprio juiz.
+(B) deve ser realizado quando se mostrar ausente vestígio do crime, assegurado o direito de apresentação de quesitos pelas partes.
+(C) será feito de maneira indireta no caso de competência do Tribunal do Júri.
+(D) poderá ser substituído pela acareação ou pelo reconhecimento em crimes contra a fé pública.
+(E) será realizado com prioridade em caso de violência doméstica e familiar contra a mulher.
+
+COMANDO (auxiliar, pode nao corresponder ao item):
+Explique o que é o exame de corpo de delito.
+
+### Q0289 | tag=SEM_MAPA
+ORIGEM: 
+PREVISTO: 4704 - Lei Maria da Penha
+ENUNCIADO:
+“A Lei nº 11.340/2006 aporta em nosso ordenamento jurídico em resposta às graves violações de direitos sofridas pelas mulheres em situação de violência doméstica, às flagrantes desigualdades de gênero e à proteção ineficaz e incompleta dos instrumentos legais existentes anteriormente à edição deste diploma normativo. Neste enorme espaço de vácuo legislativo, a introdução da lei em questão significou verdadeira revolução em matéria de defesa dos direitos das mulheres, quebrando os paradigmas antes existentes, inserindo novos institutos e instaurando um modelo protetivo inteiramente inédito no ordenamento jurídico brasileiro” (STJ, REsp nº 2.070.863/MG, relator: Ministro Joel Ilan Paciornik, relator para acórdão: Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 13.11.2024, DJEN de 25.03.2025).
+
+De acordo com os aspectos processuais penais da violência doméstica e familiar contra a mulher, assinale a alternativa correta.
+
+ALTERNATIVAS:
+(A) O STJ, por meio da Terceira Seção, fixou a tese quanto ao Tema Repetitivo nº 1.186, de que: 1. a condição de gênero feminino é insuficiente para atrair a aplicabilidade da Lei Maria da Penha em casos de violência doméstica e familiar, prevalecendo sobre a questão etária. 2. a Lei Maria da Penha prevalece quando suas disposições conflitarem com as de estatutos específicos, como o da Criança e do Adolescente.
+(B) Nos casos de violência contra a mulher praticados no âmbito doméstico e familiar, é possível a fixação de valor mínimo indenizatório a título de dano moral, independentemente de pedido expresso da acusação ou da parte ofendida e de instrução probatória, segundo tese firmada quando do Tema Repetitivo nº 983, pelo STJ.
+(C) Nos termos da Lei nº 11.340/2006, o nome da ofendida ficará sob sigilo nos processos em qu [...]
+
+### Q0047 | tag=SEM_MAPA
+ORIGEM: Lesão Corporal
+PREVISTO: 5164 - Dano
+ENUNCIADO:
+Durante um pacífico protesto realizado no interior do Município Alfa, Caio, destoando do público presente e agindo com dolo, lançou uma pedra em direção ao pequeno estabelecimento comercial de João, gerando, em razão dos bens móveis destruídos, prejuízo considerável para a vítima.
+
+Na sequência, Caio jogou diversos paralelepípedos contra a sede da municipalidade, deteriorando o bem público.
+
+Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que Caio responderá, em concurso, pelos crimes de
+
+ALTERNATIVAS:
+(A) dano qualificado em detrimento de João e dano qualificado
+por ter deteriorado bem público, hipóteses em que se procede
+mediante ação penal pública incondicionada.
+(B) dano qualificado em detrimento de João, hipótese em que
+somente se procede mediante representação do ofendido, e
+dano qualificado por ter deteriorado bem público.
+(C) dano simples em detrimento de João e dano simples por ter
+deteriorado bem público, hipóteses em que se procede
+mediante ação penal pública incondicionada.
+(D) dano qualificado em detrimento de João, hipótese em que
+somente se procede mediante queixa, e dano qualificado por
+ter deteriorado bem público.
+(E) dano simples em detrimento de João, hipótese em que
+somente se procede mediante queixa, e dano qualificado por
+ter deteriorado bem público.
+
+COMANDO (auxiliar, pode nao corresponder ao item):
+Assinale a alternativa correta.
+
+### Q0203 | tag=SEM_MAPA
+ORIGEM: 
+PREVISTO: 4702 - Lavagem de Dinheiro
+ENUNCIADO:
+Julgue o item a seguir com base na Lei n.º 9.613/1998, que dispõe sobre lavagem de dinheiro.
+
+Havendo indícios suficientes de infração penal, é admissível a indisponibilidade de bens, direitos e valores registrados em nome de interpostas pessoas, físicas ou jurídicas, cuja existência indicar que o acusado por crime de lavagem de dinheiro é o seu verdadeiro titular.
+
+FORMATO: item para julgar como Certo ou Errado.
+
+### Q0035 | tag=SEM_MAPA
+ORIGEM: 
+PREVISTO: 4706 - Terrorismo
+ENUNCIADO:
+Nos termos da Lei no 13.260/2016 (Lei Antiterrorismo), assinale a alternativa correta.
+
+ALTERNATIVAS:
+(A) Os crimes previstos na referida Lei são praticados contra o interesse da União, cabendo à Polícia Federal a investigação criminal, em sede de inquérito policial.
+(B) Aquele que for flagrado constituindo uma organização terrorista, não cometerá um crime, estando sujeito a responsabilização por realizar atos preparatórios do terrorismo.
+(C) O terrorismo consistirá sempre na prática por mais de um indivíduo de atos criminosos por razões de xenofobia, discriminação ou preconceito de raça, cor, etnia e religião, quando cometidos com a finalidade de provocar terror social ou generalizado.
+(D) São atos de terrorismo incendiar, depredar, saquear, destruir ou explodir meios de transporte ou qualquer bem público ou privado.
+(E) São atos de terrorismo incendiar, interferir, sabotar ou danificar sistemas de informática ou bancos de dados, quando cometidos com a finalidade de provocar terror social ou generalizado.
+
+### Q0294 | tag=SEM_MAPA
+ORIGEM: Culpabilidade
+PREVISTO: 5212 - Conceito e Elementos da Culpabilidade
+ENUNCIADO:
+A respeito da culpabilidade, assinale a opção correta.
+
+ALTERNATIVAS:
+(A) Para haver exclusão ou diminuição da culpabilidade, a perda ou redução da capacidade de entendimento do caráter ilícito do fato causada pelo uso de entorpecente não deve decorrer necessariamente de caso fortuito ou força maior, visto que a dependência química, por si só, afasta ou reduz a responsabilização penal.
+(B) Segundo a jurisprudência do STJ, no delito de omissão de recolhimento de contribuição previdenciária, a impossibilidade de repasse das contribuições previdenciárias em decorrência de crise financeira da empresa não constitui, nem sequer em tese, causa supralegal de exclusão da culpabilidade (inexigibilidade de conduta diversa)
+(C) Conforme a teoria normativa pura, a culpabilidade não se exaure na relação de desconformidade substancial entre ação e ordenamento jurídico, mas fundamenta a reprovação pessoal contra o autor, no sentido de este não ter omitido a ação antijurídica quando ainda podia.
+(D) De acordo com a teoria limitada da culpabilidade, não se faz distinção entre erro de tipo (o que recai sobre a situação de fato) e erro de proibição (o que recai sobre os limites autorizadores da norma), sendo todas essas situações consideradas erro de proibição.
+(E) Nas correntes preventivas da culpabilidade, a teoria da motivação normativa tem como característica básica fundar a culpabilidade na liberdade de autodeterminação, excluída a capacidade de motivação normativa do sujeito.
+
+### Q0154 | tag=SEM_MAPA
+ORIGEM: Legislação Penal Especial
+PREVISTO: 5135 - Dos Crimes Contra a Organização do Trabalho
+ENUNCIADO:
+A Lei no 9.029/95, que define práticas discriminatórias relativas à gravidez no trabalho, expressamente considera crime:
+
+ALTERNATIVAS:
+(A) discriminação salarial de grávida.
+(B) exigência de teste relativo à esterilização ou a estado
+de gravidez.
+(C) estabelecimento de jornada de trabalho superior a
+8h para grávida a partir da 20a
+semana de gestação.
+(D) exposição da grávida a trabalhos braçais excessivos.
+(E) vedação ao gozo da licença maternidade.
+
+COMANDO (auxiliar, pode nao corresponder ao item):
+Complete a frase ou responda o que a lei considera crime em relação à gravidez no trabalho.
+
+### Q0191 | tag=SEM_MAPA
+ORIGEM: Procedimento Ordinário e Sumário (Parte 02)
+PREVISTO: 5567 - Carta Testemunhavel
+ENUNCIADO:
+Considere as seguintes afirmações a respeito dos recursos no Código de Processo Penal:
+
+I. Recurso de caráter subsidiário, cabível de decisão que denegar recurso.
+
+II. Recurso pelo qual se procede ao reexame da decisão do juiz, nas matérias especificadas em lei, permitindo-se-lhe novo pronunciamento antes do julgamento pela instância superior.
+
+ALTERNATIVAS:
+(A) agravo e reclamação.
+(B) reclamação e correição parcial.
+(C) recurso em sentido estrito e apelação.
+(D) carta testemunhável e recurso em sentido estrito.
+(E) embargos e correição parcial.
+
+COMANDO (auxiliar, pode nao corresponder ao item):
+Estas afirmações referem-se, respectivamente, a
+
+### Q0082 | tag=SEM_MAPA
+ORIGEM: Lesão Corporal
+PREVISTO: 5100 - Resistência, Desobediência e Desacato
+ENUNCIADO:
+João e Cléber, policiais militares do estado de Santa Catarina, receberam denúncia anônima no sentido de que Tício estaria agredindo a sua companheira. Em assim sendo, os agentes públicos compareceram ao local dos fatos e constataram, in loco, a violência perpetrada contra a mulher. Nesse contexto, durante a contenção de Tício, este se opôs à execução do ato afirmando que mataria João caso não fosse solto. Passados trinta minutos, o indivíduo foi acalmado pelos policiais e encaminhado à Delegacia de Polícia.
+
+ALTERNATIVAS:
+(A) excesso de exação, além da responsabilização pela infração
+penal perpetrada contra a sua companheira;
+(B) desobediência, além da responsabilização pela infração penal
+perpetrada contra a sua companheira;
+(C) tergiversação, além da responsabilização pela infração penal
+perpetrada contra a sua companheira;
+(D) resistência, além da responsabilização pela infração penal
+perpetrada contra a sua companheira;
+(E) concussão, além da responsabilização pela infração penal
+perpetrada contra a sua companheira.
+
+COMANDO (auxiliar, pode nao corresponder ao item):
+Nesse cenário, considerando as disposições do Código Penal, Tício responderá pelo crime de:
+

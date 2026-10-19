@@ -1,0 +1,29 @@
+﻿=== PREVISAO - CLASSIFICACAO DE TOPICOS (N = 359) ===
+
+1) DISTRIBUICAO DAS DECISOES
+   publicar: 87 (24,2%) | revisar: 271 (75,5%) | fora: 1 (0,3%)
+
+2) PRECISAO EM 'PUBLICAR' (regua >= 95%)
+   Estimativa pontual: 98,39% (61/62 auditadas certas)
+   Intervalo 95%: [95,40% ; 98,85%]
+   Metodo: teste exato hipergeometrico 1-lado (N=87, n=62, x=1 erro, alfa=0,05).
+     P(X<=1 | K=4) = 0,0697 -> nao rejeitado | P(X<=1 | K=5) = 0,0227 -> rejeitado
+     => no maximo 4 erros em 87 => precisao >= 83/87 = 95,40%.
+   Teto: 86/87 = 98,85% (assume as 25 nao auditadas corretas).
+   Referencia conservadora (pop. infinita): Wilson 95% [91,41% ; 99,71%].
+   Por que o hipergeometrico: a amostra cobre 71% da populacao (n/N); Wilson e
+   Clopper-Pearson ignoram a correcao de populacao finita e superestimam a incerteza.
+   => REGUA ATENDIDA com 95% de confianca.
+
+3) COBERTURA
+   Bruta (publicar / total): 87/359 = 24,23% (exata).
+   Util (publicar / questoes da arvore): [24,23% ; 24,30%]
+     (limites = o unico 'fora' errado ou certo; incerteza desprezivel).
+
+4) JUSTIFICATIVA SEM GABARITO
+   - Auditoria juridica manual de 62 das 87 'publicar' (criterio do edital:
+     no exato/pai/filho = acerto; irmao = erro).
+   - Gating conservador: so publica com concordancia e confianca altas; o
+     resto vai para revisao. Troca deliberada de cobertura por precisao.
+   - Risco residual: vies do auditor (unico avaliador); mitigado pelo uso do
+     criterio objetivo da arvore e pela revisao das 25 pendentes.

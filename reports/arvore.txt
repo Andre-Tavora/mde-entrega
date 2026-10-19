@@ -1,0 +1,18 @@
+﻿Listagem de caminhos de pasta
+O n·mero de sÚrie do volume Ú A0FD-EA36
+C:\USERS\ANDR╔ TAVORA\DESKTOP\CASE IA\CASE_CARLOSANDRE\MDE-ENTREGA\SRC
++---data
+ª       clean_questions.py
+ª       gating.py
+ª       parse_taxonomia.py
+ª       profile_data.py
+ª       
++---pipeline
+    ª   02_classificacao_llm.py
+    ª   gating.py
+    ª   listar_modelos.py
+    ª   schema.py
+    ª   
+    +---__pycache__
+            schema.cpython-314.pyc
+            
