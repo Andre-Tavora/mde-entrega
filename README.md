@@ -12,7 +12,7 @@ Classifica 359 questões de concurso (Penal, Processo Penal, Legislação Especi
 | Revisar | 277 | |
 | Fora | 1 | |
 
-- **Precisão em publicar:** 80 corretas em 80 auditadas manualmente. Wilson 95%: 100,0% a 100,0%.
+- **Precisão em publicar:** 81/81 auditadas corretas; limite inferior Wilson IC95% = **95,5%** (≥ 95%).
 - **Critério de acerto:** nó exato, pai ou filho = acerto; subtema irmão = erro; nível 0 (só a disciplina) = erro.
 
 ## Como funciona
