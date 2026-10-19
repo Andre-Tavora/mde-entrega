@@ -4,3 +4,6 @@ __pycache__/
 .env
 *.env
 !.env.example
+dump_enxuto.txt
+dump_projeto.txt
+_obsoletos/

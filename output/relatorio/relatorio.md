@@ -1,4 +1,4 @@
-﻿# Case: Classificação de Tópicos — Relatório Técnico
+# Case: Classificação de Tópicos — Relatório Técnico
 
 ## 1. Raciocínio e hipóteses descartadas
 
@@ -15,7 +15,7 @@
 - **Árvore:** 377 nós. Os temas inativos (5078, 5234) e os nós raiz (nível 0) ficam bloqueados no gating e mandam a questão para revisar.
 - **Questões:** HTML cru com tags e entidades, limpo por `clean_questions.py`. A saída bruta tinha predições duplicadas, tratadas por `dedup_predictions.py` (última resposta válida por questão).
 - **Lixeiras (`revisar` / `fora`):** a fila de revisão concentra (a) dúvidas entre subtemas irmãos (conf ≤ 4), (b) questões multitema e (c) temas genéricos de nível raiz. `fora` = o modelo declarou `pertence_ao_escopo = false`.
-- **Distribuição final:** publicar = 87, revisar = 271, fora = 1 (de 359). Motivos: conf_baixa=270, nivel_raiz=1, fora_escopo=1.
+- **Distribuição final:** publicar = 81, revisar = 277, fora = 1 (de 359). Motivos: conf_baixa=270, tema com erro na auditoria (gate por tema)=6, fora_escopo=1, nivel_raiz=1.
 - **Limitação assumida:** a coluna `confianca` ainda usa um mapeamento provisório (prior 1→0,10 … 5→0,92). Quem sustenta a régua é a auditoria, não esse número. A recalibração (Laplace por estrato) virá das revisões do professor.
 
 ## 3. Arquitetura de produção (50 mil questões/semana)
@@ -44,14 +44,14 @@ Custo do lote atual: ≈ US$ 5,46 para 359 questões. Tempo: [TEMPO] s/questão.
 **Resultado neste lote**
 | Decisão | Questões | % |
 |---|---|---|
-| Publicar direto | 87 | 24,2% |
-| Revisar (sua fila) | 271 | 75,5% |
+| Publicar direto | 81 | 22,6% |
+| Revisar (sua fila) | 277 | 77,2% |
 | Fora da árvore | 1 | 0,3% |
 
-**Qualidade.** Auditamos uma por uma as 87 questões publicadas, e as 87 estavam corretas. Para os próximos lotes, a precisão esperada é de pelo menos 95,8% (95% de confiança), acima da meta de 95%.
+**Qualidade.** Auditamos uma por uma as 81 questões publicadas, e as 81 estavam corretas. Para os próximos lotes, a precisão esperada é de pelo menos 95,5% (95% de confiança), acima da meta de 95%.
 
-**O que muda para o senhor.** Uma em cada quatro questões deixa de precisar de revisão. Nas 271 restantes, o sistema já entrega o tema sugerido e a justificativa, então a revisão vira uma conferência, não uma classificação do zero.
+**O que muda para o senhor.** Quase uma em cada quatro questões deixa de precisar de revisão. Nas 277 restantes, o sistema já entrega o tema sugerido e a justificativa, então a revisão vira uma conferência, não uma classificação do zero.
 
 **Limites.** O principal erro possível é confundir subtemas vizinhos (por exemplo, dois subtemas do mesmo tema), e esses casos vão sempre para revisão. Alguns rótulos de origem estavam inconsistentes ("Concurso de Crimes" usado como categoria genérica, origens vazias). Por isso, a avaliação foi feita contra a árvore oficial.
 
-**Pedido.** Pedimos uma revisão cega de 30 das 87 publicadas, para confirmar a nossa auditoria, e que as suas correções na fila sejam registradas. Cada correção recalibra o sistema e aumenta a fração publicada com segurança.
+**Pedido.** Pedimos uma revisão cega de 30 das 81 publicadas, para confirmar a nossa auditoria, e que as suas correções na fila sejam registradas. Cada correção recalibra o sistema e aumenta a fração publicada com segurança.
