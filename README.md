@@ -74,3 +74,5 @@ Os demais scripts em `scripts/` e `src/pipeline/` (prefixos `00_` e `03a`–`03m
 ## Segurança
 
 Chave da API apenas em variável de ambiente / `.env` (no `.gitignore`). Dados originais fora do Git. O texto da questão é tratado como dado, não instrução (defesa contra prompt injection).
+### Sobre a coluna `confianca`
+Para `publicar` e `fora`, `confianca` = **precisão calibrada do grupo** (0,96), estimada pela auditoria 81/81 (limite inferior de Wilson 95% >= 95,5%). Não é score individual do modelo. Para `revisar`, é o score bruto do classificador (0,30 a 0,96). As 6 questões com 0,96 em `revisar` foram barradas pelo gate por tema (tema com erro na auditoria), não por confiança baixa.

@@ -55,3 +55,6 @@ Custo do lote atual: ≈ US$ 5,46 para 359 questões. Tempo: [TEMPO] s/questão.
 **Limites.** O principal erro possível é confundir subtemas vizinhos (por exemplo, dois subtemas do mesmo tema), e esses casos vão sempre para revisão. Alguns rótulos de origem estavam inconsistentes ("Concurso de Crimes" usado como categoria genérica, origens vazias). Por isso, a avaliação foi feita contra a árvore oficial.
 
 **Pedido.** Pedimos uma revisão cega de 30 das 81 publicadas, para confirmar a nossa auditoria, e que as suas correções na fila sejam registradas. Cada correção recalibra o sistema e aumenta a fração publicada com segurança.
+
+### Sobre a coluna `confianca`
+Para `publicar` e `fora`, `confianca` = **precisão calibrada do grupo** (0,96), estimada pela auditoria 81/81 (limite inferior de Wilson 95% >= 95,5%). Não é score individual do modelo. Para `revisar`, é o score bruto do classificador (0,30 a 0,96). As 6 questões com 0,96 em `revisar` foram barradas pelo gate por tema (tema com erro na auditoria), não por confiança baixa.
